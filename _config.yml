@@ -13,6 +13,7 @@ allowgoogleanalytics: true
 
 disqus_shortname:
 google_analytics:
+google_tag: G-B9BM2328YD
 
 share:
   twitter_username: WanderingSpace1
