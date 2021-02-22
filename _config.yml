@@ -2,11 +2,11 @@ title: A blog drifting through emptiness
 description: This little piece of digital space is my thoughts' harbor
 author: WST
 email: wanderingspacetraveler@gmail.com
-logo: /static/img/milky-way.png
+logo: /nonexistence/static/img/milky-way.png
 about: Wandering Space Thinker
 
-baseurl: ""
-url: ""
+baseurl: "/nonexistence"
+url: "https://wanderingspacethinker.github.io"
 
 allowsearch: false
 allowgoogleanalytics: true
