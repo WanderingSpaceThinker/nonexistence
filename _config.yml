@@ -8,7 +8,7 @@ about: Wandering Space Thinker
 baseurl: "/nonexistence"
 url: "https://wanderingspacethinker.github.io"
 
-allowsearch: false
+allowsearch: true
 allowgoogleanalytics: true
 
 disqus_shortname:
@@ -18,13 +18,7 @@ share:
   twitter_username: WanderingSpace1
   fb_appid: 000000000000
 
-
-enableTags: true
-tagarray: []
-
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+paginate: 5
 markdown: kramdown
 plugins:
   - jekyll-sitemap
