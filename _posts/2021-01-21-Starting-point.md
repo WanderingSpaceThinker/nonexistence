@@ -3,6 +3,7 @@ layout: post
 title: "Starting Point"
 date:   2021-01-21
 categories: thoughts
+icon: "fas fa-seedling"
 ---
 
 *Before we begin, please check the [disclaimer]({{site.baseurl}}/others/2021/01/21/Disclaimer.html)... Done already ? Alright, let's dive in.*

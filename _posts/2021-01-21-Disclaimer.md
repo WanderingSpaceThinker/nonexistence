@@ -3,6 +3,7 @@ layout: post
 title: "Disclaimer"
 date:   2021-01-21
 categories: others
+icon: "fas fa-exclamation-triangle"
 ---
 
 This website is a place to store things I want to write about or ideas I had observing the world around me and eventually share it to the two people that might wander here by accident.
