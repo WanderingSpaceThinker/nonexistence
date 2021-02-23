@@ -5,7 +5,9 @@
       <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
       <script type="text/javascript">window.baseurl = '{{ site.url }}{{ site.baseurl }}';</script>
       {% include css.html %}
+    {% if site.allowgoogleanalytics ==  true %}
       {% include analytics.html %}
+    {% endif %}
   </head>
 
   <body class="home overflow-hidden">
