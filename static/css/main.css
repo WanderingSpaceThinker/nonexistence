@@ -256,3 +256,18 @@ input, textarea {
     padding: 0.6em 0.9em;
     transition: all 0.3s ease-in-out;
 }
+
+/** Custom **/
+.content img {
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.legend {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    font-style: italic;
+}

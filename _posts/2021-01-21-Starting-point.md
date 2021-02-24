@@ -38,19 +38,27 @@ On the other side, you can also produce results but you need to be lucky. It's a
 
 What about theories, ideas or rules for which we cannot get data to prove or disprove, either because we don't know how or we don't have the capabilities (now or ever)? This is a big blind spot for this definition of pragmatism, so let me amend my first "universe value" that we will now call **Extreme Pragmatism** (explosions in the background).
 
+![explosion]({{ site.baseurl }}/static/posts_img/expl_prag.gif)
+<p class="legend">Epileptic beware.</p>
+
+Here's the updated definition:
+
 <blockquote><h4>"the quality of dealing with a problem in a sensible way that suits the conditions that really exist, rather than following fixed theories, ideas, or rules <b>and ignore all problems for which it cannot be applied</b>"</h4></blockquote>
 
 To clarify, it doesn't mean this kind of problem is to be discarded entirely, I understand why they can be interesting and important. Just that by essence, we can't get to the bottom of it and it feels like a *waste of time* (foreshadowing).
 
 So how would this value benefit society? Well, basing or updating a policy on actual results rather than belief has a better chance in solving a problem since the belief one would need to be, out of all possibilities, a valid one.
 
-That's not as easy as said though, it requires the way data is gathered and analyzed to be and stay relevant, meaning it should itself be subject to pragmatism making a beautiful, delicious, multi-layered pragmatism cake.
+That's not as easy as said though, it requires the way data is gathered and analyzed to be and stay relevant, meaning it should itself be subject to pragmatism making a beautiful, delicious, multi-layered pragmatism cake... I'll bake one later.
 
 To illustrate this I don't have a real life example because, to be honest, I haven't really looked and there's always an amount of politic, legacy or social consideration in policies anyway.
 
 I do have a counter-example though: [A Turkish head of state firm belief on interest rates](https://www.businessinsider.fr/us/turkish-lira-crisis-erdogan-interest-rates-2018-8). As you can read, his belief contradicted what economic history taught us about interest rates: when inflations goes up, they need to go up. His refusal to increase them seems to have worsened Turkey's inflation back then (It's still going as of writing but it might be history when you get to read this).
 
 The point is: it is bad on an individual level if a belief prevents them from making the good choice but when it's a person in charge of a company, a country it can be downright catastrophic and tragic since people dealing with the consequences often didn't take the decision themselves. This risk alone is, in my opinion, enough reason to push for pragmatism at every level of society.
+
+![cake]({{ site.baseurl }}/static/posts_img/pragmacake.jpg)
+<p class="legend">Oh, looks like the cake is ready!</p>
 
 That's it for the first value so let's continue. We live in a world where resources are limited, whether it's our time alive, natural resources or energy, everything have a finite limit. Even our sun and all the other stars will eventually shine one last time before eternal darkness. That is if they're not already dead and we don't know yet thanks to special relativity.
 
