@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Starting Point"
-date:   2021-01-21
+date:   2021-02-20
 categories: thoughts
 icon: "fas fa-seedling"
+images:
+ - image_path: /static/posts_img/expl_prag.gif
+ - image_path: /static/posts_img/pragmacake.jpg
+ - image_path: /static/posts_img/undercover_hippie.jpg
 ---
 
 *Before we begin, please check the [disclaimer]({{site.baseurl}}/others/2021/01/21/Disclaimer.html)... Done already ? Alright, let's dive in.*
@@ -38,7 +42,7 @@ On the other side, you can also produce results but you need to be lucky. It's a
 
 What about theories, ideas or rules for which we cannot get data to prove or disprove, either because we don't know how or we don't have the capabilities (now or ever)? This is a big blind spot for this definition of pragmatism, so let me amend my first "universe value" that we will now call **Extreme Pragmatism** (explosions in the background).
 
-![explosion]({{ site.baseurl }}/static/posts_img/expl_prag.gif)
+![explosion]({{ site.baseurl }}{{ page.images[0].image_path }})
 <p class="legend">Epileptic beware.</p>
 
 Here's the updated definition:
@@ -57,7 +61,7 @@ I do have a counter-example though: [A Turkish head of state firm belief on inte
 
 The point is: it is bad on an individual level if a belief prevents them from making the good choice but when it's a person in charge of a company, a country it can be downright catastrophic and tragic since people dealing with the consequences often didn't take the decision themselves. This risk alone is, in my opinion, enough reason to push for pragmatism at every level of society.
 
-![cake]({{ site.baseurl }}/static/posts_img/pragmacake.jpg)
+![cake]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">Oh, looks like the cake is ready!</p>
 
 That's it for the first value so let's continue. We live in a world where resources are limited, whether it's our time alive, natural resources or energy, everything have a finite limit. Even our sun and all the other stars will eventually shine one last time before eternal darkness. That is if they're not already dead and we don't know yet thanks to special relativity.
@@ -86,13 +90,18 @@ So I guess that killing a criminal will free up some space in prison (yeah I rea
 
 So just by those answers it seems death penalty is a no-no. Now to be clear, I am against death penalty for these very reasons but also because I believe killing isn't a decent way to deal with any problems whatsoever and most notably, the risk of killing someone innocent is unacceptable.
 
-There is many values I wanted to add but I realized you could derive them from the other two. For example, using our resources efficiently, includes making sure we all are efficient ourselves. Looking at developed West, one way to do this is to ensure a high standard of living, education and personal freedom and if we look at trends in some companies, it seems ensuring the well-being and happiness of their employees improves their productivity.
+There is many values I wanted to add but I realized you could derive them from the other two. For example, using our resources efficiently, includes making sure we all are efficient ourselves. Looking at the West, one way to do this is to ensure a high standard of living, education and personal freedom and if we look at trends in some companies, it seems ensuring the well-being and happiness of their employees improves their productivity.
 
 I don't want to picture an overly rosy picture of reality. This can only happen when the incentives align just right for the people in charge. Sadly, there is many cases where they don't. As such, things like freedom, education or *not-brainwashing-their-population-against-a-more-or-less-fictive-common-ennemy* are "luxuries" they can't afford, [other people went into more details about this](https://www.youtube.com/watch?v=rStL7niR7gs).
 
-Still, it means that values like peace, tolerance, freedom, people's well-being should apply when they can.
+Still, I believe that stuff like peace, tolerance, freedom, people's well-being should apply when they can to improve productivity and efficiency.
 
-Finally, there is one last value I need to add, that is related to the next article: **Diversity**. Let's pull another definition from Cambridge's dictionary:
+![hippie]({{ site.baseurl }}{{ page.images[2].image_path }})
+<p class="legend">Or maybe it's because I'm a hippie undercover</p>
+
+Another important derived value is **Caution**, which is included by pragmatism since we need to gather data before taking action anyway. It's important because rushing things can have disastrous consequences (ever heard about lead paint or asbestos insulation?) but there is a good balance to find with reaction speed in case of emergency. I'll probably go into more details about all values I'd like in society another time but it isn't quite the subject here.
+
+Finally, there is one last key value I need to add, that is related to the next article: **Diversity**. Let's pull one last definition from Cambridge's dictionary (I swear I'm not sponsored):
 
 <blockquote><h4>"the fact of many different types of things or people being included in something; a range of different things or people; the fact that there are many different ideas or opinions about something:"</h4></blockquote>
 
@@ -100,4 +109,4 @@ The idea here is to encourage the widest range of ideas, culture, recipes... to 
 
 Just like having a lot of different crops ensures one disease alone can't threaten food security. There's also that investor's saying about not having all the same baskets on the omelet... or something like that.
 
-That's it for the values I'd like to see for the universe or society. I hope you enjoyed reading the first of what I could have called **A random's dude boring take on an uninteresting subject**, it might end up being this blog's name, who knows? I (re)invite you to think about all of this yourself, I need a variety of opinions on this topic if I want to follow my own principles after all.
+That's it for the values I'd like to see for the universe or society. I hope you enjoyed reading the first of what I call **"A random dude's boring take on an uninteresting subject"**, which could have been this blog's name really. I (re)invite you to think about all of this yourself, I need a variety of opinions on this topic if I want to follow my own principles after all.
