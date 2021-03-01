@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /static/posts_img/*
+Disallow: /static/img/*
+Sitemap: https://wanderingspacethinker.github.io/nonexistence/sitemap.xml
