@@ -36,7 +36,7 @@
         {% if page.image %}
           <meta content="{{ site.url }}{{ site.baseurl }}/static/img/posts/{{ page.image }}" property="og:image">
         {% else %}
-          <meta content="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" property="og:image">
+          <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
         {% endif %}
         {% if page.categories %}
           {% for category in page.categories limit:1 %}
@@ -67,5 +67,5 @@
         {% if page.header-img %}
           <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{{ page.header-img }}">
         {% else %}
-          <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ site.logo }}">
+          <meta name="twitter:image:src" content="{{ site.url }}{{ site.logo }}">
         {% endif %}
