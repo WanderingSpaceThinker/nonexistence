@@ -85,7 +85,7 @@ Since we have two values, we have two question to asks:
 <li><u>Q1: Does it work in solving the problem it's supposed to solve?</u></li>
 The main argument in favor of death penalty is it reduces criminality as people will fear for their life but a quick look on the topic seems to indicate that no, it doesn't reduce crime rates and with a solution that drastic, anything less that a complete disappearance of crimes altogether probably isn't worth it.
 <li><u>Q2: Is it an efficient use of our resources?</u></li>
-So I guess that killing a criminal will free up some space in prison (yeah I realize how awful this sentence is, sorry) but this is meaningless. How many years, food, energy it takes in order to make a grown human adult? How much value this person would have produced in his time if they was still alive? The amount of wasted resources probably dwarves any gain obtained by the execution.
+So I guess that killing a criminal will free up some space in prison (yeah I realize how awful this sentence is, sorry) but this is meaningless. How many years, food, energy it takes in order to make a grown human adult? How much value this person would have produced just by being alive, if they hadn't been prematurely <i>dispatched</i>? The amount of wasted resources probably dwarves any gain obtained by the execution.
 </ul>
 
 So just by those answers it seems death penalty is a no-no. Now to be clear, I am against death penalty for these very reasons but also because I believe killing isn't a decent way to deal with any problems whatsoever and most notably, the risk of killing someone innocent is unacceptable.
