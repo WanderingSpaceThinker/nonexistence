@@ -26,6 +26,12 @@
     vertical-align: top;
     margin-right: 10px;
 }
+@media (min-width: 768px) and (max-width: 1199px) {
+  .row-picture {
+    margin-bottom: 10px;
+  }
+}
+
 .row-details {
     display: inline-block;
     vertical-align: middle;
