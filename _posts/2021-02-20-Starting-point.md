@@ -30,7 +30,7 @@ Alright, I'll tell you the values I'd choose should I be master of the universe 
 
 The first one is **Pragmatism**. Here is the definition in the Cambridge Dictionary as we need one and it's the first I got on <search engine name>:
 
-<blockquote><h4>"the quality of dealing with a problem in a sensible way that suits the conditions that really exist, rather than following fixed theories, ideas, or rules"</h4></blockquote>
+> "the quality of dealing with a problem in a sensible way that suits the conditions that really exist, rather than following fixed theories, ideas, or rules"
 
 This is an important part of the scientific method: it values a theory based on how well it fits experimental data and will try to change the theory if it doesn't fit.
 
@@ -47,7 +47,7 @@ What about theories, ideas or rules for which we cannot get data to prove or dis
 
 Here's the updated definition:
 
-<blockquote><h4>"the quality of dealing with a problem in a sensible way that suits the conditions that really exist, rather than following fixed theories, ideas, or rules <b>and ignore all problems for which it cannot be applied</b>"</h4></blockquote>
+> "the quality of dealing with a problem in a sensible way that suits the conditions that really exist, rather than following fixed theories, ideas, or rules **and ignore all problems for which it cannot be applied**"
 
 To clarify, it doesn't mean this kind of problem is to be discarded entirely, I understand why they can be interesting and important. Just that by essence, we can't get to the bottom of it and it feels like a *waste of time* (foreshadowing).
 
@@ -81,12 +81,12 @@ For those who yearn for a simpler life, there might be a way to coexist with the
 Back on track, we have our major values but before adding more, I'd like to illustrate how I'd apply them on a real societal issue: death penalty.
 
 Since we have two values, we have two question to asks:
-<ul>
-<li><u>Q1: Does it work in solving the problem it's supposed to solve?</u></li>
-The main argument in favor of death penalty is it reduces criminality as people will fear for their life but a quick look on the topic seems to indicate that no, it doesn't reduce crime rates and with a solution that drastic, anything less that a complete disappearance of crimes altogether probably isn't worth it.
-<li><u>Q2: Is it an efficient use of our resources?</u></li>
-So I guess that killing a criminal will free up some space in prison (yeah I realize how awful this sentence is, sorry) but this is meaningless. How many years, food, energy it takes in order to make a grown human adult? How much value this person would have produced just by being alive, if they hadn't been prematurely <i>dispatched</i>? The amount of wasted resources probably dwarves any gain obtained by the execution.
-</ul>
+
+<ins>Q1: Does it work in solving the problem it's supposed to solve?</ins>
+* The main argument in favor of death penalty is it reduces criminality as people will fear for their life but a quick look on the topic seems to indicate that no, it doesn't reduce crime rates and with a solution that drastic, anything less that a complete disappearance of crimes altogether probably isn't worth it.
+
+<ins>Q2: Is it an efficient use of our resources?</ins>
+* So I guess that killing a criminal will free up some space in prison (yeah I realize how awful this sentence is, sorry) but this is meaningless. How many years, food, energy it takes in order to make a grown human adult? How much value this person would have produced just by being alive, if they hadn't been prematurely *dispatched*? The amount of wasted resources probably dwarves any gain obtained by the execution.
 
 So just by those answers it seems death penalty is a no-no. Now to be clear, I am against death penalty for these very reasons but also because I believe killing isn't a decent way to deal with any problems whatsoever and most notably, the risk of killing someone innocent is unacceptable.
 
@@ -103,7 +103,7 @@ Another important derived value is **Caution**, which is included by pragmatism 
 
 Finally, there is one last key value I need to add, that is related to the next article: **Diversity**. Let's pull one last definition from Cambridge's dictionary (I swear I'm not sponsored):
 
-<blockquote><h4>"the fact of many different types of things or people being included in something; a range of different things or people; the fact that there are many different ideas or opinions about something:"</h4></blockquote>
+> "the fact of many different types of things or people being included in something; a range of different things or people; the fact that there are many different ideas or opinions about something"
 
 The idea here is to encourage the widest range of ideas, culture, recipes... to coexist inside society, as long as they don't conflict with the other key values. The reason being, outside of having more choice for delicious, delicious food, this variety should provide a higher chance to produce a solution to a given problem hence making society more resilient (and fun) overall.
 
