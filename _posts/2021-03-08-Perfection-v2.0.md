@@ -7,7 +7,7 @@ icon: "fas fa-tree"
 images:
  - image_path: /static/posts_img/p1.png
  - image_path: /static/posts_img/p2.jpg
- - image_path: /static/posts_img/kinesin.gif
+ - image_path: /static/posts_img/Kinesin.gif
  - image_path: /static/posts_img/superliminal.gif
 ---
 
