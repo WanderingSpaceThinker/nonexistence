@@ -126,7 +126,7 @@ With that, let's craft the new definition of perfect:
 
 > The quality to adapt as needed, to diversify and be varied, to maintain some sort of equilibrium in order to be sustainable in the long-term
 
-It sums up everything pretty nicely, albeit it lacks a notion of fuzziness and chaotic energy that nature has, being a stochastic process. Coincidentally, this new ideal would be a great fit for the society I described previously.
+It sums up everything pretty nicely, albeit it lacks a notion of fuzziness and chaotic energy that life has since evolution is a stochastic process. Coincidentally, this new ideal would be a great fit for the society I described previously.
 
 Reading that you might think "Wait a minute WST, did you wrote all of this to talk about biology and say the same thing as your precedent article but in a different manner?". Well, to be honest, I can't deny either of those things but I can assure none of this was planned ahead.
 
