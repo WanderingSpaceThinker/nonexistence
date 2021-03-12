@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Starting Point"
+description: "There has to be a start to every journey."
 date:   2021-02-20
 categories: thoughts
 icon: "fas fa-seedling"

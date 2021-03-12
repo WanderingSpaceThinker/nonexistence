@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perfection v2.0"
+description: "Let's create a new ideal based on something real."
 date: 2021-03-08
 categories: thoughts
 icon: "fas fa-tree"
