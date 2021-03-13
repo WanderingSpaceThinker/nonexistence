@@ -32,6 +32,15 @@
   }
 }
 
+@media (min-width: 992px) and (max-width: 1199px) {
+  .col-md-3 {
+    width: 28%;
+  }
+  .col-md-9 {
+    width: 72%;
+  }
+}
+
 .row-details {
     display: inline-block;
     vertical-align: middle;
