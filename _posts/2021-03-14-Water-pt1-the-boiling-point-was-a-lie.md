@@ -128,7 +128,7 @@ Actually, we can observe this increase on our boiling point curve from earlier. 
 ![humidity]({{ site.baseurl }}{{ page.images[5].image_path }})
 <p class="legend">So many efforts for you to ignore this graph anyway.</p>
 
-The red lines tell us the maximum pressure of water vapor[^8] that can exist at 25°C. This is what defines the maximum humidity (per unit of air).
+The red lines tell us the maximum pressure of water vapor[^8] that can exist at this temperature. This is what defines the maximum humidity (per unit of air).
 
 The purples lines tell us water should be liquid... but we just said that some evaporate into gas! In reality, the lines tell us that it will be both liquid *and* gas. Water will stay in liquid state but only when enough have evaporated to reach maximum humidity.
 
