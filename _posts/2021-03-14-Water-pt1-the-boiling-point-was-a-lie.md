@@ -49,7 +49,7 @@ You probably know that there are 3 states of matter[^1]:
 
 The state of a substance depends on its pressure and temperature:
 > <ins>temperature:</ins> measure of the average velocity of particles (how agitated they are).
-* Hot temperature is similar to a punk mosh pit while cold temperature is more a tea dance... organised by slugs.
+* Hot temperature is similar to a punk mosh pit while cold temperature is more a tea dance... organized by slugs.
 
 > <ins>pressure:</ins> measure of the velocity exchange between particles (how much they bump into each other).
 * The same examples work but you can also picture low pressure as a sparse mosh pit of an unpopular band and high pressure as a crowded *clumsy* slug tea dance.
@@ -136,7 +136,7 @@ The boiling temperature is the point where the purple and red lines completely o
 
 I realize that it's a bit much to wrap our heads around so take this last image: it's a bit like a relationship that slowly decays.
 
-When temperature rises, love turns increasingly into hate and the water molecules want more and more to split up. When it reaches the boiling point, the water molecules sign the divorce papers and go on their own seperate way...
+When temperature rises, love turns increasingly into hate and the water molecules want more and more to split up. When it reaches the boiling point, the water molecules sign the divorce papers and go on their own separate way...
 
 Wait, no no I swear this is not about me, I just have poor imagination for metaphors.
 
