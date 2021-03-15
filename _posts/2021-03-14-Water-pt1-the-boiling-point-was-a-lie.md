@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The secret of the Boiling point"
+title: "Water part 1 - The boiling point was a lie"
 description: "Really, it's just a physics lesson on water."
 date:   2021-03-14
 categories: drafts
@@ -11,7 +11,7 @@ images:
  - image_path: /static/posts_img/triple.gif
  - image_path: /static/posts_img/evaporation.png
  - image_path: /static/posts_img/hr_diag.png
- - image_path: /static/posts_img/pressure.png
+ - image_path: /static/posts_img/curve.png
 ---
 
 *This is the first issue of Drafts. This will be a series of shorter(ish), simpler(ish) articles about a single theme or question, hope you enjoy this lighter content.*
@@ -57,7 +57,7 @@ The state of a substance depends on its pressure and temperature:
 A *phase diagram* is a graph that tells you the state of a substance for a given pressure/temperature. Since this is our subject, here is the phase diagram for water:
 
 ![phase]({{ site.baseurl }}{{ page.images[0].image_path }})
-<p class="legend">Courtesy of Wikipedia</p>
+<p class="legend">A clutch from Wikipedia</p>
 
 Remarkably, the solid state takes most of the diagram, too bad we're not going to talk much about ice[^2]. Other than that, freezing point and boiling point at regular pressure are the values you expect.
 
@@ -74,18 +74,18 @@ Temperature, pressure and even state of matter are concepts we invented to descr
 But in reality physics happen on a particle to particle basis, let's look at one:
 
 ![phase]({{ site.baseurl }}{{ page.images[1].image_path }})
-<p class="legend">2D simulation of particle collision in a perfect gas</p>
+<p class="legend">Looks like a really weird pool game</p>
 
 As the particle bumps with others, it will randomly gain or lose momentum. That's important because the less momentum it has, the easier it will bind with its neighbors and that will determine the *local state of matter*.
 
-There is this misconception that, for example, in an ice cube all water is solid. In reality, particles have a *probability* to be solid, liquid or gas. At any given time, small parts of the ice cube will melt or vaporize to freeze again the next instant.
+There is this misconception that, for example, in an ice cube all water is solid. In reality, particles have a *probability* to be solid, liquid or gas[^5]. At any given time, small parts of the ice cube will melt or vaporize to freeze again the next instant.
 
-That sounds too crazy to be true. Luckily, we can observe something similar when a substance reaches its triple point[^5]:
+Sounds too crazy to be true? Luckily, we can observe something similar when a substance reaches its triple point[^6]:
 
 ![phase]({{ site.baseurl }}{{ page.images[2].image_path }})
-<p class="legend">Life of a particle is rough man</p>
+<p class="legend">Yeah, it looks as crazy at it sounds</p>
 
-Going back to evaporation, in a glass of water, if a particle at the surface get bumped and gain enough momentum, it will break free and escape into the air as vapor[^6].
+Going back to evaporation, in a glass of water, if a particle at the surface get bumped and gain enough momentum, it will break free and escape into the air as vapor.
 
 Reciprocally, if a free water particle is slowed enough by a collision, near the surface, it will bind to others and become part of the liquid.
 
@@ -121,21 +121,24 @@ Imagine this:
 
 Finally, you may have experienced suffocating hot humid tropical summer (when you're all sweaty) yet you probably never complained about humid winter, even though it's a thing[^7].
 
-The main reason is, maximum humidity depends on pressure/temperature, specifically it will increase drastically with temperature, here is a plot of that maximum vs temperature:
+One of the reason is, maximum humidity depends on pressure/temperature, specifically it will increase drastically with temperature.
 
-![humidity]({{ site.baseurl }}{{ page.images[4].image_path }})
-<p class="legend">Another clutch from Wikipedia</p>
-
-Does the shape ring any bell? It's suspiciously similar to our boiling point curve and, indeed, there is a link between the two. Here, I updated the water phase diagram for a situation where water is at standard sea pressure and 30°C:
+Actually, we can observe this increase on our boiling point curve from earlier. Here, I redrew it so we could better see the "real" proportions between liquid and gas:
 
 ![humidity]({{ site.baseurl }}{{ page.images[5].image_path }})
-<p class="legend">Collaborative effort of WST & Wikipedia</p>
+<p class="legend">So many efforts for you to ignore this graph anyway.</p>
 
-No surprises here, the purples lines tell us the water is supposed to be liquid. More interestingly, the red lines tell us the maximum pressure of water vapor[^8] that can exist at this temperature. This is what defines the maximum humidity per unit of air.
+The red lines tell us the maximum pressure of water vapor[^8] that can exist at 25°C. This is what defines the maximum humidity (per unit of air).
 
-Another formulation is: for a temperature and a pressure, represented by our purple lines, water will stay in liquid state (not evaporate) as long as the partial pressure[^9] of water vapor is at least what's indicated by the red lines.
+The purples lines tell us water should be liquid... but we just said that some evaporate into gas! In reality, the lines tell us that it will be both liquid *and* gas. Water will stay in liquid state but only when enough have evaporated to reach maximum humidity.
 
-The boiling temperature, in this way, is the point where the purple lines and red lines overlap totally. Meaning that the partial pressure equals the total pressure. Meaning, from our point of view, water cannot stay in liquid form.
+The boiling temperature is the point where the purple and red lines completely overlap. Meaning the maximum pressure of water vapor equals the total pressure. Meaning water cannot stay in liquid form at all.
+
+I realize that it's a bit much to wrap our heads around so take this last image: it's a bit like a relationship that slowly decays.
+
+When temperature rises, love turns increasingly into hate and the water molecules want more and more to split up. When it reaches the boiling point, the water molecules sign the divorce papers and go on their own seperate way...
+
+Wait, no no I swear this is not about me, I just have poor imagination for metaphors.
 
 **<ins>Conclusion</ins>**
 
@@ -145,7 +148,7 @@ On a particle level, it's way more fuzzy and chaotic, matter don't really exist 
 
 In the case of liquid water, it means there's a lot of exchanges between the water in a container and the moisture in the air. Those exchanges are regulated by the maximum humidity which also depends on pressure/temperature.
 
-Finally, the boiling point is not the temperature at which liquid turns into gas but rather the temperature at which **all** water can exist in vapor form, without limit[^10].
+Finally, the boiling point is not the temperature at which liquid turns into gas but rather the temperature at which **all** water can exist in vapor form, without limit[^9].
 
 That's it for our pointless journey of understanding the truth behind the boiling point, which really looks like a pretense to make you learn a ton about water and physics but hey, if you learned a thing or two then it was worth it... probably.
 
@@ -155,9 +158,8 @@ That's it for our pointless journey of understanding the truth behind the boilin
 [^2]: If you're disappointed, here is a fun fact about ice: its structure also depends on pressure/temperature and it has [many different ones](https://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg). The one we're most used to is the [ice Ih](https://en.wikipedia.org/wiki/Ice_Ih).
 [^3]: Sadly, it means I'll have to ignore the supercritical part even though it's [SUPER cool](https://www.youtube.com/watch?v=JslxPjrMzqY).
 [^4]: By the way, water vapor is very much invisible, the white smoke coming of boiling water is really a fog of tiny droplets.
-[^5]: Original footage from this [video](https://www.youtube.com/watch?v=XEbMHmDhq2I), more info on the triple point [here](https://en.wikipedia.org/wiki/Triple_point).
-[^6]: <ins>A side-note on phase change, energy and temperature:</ins> When a liquid vaporizes, its temperature decreases (that's why you sweat when it's hot). One way to visualize it is that only the particles that "stole" enough momentum from their neighbors will evaporate, leaving less energy to the liquid. But that extra momentum will not increase air temperature because it was used to break the particle bindings in the first place. The opposite is true, a gas molecule suddenly bound will gain extra momentum and heat up its surroundings. You can imagine it as a tiny magnet pulling a metal objet that will crash into it with some speed.
+[^5]: Temperature is what determines those probabilities. The hotter, the more liquid/gas there will be.
+[^6]: Original footage from this [video](https://www.youtube.com/watch?v=XEbMHmDhq2I), more info on the triple point [here](https://en.wikipedia.org/wiki/Triple_point).
 [^7]: Winter humidity, in badly isolated homes, is the source of chipped paint, rotten wallpaper and all this sort of goodness. Because cold air can hold very little moisture, walls colder than the room will allow moisture to condense into liquid form, causing the havoc you know.
 [^8]: Independently of ambient/total pressure.
-[^9]: Sounds fancy but it simply means the pressure of only one component making up the air.
-[^10]: As long as the pressure doesn't increase.
+[^9]: As long as the pressure doesn't increase.
