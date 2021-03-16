@@ -158,7 +158,7 @@ That's it for our pointless journey of understanding the truth behind the boilin
 [^2]: If you're disappointed, here is a fun fact about ice: its structure also depends on pressure/temperature and it has [many different ones](https://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg). The one we're most used to is the [ice Ih](https://en.wikipedia.org/wiki/Ice_Ih).
 [^3]: Sadly, it means I'll have to ignore the supercritical part even though it's [SUPER cool](https://www.youtube.com/watch?v=JslxPjrMzqY).
 [^4]: By the way, water vapor is very much invisible, the white smoke coming of boiling water is really a fog of tiny droplets.
-[^5]: Temperature is what determines those probabilities. The hotter, the more liquid/gas there will be.
+[^5]: Temperature is what determines those probabilities. The hotter the ice cube, the less *solid* it will be, both literally and figuratively.
 [^6]: Original footage from this [video](https://www.youtube.com/watch?v=XEbMHmDhq2I), more info on the triple point [here](https://en.wikipedia.org/wiki/Triple_point).
 [^7]: Winter humidity, in badly isolated homes, is the source of chipped paint, rotten wallpaper and all this sort of goodness. Because cold air can hold very little moisture, walls colder than the room will allow moisture to condense into liquid form, causing the havoc you know.
 [^8]: Independently of ambient/total pressure.
