@@ -2,7 +2,7 @@
 layout: post
 title: "Disclaimer"
 description: "You know, just in case."
-date:   2021-01-21
+date:   2021-02-02
 categories: others
 icon: "fas fa-exclamation-triangle"
 ---
