@@ -14,4 +14,4 @@ That's the main goal but I'd also like to spread those ideas of mine, even if th
 
 If you don't understand english, please feel free to use translating tools, with some luck it won't butcher my words too much.
 
-Anyway, if you don't know where to start, I advise you to begin with the [disclaimer]({{site.baseurl}}/others/2021/01/21/Disclaimer.html).
+Anyway, if you don't know where to start, I advise you to begin with the [disclaimer]({{site.baseurl}}/others/2021/02/02/Disclaimer.html).
