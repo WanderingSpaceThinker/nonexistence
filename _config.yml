@@ -2,11 +2,11 @@ title: Nonexistence
 description: An undiscovered blog drifting through emptiness
 author: WST
 email: wanderingspacetraveler@gmail.com
-logo: /nonexistence/static/img/milky-way.png
+logo: /static/img/milky-way.png
 about: Wandering Space Thinker
 
-baseurl: "/nonexistence"
-url: "https://wanderingspacethinker.github.io"
+baseurl: ""
+url: "https://www.nonexistence.xyz/"
 
 allowsearch: true
 allowgoogleanalytics: true
