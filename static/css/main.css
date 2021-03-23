@@ -313,3 +313,23 @@ p.legend {
         top: 19px;
     }
 }
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-collapse {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .nav.navbar-nav {
+        float: none;
+    }
+    .col-sm-4 {
+        width: 25%;
+    }
+    .menu ul li {
+        margin: 0 0;
+    }
+    .sticky {
+        top: 0px;
+        z-index: 1;
+    }
+}
