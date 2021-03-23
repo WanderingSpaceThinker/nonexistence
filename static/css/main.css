@@ -293,3 +293,15 @@ p.legend {
     margin-bottom: 1em;
     font-style: italic;
 }
+
+@media (max-width: 768px) {
+    .col-md-9.col-xs-12.full .well {
+        padding: 19px 10px;
+    }
+    .list-group .list-group-item {
+        padding: 0 10px;
+    }
+    .list-group .list-group-item .row-content .least-content {
+        position: static;
+    }
+}
