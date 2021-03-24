@@ -10,6 +10,7 @@ url: "https://www.nonexistence.xyz/"
 
 allowsearch: true
 allowgoogleanalytics: true
+enableTags: true
 
 disqus_shortname:
 google_analytics:
