@@ -33,9 +33,6 @@ layout: default
             </div>
             <div class="row-content">
             {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-            {% if forloop.first %}
-                <div class="least-content">{{ post_year }}</div>
-            {% endif %}
 
             {% if forloop.first == false %}
                 {% assign previous_index = forloop.index0 | minus: 1 %}
