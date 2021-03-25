@@ -50,7 +50,7 @@ I hinted at this in the previous article but life (as we know it) really fascina
 
 As someone who always liked to understand systems or machines' inner workings, you can see how it leaves me in awe. Without real hope to ever grasp how any given organism really functions due to the sheer complexity. Of course, there's also a lot we still don't — and might never — know...
 
-There's also the fact that life persisted through truly cataclysmic events. That it appeared out of nothing, although we still know very little about how this happened. That we have to take an astonishing amount of effort to make sure only a *little* of it hitchhikes on our space robots. I could go on for hours but we're not here for that.
+Another thing is that life persisted through truly cataclysmic events. That it appeared out of nothing, although we still know very little about how this happened. That we have to take an astonishing amount of effort to make sure only a *little* of it hitchhikes on our space robots. I could go on for hours but we're not here for that.
 
 ![kinesin]({{ site.baseurl }}{{ page.images[2].image_path }})
 <p class="legend">Just look at this crazy stuff</p>
