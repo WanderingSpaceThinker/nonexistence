@@ -294,6 +294,13 @@ p.legend {
     font-style: italic;
 }
 
+@media (min-width: 768px) {
+    .list-group .list-group-item .row-content .label {
+        position: absolute;
+        right: 16px;
+        bottom: 0;
+    }
+}
 @media (max-width: 768px) {
     .col-md-9.col-xs-12.full .well {
         padding: 19px 10px;
@@ -303,6 +310,12 @@ p.legend {
     }
     .list-group .list-group-item .row-content .least-content {
         position: static;
+        display: inline;
+    }
+    .list-group .list-group-item .row-content .label {
+        position: static;
+        display: inline;
+        margin-right: 10px;
     }
 }
 
