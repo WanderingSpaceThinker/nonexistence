@@ -7,7 +7,7 @@
   },
   {
     "text": "Category",
-    "url": "/category/thoughts",
+    "url": "/category/Ideas",
     "icon": "fa-copy",
     "layout": "posts_by_category",
   },
