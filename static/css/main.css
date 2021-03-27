@@ -308,6 +308,9 @@ p.legend {
     .list-group .list-group-item {
         padding: 0 10px;
     }
+    .list-group-item-text {
+        margin-bottom: 5px;
+    }
     .list-group .list-group-item .row-content .least-content {
         position: static;
         display: inline;
