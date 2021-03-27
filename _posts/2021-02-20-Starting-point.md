@@ -3,7 +3,7 @@ layout: post
 title: "Starting Point"
 description: "There has to be a start to every journey."
 date:   2021-02-20
-categories: thoughts
+categories: Ideas
 icon: "fas fa-seedling"
 images:
  - image_path: /static/posts_img/expl_prag.gif
