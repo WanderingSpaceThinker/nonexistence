@@ -298,7 +298,7 @@ p.legend {
     .list-group .list-group-item .row-content .label {
         position: absolute;
         right: 16px;
-        bottom: 0;
+        top: 34px;
     }
 }
 @media (max-width: 768px) {
