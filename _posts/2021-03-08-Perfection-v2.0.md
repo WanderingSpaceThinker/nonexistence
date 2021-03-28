@@ -3,7 +3,7 @@ layout: post
 title: "Perfection v2.0"
 description: "Let's create a new ideal based on something real."
 date: 2021-03-08
-categories: Ideas
+categories: ["Ideas"]
 icon: "fas fa-tree"
 images:
  - image_path: /static/posts_img/p1.png

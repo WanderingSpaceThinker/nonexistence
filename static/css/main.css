@@ -295,7 +295,7 @@ p.legend {
 }
 
 @media (min-width: 768px) {
-    .list-group .list-group-item .row-content .label {
+    .tags-holder{
         position: absolute;
         right: 16px;
         top: 34px;
@@ -315,10 +315,10 @@ p.legend {
         position: static;
         display: inline;
     }
-    .list-group .list-group-item .row-content .label {
+    .tags-holder{
         position: static;
         display: inline;
-        margin-right: 10px;
+        margin-left: 10px;
     }
 }
 

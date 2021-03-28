@@ -3,7 +3,7 @@ layout: post
 title: "Water part 1 - The boiling point was a lie"
 description: "Really, it's just a physics lesson on water."
 date:   2021-03-14
-categories: Drafts
+categories: ["Drafts"]
 icon: "fas fa-tint"
 images:
  - image_path: /static/posts_img/water.png
