@@ -41,10 +41,16 @@ layout: default
                 <div class="least-content">{{ post_year }}</div>
                 {% endif %}
             {% endif %}
-            <div class="least-content">{{ post.date | date_to_string }}</div>
             <h4 class="list-group-item-heading"><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
             <p class="list-group-item-text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 20 }}{% endif %}</p>
-
+            <div class="least-content">{{ post.date | date_to_string }}</div>
+        {% if post.categories.size > 0 %}
+            <div class="tags-holder">
+          {% for category in post.categories %}
+                <a href="/category/{{ category }}"><span class="label tags">{{ category }}</span></a>
+          {% endfor %}
+            </div>
+        {% endif %}
             </div>
         </div>
         <div class="list-group-separator"></div>
