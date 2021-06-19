@@ -58,7 +58,7 @@ That's not as easy as said though, it requires the way data is gathered and anal
 
 To illustrate this I don't have a real life example because, to be honest, I haven't really looked and there's always an amount of politic, legacy or social consideration in policies anyway.
 
-I do have a counter-example though: [A Turkish head of state firm belief on interest rates](https://www.businessinsider.fr/us/turkish-lira-crisis-erdogan-interest-rates-2018-8). As you can read, his belief contradicted what economic history taught us about interest rates: when inflations goes up, they need to go up. His refusal to increase them seems to have worsened Turkey's inflation back then (It's still going as of writing but it might be history when you get to read this).
+I do have a counter-example though: [A Turkish head of state firm belief on interest rates](https://www.businessinsider.com/turkish-lira-crisis-erdogan-interest-rates-2018-8). As you can read, his belief contradicted what economic history taught us about interest rates: when inflations goes up, they need to go up. His refusal to increase them seems to have worsened Turkey's inflation back then (It's still going as of writing but it might be history when you get to read this).
 
 The point is: it is bad on an individual level if a belief prevents them from making the good choice but when it's a person in charge of a company, a country it can be downright catastrophic and tragic since people dealing with the consequences often didn't take the decision themselves. This risk alone is, in my opinion, enough reason to push for pragmatism at every level of society.
 
@@ -91,7 +91,7 @@ Since we have two values, we have two question to asks:
 
 So just by those answers it seems death penalty is a no-no. Now to be clear, I am against death penalty for these very reasons but also because I believe killing isn't a decent way to deal with any problems whatsoever and most notably, the risk of killing someone innocent is unacceptable.
 
-There is many values I wanted to add but I realized you could derive them from the other two. For example, using our resources efficiently, includes making sure we all are efficient ourselves. Looking at the West, one way to do this is to ensure a high standard of living, education and personal freedom and if we look at trends in some companies, it seems ensuring the well-being and happiness of their employees improves their productivity.
+There is many values I wanted to add but I realized you could derive them from the other two. For example, using our resources efficiently, includes making sure we all are efficient ourselves. Looking at the Western world, one way to do this is to ensure a high standard of living, education and personal freedom and if we look at trends in some companies, it seems ensuring the well-being and happiness of their employees improves their productivity.
 
 I don't want to picture an overly rosy picture of reality. This can only happen when the incentives align just right for the people in charge. Sadly, there is many cases where they don't. As such, things like freedom, education or *not-brainwashing-their-population-against-a-more-or-less-fictive-common-ennemy* are "luxuries" they can't afford, [other people went into more details about this](https://www.youtube.com/watch?v=rStL7niR7gs).
 
