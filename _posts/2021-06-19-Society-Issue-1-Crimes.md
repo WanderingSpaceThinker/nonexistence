@@ -67,7 +67,7 @@ The studies try to explain the relationship between those factors and crimes but
 
 First thing first, those factors only correlates with crime and are not causes. Things like having *bad* genes or the lead poisoning do not guarantee you to commit crimes.
 
-In fact, most people with multiple aggravating factors will **never** commit crimes. They're like little nudges that can make someone commit a crime where they might haven't otherwise.
+In fact, most people with multiple aggravating factors will **never** commit crimes. They're like little nudges that can push someone to commit a crime they might not have committed otherwise.
 
 Regarding the sex disparities, it's probably both because of actual physiology (testosterone linked to aggression...) as well as social-cultural factors (fights, weapons, considered more *manly* for example).
 
@@ -75,7 +75,7 @@ The age disparity isn't too surprising. Teenagers and young adults combine peak 
 
 For poverty, income inequality may strengthen the feelings of dispossession and unfairness in society leading to less remorse in committing crimes. That said, poor farming village in developing countries are not famous for their lawlessness. One key difference may lie in a stronger social structure and support in those villages.
 
-Race and immigration is a bit of a tangled mess, there might be a vicious cycle of discrimination (higher policing, reduced life opportunities) that increases unfairness feelings and eases criminal behavior, further reinforcing discrimination.
+Race and immigration is a bit of a tangled mess, there might be a vicious cycle of discrimination (higher policing, reduced life opportunities) that increases feelings of unfairness and eases criminal behavior, further reinforcing discrimination.
 
 It doesn't help that immigrants & minorities often are poorer and concentrated in more deprived communities with less opportunities for job or education.
 
@@ -100,7 +100,7 @@ So let's *see* what can be done on a broader scale:
 
 <ins>Genes & IQ:</ins>
 
-They're hard to control and their impact is low since most people with those factors do not commit crime. That means the solutions (eugenics, mass genetic surveillance) are disproportionate for the little effect they would have.
+These factors are hard to control and their ties with crime is low. That means the solutions (eugenics, mass genetic surveillance) are disproportionate for the little effect they would have, and our attention should be elsewhere.
 
 <ins> Personality Traits:</ins>
 
@@ -128,7 +128,7 @@ Now I understand the danger of those substances, so legalization should come wit
 
 <ins>Addiction:</ins>
 
-The complementary to legalization is to address addiction (not only to substance) at its roots. Sadly, just like crimes, there is many risk factors of addiction and it could be its own sub-sub article so I'll try to be quick:
+The complementary to legalization is to address addiction (not only to substance) at its roots. Sadly, just like crimes, there are many risk factors of addiction, and it's too big of a subject, so I'll try to be quick:
 * Genetics contributes to addiction vulnerability, again we can't really do much for this.
 * Age is also factor, teenagers are most vulnerable for the same reasons they're more prone to crimes. So education and promoting responsible use to the youth is important (but a bit vain, let's be serious).
 * Stressful and traumatic events (war or crimes...) are big factors, fighting these will help but we're kind of in a loop here.
@@ -161,7 +161,7 @@ We had prisons for quite a long time and well, crimes and recidivism are still a
 
 The reasons prison don't quite work are:
 
-* Psychology of punishment: Deterrence through punishment is not as simple as it sounds, it can actually be a double sided sword.
+* Psychology of punishment: Deterrence through punishment is not as simple as it sounds, it can actually be a double-edged sword.
 * Prison environment: In some countries, inmates culture is notoriously bad with a "survival of the fittest" kind of environment. That can encourage criminal behaviors or create trauma for victims of assaults in prison. Also, criminals all live together which can create networks of criminals and turn small thieves into full blown bank robbers after serving their sentence.
 * Reinsertion: Society isn't too keen on ex-prisoners, which means they can struggle to find a job and build a "normal" life because of rejection. It doesn't help that criminals may had difficulties blending with society in the first place (made even worse by the disparity with prison culture).
 * Root causes: Prisons do not try to address the reasons prisoner committed crimes.
