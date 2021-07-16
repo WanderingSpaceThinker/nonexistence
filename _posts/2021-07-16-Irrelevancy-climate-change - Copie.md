@@ -10,9 +10,9 @@ images:
  - image_path: /static/posts_img/scrabble.jpg
 ---
 
-I don't know much in climate, so if the climate scientists consensus is that [climate change is real and of human origin](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002), I'll trust them... at least until another consensus emerge. For curiosity's sake, I've read skeptics' arguments and, to me, the only potentially convincing one was that climate fluctuates all the time, and we can't tell if this current warming is a real trend and if it's of human origins.
+I don't know much in climate, so if the climate scientists consensus is that [climate change is real and of human origin](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048002), I'll trust them... at least until another consensus emerges. For curiosity's sake, I've read skeptics' arguments and, to me, the only potentially convincing one was that climate fluctuates all the time, and we can't tell if this current warming is a real trend and if it's of human origins.
 
-Again, I don't know much about this, I'm not qualified to rebuke that... Although, if I had to try, I'd point to the [PETM](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) and how the increase in greenhouse gases lead to a durable global warming, but that only works if you accept all the science that backs PETM anyway.
+Again, I don't know much about this, I'm not qualified to rebuke that... Although, if I had to try, I'd point to the [PETM](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) and how the increase in greenhouse gases leads to a durable global warming, but that only works if you accept all the science that backs PETM anyway.
 
 ![artctic]({{ site.baseurl }}{{ page.images[0].image_path }})
 <p class="legend">How the <b>Artic</b> may have looked like back then.</p>
