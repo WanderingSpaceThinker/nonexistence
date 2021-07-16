@@ -43,6 +43,6 @@ We probably won't disappear, but it will be quite the havoc. Even if the place y
 ![scrabble]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">Wait, that's not how Scrabble works!</p>
 
-There you have it, in my analysis taking actions, even if it's meaningless isn't so bad, especially when you compare to the other possibility. So we should take actions regardless of the origin or reality of global warming, hence why I think it's irrelevant. Now, what level of action we should take is the real debate we should have, because of course, reality will be an in-between those two cases.
+There you have it, in my analysis taking actions, even if it's meaningless isn't so bad, especially when you compare to the other possibility. So we should take actions regardless of the origin or reality of global warming, hence why I think it's irrelevant. Now, what level of action to take in order to minimize risks is the real debate we should have.
 
-I'll just hope it's one where we don't regret too much the choices made for us here and now...
+In the end, the path we'll take is one between those two extremes. I'll just hope it's one where we don't regret too much the choices made for us here and now...
