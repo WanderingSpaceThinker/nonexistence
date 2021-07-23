@@ -15,7 +15,7 @@ I don't know much in climate, so if the climate scientists consensus is that [cl
 Again, I don't know much about this, I'm not qualified to rebuke that... Although, if I had to try, I'd point to the [PETM](https://en.wikipedia.org/wiki/Paleocene%E2%80%93Eocene_Thermal_Maximum) and how the increase in greenhouse gases leads to a durable global warming, but that only works if you accept all the science that backs PETM anyway.
 
 ![artctic]({{ site.baseurl }}{{ page.images[0].image_path }})
-<p class="legend">How the <b>Artic</b> may have looked like back then.</p>
+<p class="legend">How the <b>Arctic</b> may have looked like back then.</p>
 
 So let's forget about this because, beside the eternal pursuit of Truth, it's all irrelevant. But why? Well, we have two *extreme* scenarios to evaluate:
 
@@ -43,6 +43,10 @@ We probably won't disappear, but it will be quite the havoc. Even if the place y
 ![scrabble]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">Wait, that's not how Scrabble works!</p>
 
-There you have it, in my analysis taking actions, even if it's meaningless isn't so bad, especially when you compare to the other possibility. So we should take actions regardless of the origin or reality of global warming, hence why I think it's irrelevant. Now, what level of action to take in order to minimize risks is the real debate we should have.
+Note that this way of thinking can be generalized to all sorts of issues. It's based on the core principle of [FMECA](https://en.wikipedia.org/wiki/Failure_mode,_effects,_and_criticality_analysis), where you try to prevent/mitigate problems, by evaluating the probability of the event occurring and the damage it might cause.
+
+A minor annoyance that happens all the time is worth preventing, as well as an unlikely but life-threatening event. So, imagine if we had a very likely and very life-threatening event to deal with...
+
+There you have it, taking action, even if ultimately meaningless isn't so bad, especially when you compare to the other possibility. So we should act regardless of the origin or reality of global warming, hence why I think it's irrelevant. Now, what level of action to take in order to minimize risks is the real debate we should have.
 
 In the end, the path we'll take is one between those two extremes. I'll just hope it's one where we don't regret too much the choices made for us here and now...
