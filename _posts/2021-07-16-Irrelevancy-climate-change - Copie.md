@@ -30,7 +30,7 @@ It cost dearly to the fossil fuel industry and states/countries depending on it 
 
 If we set aside the global warming and its consequences, if we compensate the loss of fossil fuel industry by helping the transition to low-carbon ones, then the outcome isn't so bad. We'd have less air and water pollution (hopefully), and that's a good thing. No need for science here, just breathe a car's exhaust and you know that stuff isn't good for your health.
 
-*Quick aside on fossil fuel, like nuclear, I feel they receive more bad press than they owe. They're super useful and convenient, that's why we started using them in the first place. I don't think we should stop using them entirely, although not as widely and as blindly as we are now. But we might not have better alternatives for some specific cases like aviation.*
+*Quick aside on fossil fuel, similarly to nuclear energy, I feel they suffer from too much of a bad reputation. They're super useful and convenient, that's why we started using them in the first place. I don't think we should stop using them entirely, although not as widely and as blindly as we are now. But we might not have better alternatives for some specific cases like aviation.*
 
 *The risk with demonizing them as much is to lose the possibility of improving them furthermore or even worse, forgetting our know-how of using them at all, losing a precious technological tool which, like everything, comes with its own set of drawbacks.*
 
