@@ -141,7 +141,7 @@ Maybe I'm exaggerating, some civil applications will maintain some of those aspe
 You know me, I'm a man of resiliency, I like to pursue all the options and consider every possibility. I think losing defensive and offensive capabilities would be too dangerous, too naive. I despise violence, yet I recognize it as a tool we need to keep mastering if we ever need it.
 
 ![knife]({{ site.baseurl }}{{ page.images[1].image_path }})
-<p class="legend">Alleged pictures of my mind.</p>
+<p class="legend">Alleged picture of my mind.</p>
 
 Another example would be the disappearance of crimes. Police and investigators would lose funding and, in turn, we would lose our capabilities of maintaining order or investigating crimes. Again, this is something we shan't allow.
 
