@@ -73,7 +73,9 @@ Regarding the sex disparities, it's probably both because of actual physiology (
 
 The age disparity isn't too surprising. Teenagers and young adults combine peak physical performance with poor impulse control, poor emotion regulation and a very stressful period of life. All of this make them more suitable to all kinds of reckless behaviors and can lead to substance abuse and/or delinquency.
 
-For poverty, income inequality may strengthen the feelings of dispossession and unfairness in society leading to less remorse in committing crimes. That said, poor farming village in developing countries are not famous for their lawlessness. One key difference may lie in a stronger social structure and support in those villages.
+For poverty, income inequality may strengthen the feelings of dispossession and unfairness in society leading to less remorse in committing crimes. That said, poor farming village in developing countries are not famous for their lawlessness.
+
+One key difference may lie in a stronger social structure, where villagers support each other during tough times. In cities, the suffering of the poor is, more often than not, only met with apathy.
 
 Race and immigration is a bit of a tangled mess, there might be a vicious cycle of discrimination (higher policing, reduced life opportunities) that increases feelings of unfairness and eases criminal behavior, further reinforcing discrimination.
 
