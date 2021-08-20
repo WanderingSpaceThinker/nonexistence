@@ -8,7 +8,11 @@ layout: default
     <br>
     <div class="post">{{ content }}</div>
     <br>
-    <p><i>Remember dear non-readers, given enough time, quantum fluctuations will eventually arrange as some kind of neural network reading this blog. In the meantime, all of this is meaningless. See you next time!</i></p>
+    {% assign r_time = site.time | date: "%S%N" | divided_by: 10000000 %}
+    {% assign p_time = page.date | date: "%s" | divided_by: 100 | modulo: 100000 %}
+    {% assign random = p_time | divided_by: r_time | modulo: site.data.quotes.size %}
+    <!-- <p>{{ site.data.quotes.size }} {{ random }} {{ p_time }} {{ r_time }}</p> -->
+    <p><i>{{ site.data.quotes[random].quote }}</i></p>
     <p style="font-weight: bold; text-align: right"><i>{{ site.author }}</i></p>
     <hr />
     {% include share-page.html %}
