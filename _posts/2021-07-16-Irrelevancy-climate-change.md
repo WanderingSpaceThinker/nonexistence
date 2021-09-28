@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The irrelevancy of the climate change debate"
-description: "Pretty self-explanatory..."
+description: "Make FMECA great again."
 date:   2021-07-16
 categories: ["Drafts"]
 icon: "fas fa-temperature-high"
