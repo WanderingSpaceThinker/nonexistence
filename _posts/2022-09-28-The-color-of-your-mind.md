@@ -45,4 +45,6 @@ Still, the concept of attributing a color hue to your psychotype is easily under
 ![blue]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">No... that's... absolutely not my favorite color...</p>
 
+With all being said, it might actually be a boon that we don't have such measurement. I suspect we would rely on it too much and for bad reasons, leading to discrimination. If you want to see what it might look like, you can watch the movie *Gattaca (1997)* that treats this exact subject, albeit on a DNA basis. So yeah, maybe it wasn't such a good idea after all...
+
 Oh, before you leave, if you want to argue that astrology or whatever actually works, just make sure it's not the result of the [Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect).
