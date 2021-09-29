@@ -38,7 +38,7 @@ Everyone would get attributed a hue depending on its test result. Similar people
 
 More realistically, your hue only represents you at this moment. It will evolve with time as you age and experience new things, good or bad. I even suspect that, as the mind is fuzzy, rather than getting a single hue, you'd get a chunk of the color spectrum. The bigger the chunk, the less *stable* you'd be, whatever that means.
 
-If the hue is your psychotype, we can imagine saturation represents how *strong* or remarkable your psychotype is, while the lightness could be the ratio of introspection to extrospection. Or other things. Or maybe the color analogy doesn't have enough parameters, and we would need something more abstract.
+If the hue is your psychotype, we can imagine saturation represents how *pronounced* your psychotype is, while the lightness could be the ratio of introspection to extrospection... Or other things. Or maybe the color analogy doesn't have enough parameters, and we would need something more abstract.
 
 Still, the concept of attributing a color hue to your psychotype is easily understandable, so I'd like you to keep it in mind. Now, in the absence of a test, we can't determine what color you are so, feel free to pick one yourself. I'll take this one:
 
