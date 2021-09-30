@@ -5,6 +5,7 @@ description: "There has to be a start to every journey."
 date:   2021-02-20
 categories: ["Ideas"]
 icon: "fas fa-seedling"
+thumbnail: undercover_hippie.jpg
 images:
  - image_path: /static/posts_img/expl_prag.gif
  - image_path: /static/posts_img/pragmacake.jpg

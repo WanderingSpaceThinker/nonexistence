@@ -2,9 +2,10 @@
 layout: post
 title: "The color of your mind"
 description: "Dibs on peacock blue!"
-date:   2021-09-28
+date: 2021-09-28
 categories: ["Drafts"]
 icon: "fas fa-palette"
+thumbnail: color_wheel.jpg
 images:
  - image_path: /static/posts_img/color_wheel.jpg
  - image_path: /static/posts_img/blue.png

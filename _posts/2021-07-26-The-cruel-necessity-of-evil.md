@@ -5,6 +5,7 @@ description: "Be careful what you wish for."
 date: 2021-07-26
 categories: ["Ideas"]
 icon: "fas fa-dungeon"
+thumbnail: ruins.jpg
 images:
  - image_path: /static/posts_img/ruins.jpg
  - image_path: /static/posts_img/swissknife.jpg

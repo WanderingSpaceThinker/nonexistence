@@ -2,9 +2,10 @@
 layout: post
 title: "The irrelevancy of the climate change debate"
 description: "Make FMECA great again."
-date:   2021-07-16
+date: 2021-07-16
 categories: ["Drafts"]
 icon: "fas fa-temperature-high"
+thumbnail: scrabble.jpg
 images:
  - image_path: /static/posts_img/arctic_petm.jpg
  - image_path: /static/posts_img/scrabble.jpg

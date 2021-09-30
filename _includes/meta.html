@@ -35,8 +35,8 @@
           <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
           <meta content="{{ site.url }}{{ site.baseurl }}/about/" property="article:author">
         {% endif %}
-        {% if page.image %}
-          <meta content="{{ site.url }}{{ site.baseurl }}/static/img/posts/{{ page.image }}" property="og:image">
+        {% if page.thumbnail %}
+          <meta content="{{ site.url }}{{ site.baseurl }}/static/posts_img/{{ page.thumbnail }}" property="og:image">
         {% else %}
           <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
         {% endif %}
