@@ -5,7 +5,7 @@ description: "Let's create a new ideal based on something real."
 date: 2021-03-08
 categories: ["Ideas"]
 icon: "fas fa-tree"
-thumbnail: Kinesin.gif
+thumbnail: /static/posts_img/Kinesin.gif
 images:
  - image_path: /static/posts_img/p1.png
  - image_path: /static/posts_img/p2.jpg

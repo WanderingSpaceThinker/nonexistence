@@ -5,7 +5,7 @@ description: "You wouldn't steal a car..."
 date: 2021-06-19
 categories: ["Ideas"]
 icon: "fas fa-user-ninja"
-thumbnail: 1984.jpg
+thumbnail: /static/posts_img/1984.jpg
 images:
  - image_path: /static/posts_img/salt.jpg
  - image_path: /static/posts_img/1984.jpg

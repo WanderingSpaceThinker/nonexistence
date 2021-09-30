@@ -5,7 +5,7 @@ description: "Make FMECA great again."
 date: 2021-07-16
 categories: ["Drafts"]
 icon: "fas fa-temperature-high"
-thumbnail: scrabble.jpg
+thumbnail: /static/posts_img/scrabble.jpg
 images:
  - image_path: /static/posts_img/arctic_petm.jpg
  - image_path: /static/posts_img/scrabble.jpg

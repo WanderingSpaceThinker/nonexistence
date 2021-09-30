@@ -36,7 +36,7 @@
           <meta content="{{ site.url }}{{ site.baseurl }}/about/" property="article:author">
         {% endif %}
         {% if page.thumbnail %}
-          <meta content="{{ site.url }}{{ site.baseurl }}/static/posts_img/{{ page.thumbnail }}" property="og:image">
+          <meta content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}" property="og:image">
         {% else %}
           <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
         {% endif %}
@@ -66,8 +66,8 @@
         {% else %}
           <meta name="twitter:description" content="{{ site.description }}">
         {% endif %}
-        {% if page.header-img %}
-          <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/{{ page.header-img }}">
+        {% if page.thumbnail %}
+          <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}">
         {% else %}
           <meta name="twitter:image:src" content="{{ site.url }}{{ site.logo }}">
         {% endif %}

@@ -5,7 +5,7 @@ description: "Really, it's just a physics lesson on water."
 date:   2021-03-14
 categories: ["Drafts"]
 icon: "fas fa-tint"
-thumbnail: triple.gif
+thumbnail: /static/posts_img/triple.gif
 images:
  - image_path: /static/posts_img/water.png
  - image_path: /static/posts_img/particles.gif
