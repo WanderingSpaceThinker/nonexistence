@@ -209,3 +209,5 @@ But in a generic manner, reducing crime is about
 As a final note, there's something I want to address. I focused on solving the issue as much in a vacuum as I could, ignoring stuff like cost, logistics, legislation, that makes changing things excruciatingly slow and complicated.
 
 So, for convenience's sake, I explored what we could do without those constraints and that's what we'll also do for future entries.
+
+[Sources]({{ site.baseurl }}/static/sources/si1_crimes_sources.html)
