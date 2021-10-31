@@ -349,3 +349,7 @@ p.legend {
         z-index: 1;
     }
 }
+
+.share-page {
+    line-height: 10px;
+}

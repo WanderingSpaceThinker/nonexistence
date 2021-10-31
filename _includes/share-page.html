@@ -1,13 +1,15 @@
 <div class="share-page">
-    Share this on &rarr;
+    <p>Share this on:</p>
 
 <!-- Twitter -->
- <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.share.twitter_username }}">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>
+<script>window.twttr=function(t,e,r){var n,i=t.getElementsByTagName(e)[0],w=window.twttr||{};return t.getElementById(r)?w:((n=t.createElement(e)).id=r,n.src="https://platform.twitter.com/widgets.js",i.parentNode.insertBefore(n,i),w._e=[],w.ready=function(t){w._e.push(t)},w)}(document,"script","twitter-wjs");</script>
 
 <!-- Facebook -->
-<div class="fb-share-button" data-href="{{site.url}}{{ site.baseurl }}{{page.url}}" data-layout="button_count" style="position: relative; top: -8px; left: 3px;"></div>
+<div class="fb-share-button" data-href="{{site.url}}{{ site.baseurl }}{{page.url}}" data-layout="button_count" style="position: relative; top: 0px; left: 0px;"></div>
+
 </div>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
