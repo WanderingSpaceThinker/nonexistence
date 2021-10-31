@@ -109,7 +109,7 @@ This is not an exhaustive list, but let's end it here. If this is correct, as lo
 
 This part ended up so big it became its own [article]({{site.baseurl}}/ideas/2021/06/19/Society-Issue-1-Crimes.html).
 
-## <ins>Unseen consequences</ins>
+## <ins>Unseen consequences:</ins>
 
 Evil, wars and crimes are bad<sup>[overused joke]</sup>. The suffering they bring upon those on the receiving side makes them highly unpopular, and I personally wish they didn't exist. Getting rid of them will be tremendously beneficial to society overall.
 
@@ -154,7 +154,7 @@ In a nutshell, eliminating evilness would inevitably bring down other aspects of
 
 You have the right to think it's a good thing, to me, it's too risky and naive not to maintain and improve all of these, let alone discarding them. I still want to reduce crimes and wars as much as possible though, we just need to think everything through, and with some planning, maybe everything I just said isn't a fatality.
 
-## <ins>Going beyond</ins>
+## <ins>Going beyond:</ins>
 
 Here's what we could do to mitigate this issue. We could start by trying to anticipate and simulate threats. That could be:
 * Raising public awareness on issues like misinformation
@@ -173,7 +173,7 @@ If we generalized this culture of ethical hacking, we could have a non-evil pres
 
 You might argue that we don't need bounties, that a good citizen would report exploits and flaws for free. I don't disagree, but I trust incentives more, if you're a good citizen you can just refuse the bounty.
 
-## Conclusion
+## <ins>Conclusion:</ins>
 
 Abolishing evil is a noble but unobtainable goal, if we could, it would be beneficial but also lead to losing valuable skills and knowledge regarding our defenses against nefarious acts.
 
