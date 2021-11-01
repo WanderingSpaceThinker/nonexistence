@@ -97,17 +97,17 @@ In my opinion, the biggest problem (beside the lack of evidence of course), is i
 
 That said, I believe the myth is a misunderstanding of something linked to high compatibility. I don't know if compatibility is quantifiable, but you can probably loosely classify people by how much you're compatible with them in different aspects.
 
-If that's possible, surely, there is a compatibility threshold where the mix of similarity and complementarity  between two people makes them feel like they understand each other effortlessly, that they cover each other's weaknesses and needs, like they're part of a single super-organism.
+If that's possible, surely, there is a compatibility threshold where the mix of similarity and complementarity between two people makes them feel like they understand each other effortlessly, that they cover each other's weaknesses and needs, like they're part of a single super-organism.
 
-This feeling, that I have first-hand experience of, would be the result of what I call hypercompatibility.
+This phenomenon, that I have first-hand experience of, would be the result of what I call hypercompatibility.
 
-Interestingly enough, it means that, assuming hypercompatibility exists for your psychotype, you might have many hypercompatible people. Great... except you might never meet them or won't be both available at the same time. Hence, why this is a rare phenomenon.
+Interestingly enough, it means that, assuming hypercompatibility exists for your psychotype, you might have many hypercompatible people. Great... except you might never meet them or won't be both available at the same time. Hence, why this is a rare occurrence.
 
 A few clarifications though:
 * You may still meet someone you're highly compatible, just not hypercompatible.
 * It's not necessary about romance, it can simply be friendship.
-* Remember that compatibility changes with time, it may go above or below the threshold.
-* Compatibility only influence relationships, so an extremely strong will heavily favor but doesn't guarantee deep bonds.
+* It only influences relationships, so it will heavily favor (but not guarantee) deep bonds.
+* Compatibility changes with time, it may go above or below the threshold over time.
 
 If you have to take anything from this, just know that it exists, but it's probably useless to seek it. If it happens to you, congratulations, but it's not a golden ticket towards happiness.
 
