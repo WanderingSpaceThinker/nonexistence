@@ -6,7 +6,7 @@ logo: /static/img/milky-way.png
 about: Wandering Space Thinker
 
 baseurl: ""
-url: "https://www.nonexistence.xyz/"
+url: "https://www.nonexistence.xyz"
 
 allowsearch: true
 allowgoogleanalytics: true
