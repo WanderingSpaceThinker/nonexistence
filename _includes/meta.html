@@ -52,7 +52,6 @@
         {% endif %}
         <meta name="twitter:card" content="summary">
         <meta name="twitter:site" content="@{{ site.share.twitter_username }}">
-        <meta name="twitter:creator" content="@{{ site.share.twitter_username }}">
         {% if page.title %}
           <meta name="twitter:title" content="{{ page.title }}">
         {% else %}
@@ -67,7 +66,7 @@
           <meta name="twitter:description" content="{{ site.description }}">
         {% endif %}
         {% if page.thumbnail %}
-          <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}">
+          <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}">
         {% else %}
-          <meta name="twitter:image:src" content="{{ site.url }}{{ site.logo }}">
+          <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}">
         {% endif %}
