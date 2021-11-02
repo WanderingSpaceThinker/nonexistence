@@ -11,7 +11,7 @@ images:
  - image_path: /static/posts_img/messy_room.jpg
 ---
 
-Last time we talked about how we could attribute a color to our mind. Now that we have that, we can talk about those colors *interact* with each other. Because, just like some colors don't match really well together, some people won't get along.
+Last time we talked about how we could attribute a color to our mind. Now that we have that, we can talk about how those colors *interact* with each other. Because, just like some colors don't match really well together, some people won't get along.
 
 Have you ever met someone and knew that you'll never get along? Or maybe the contrary, you knew you'll become best friends instantly? Of course, there is all the middle cases like that person that made you felt uncomfortable without understanding why or that one that you tolerate, but only for short periods of time.
 
@@ -22,11 +22,11 @@ All of this might be the result of what I call (human) compatibility.
 
 <ins>**What is and what isn't compatibility?**</ins>
 
-> In this context, compatibility is the propensity of two persons to get along, resulting from the interaction of the two psychotypes over time.
+> In this context, compatibility is the propensity of two people to get along, resulting from the interaction of the two psychotypes over time.
 
 For example, imagine you're very impulsive. You'll probably have a better experience with a calmer person that can stomach your tantrums, compared to someone that'll just pour oil on the fire... Unless you don't like calm people because you find them boring.
 
-That said, it's important to make the distinction between how you feel (like, love, hate...) for someone and your compatibility with them. Your feelings **will** be influenced by your compatibility, but they will mostly be the result of the time you spent together and the events you went through.
+That said, it's important to distinguish how you feel (like, love, hate...) for someone and your compatibility with them. Your feelings **will** be influenced by your compatibility, but they will mostly be the result of the time you spent together and the events you went through.
 
 What that means is:
 * you can be friend with someone you're not compatible with (e.g: if you were childhood friends).
@@ -45,13 +45,13 @@ Now, what exactly create (in)compatibility? It's the interaction between the psy
 
 <ins>Hobbies & interests:</ins>
 
-When two persons have common passions or activities, it'll have a positive compatibility effect, as it allows them to do or talk about things they like together. Even if there is none, it can also have a positive contribution as it means they can discover new things they enjoy but didn't know beforehand.
+When two people have common passions or activities, it'll have a positive compatibility effect, as it allows them to do or talk about things they like together. Even if there is none, it can also have a positive contribution as it means they can discover new things they enjoy but didn't know beforehand.
 
 Except in the case where the activity is despised by the other (e.g: hunting vs vegan or weird fetishes... not to kink-shame anyone), the total absence of common interests will simply have a neutral impact on compatibility. They just won't enjoy these things together.
 
 <ins>Opinions & values:</ins>
 
-I'm not talking of opinions on the latest Netflix show, this stuff belongs to the previous category. Religion, Politics, the Economy... All the topics that can only be enjoyed at an extended family reunion with popcorn and ear plugs.
+I'm not speaking of opinions on the latest Netflix show, this stuff belongs to the previous category. Religion, Politics, the Economy... All the topics that can only be enjoyed at an extended family reunion with popcorn and ear plugs.
 Those are driven by a person's underlying values, they are part of one's identity and that's why things can get heated quickly as criticism of those ideas are akin to insults.
 
 That's not true for everybody, and to each their own *sensitive* subjects. In general, if people have opposite opinions for these, it will cause major incompatibility as they will be sources of intense bickering. Similar opinions will be positive but not the same extent. It's not like you can do much more than nod in unison and feel like you understand each other.
@@ -105,7 +105,7 @@ Interestingly enough, it means that, assuming hypercompatibility exists for your
 
 A few clarifications though:
 * You may still meet someone you're highly compatible, just not hypercompatible.
-* It's not necessary about romance, it can simply be friendship.
+* It's not necessarily about romance, it can simply be friendship.
 * It only influences relationships, so it will heavily favor (but not guarantee) deep bonds.
 * Compatibility changes with time, it may go above or below the threshold over time.
 
