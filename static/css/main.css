@@ -353,3 +353,10 @@ p.legend {
 .share-page {
     line-height: 10px;
 }
+.list-group .list-group-item .row-action-primary i {
+    background: #30a1bb;
+}
+
+.row-content a:visited {
+  color: grey;
+}
