@@ -3,7 +3,7 @@ layout: post
 title: "The color of your mind"
 description: "Dibs on peacock blue!"
 date: 2021-09-28
-categories: ["Drafts"]
+categories: ["Psychology"]
 icon: "fas fa-palette"
 thumbnail: /static/posts_img/color_wheel.jpg
 images:

@@ -3,7 +3,7 @@ layout: post
 title: "Starting Point"
 description: "There has to be a start to every journey."
 date:   2021-02-20
-categories: ["Ideas"]
+categories: ["Society"]
 icon: "fas fa-seedling"
 thumbnail: /static/posts_img/undercover_hippie.jpg
 images:

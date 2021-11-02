@@ -3,7 +3,7 @@ layout: post
 title: "The cruel necessity of evil"
 description: "Be careful what you wish for."
 date: 2021-07-26
-categories: ["Ideas"]
+categories: ["Society"]
 icon: "fas fa-dungeon"
 thumbnail: /static/posts_img/ruins.jpg
 images:
