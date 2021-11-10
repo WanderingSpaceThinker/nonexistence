@@ -33,7 +33,7 @@ What that means is:
 * you can hate someone you're compatible with (e.g: if they betrayed you, one way or another).
 * you can "fail" to befriend someone you're compatible with, if you meet them during a time you were busy and unavailable emotionally.
 
-There's all other sorts of scenarios where compatibility and feelings can be at odds, but you get the idea. The core thing is, compatibility only have an influence (positive or negative) on a relationship. Meaning that, an incompatibility, with enough motivation, won't prevent people from becoming friends.
+There's all other sorts of scenarios where compatibility and feelings can be at odds, but you get the idea. The core thing is, compatibility only have an influence (positive or negative) on a relationship. Meaning that, an incompatibility, with enough motivation, won't prevent people from becoming friends, or more.
 
 In addition, since psychotypes are dynamic, compatibility can evolve as well. In the scenario where two seemingly incompatible people put in the efforts, it's possible for the incompatibility to disappear with time. On the opposite, a married couple can see their compatibility decrease as they age and grow apart.
 
@@ -79,8 +79,10 @@ Ultimately, your taste in a person (what you look for, what you despise) will ta
 There are many more things that are at play, and probably some I don't even think about. So here's a list to wrap it up:
 * Mood: Your mood will influence your behavior, like being upset generally makes you more aggressive. That can impact your compatibility with others: Think about that friend you really like but gets super obnoxious when he drinks.
 * First impression: The first time you meet someone is crucial because they will base their idea of you on what they'll get from that encounter. The problem is, this little glimpse is not enough, but it can't be helped because that's how it works. So, if we recoup with the mood part, try not to get intoxicated or angry at a first date (yeah, I know, top quality tips right there).
-* Appearance: Beside physical attraction, or lack thereof, you can be intimidated or put off by a person stature. To blur the line with personality, things like body language, speech mannerisms or personal style can also influence compatibility, albeit in a more unconscious *fashion*.
-* Skills: Think about trying to make a good team, you need skill diversity to cover what the team will have to do. In our context, if two people living together both dislike (and suck) at cooking and cleaning, they will be forced to find solutions (eating out, hiring a housemaid...) where a more balanced couple would have avoided those pitfalls.
+* Appearance: Beside physical attraction, or lack thereof, you can be intimidated or put off by a person stature.
+* Texture: This include everything that blur the line between appearance and personality. Things like body language, speech mannerisms or personal style. They all influence compatibility, albeit in a more unconscious *fashion*.
+* Humor: Similarly to hobbies, if you have the same sense of humor, you can laugh together at the same jokes and enjoy yourselves more than otherwise.
+* Skills: Think about trying to make a good team, you need skill diversity to cover what the team will have to do. In our context, if two people living together both dislike/suck at cooking and cleaning, they will be forced to find solutions (eating out, hiring a housemaid...) where a more balanced couple would have avoided those pitfalls.
 * Physical closeness: the amount of time spent together will result in interactions that might reveal (in)compatibility that wouldn't have shown up if you don't see each other as much. Just imagine you're very orderly and your roommate is fun to be with but messy...
 
 ![colors]({{ site.baseurl }}{{ page.images[1].image_path }})
