@@ -15,8 +15,6 @@ images:
  - image_path: /static/posts_img/curve.png
 ---
 
-*This is the first issue of Drafts. This will be a series of shorter(ish), simpler(ish) articles about a single theme or question, hope you enjoy this lighter content.*
-
 **<ins>Introduction</ins>**
 
 Answer quickly, what's the boiling temperature of water? What does it correspond to?
