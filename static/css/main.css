@@ -360,3 +360,7 @@ p.legend {
 .row-content a:visited {
   color: grey;
 }
+
+.content a:visited {
+  color: #1A7970;
+}
