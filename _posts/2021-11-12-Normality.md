@@ -2,7 +2,7 @@
 layout: post
 title: "Normality"
 description: "Are you normal?"
-date:   2021-11-02
+date:   2021-11-12
 categories: ["Society"]
 icon: "fas fa-bread-slice"
 thumbnail: /static/posts_img/panic.jpg
