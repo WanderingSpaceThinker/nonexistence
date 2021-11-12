@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /static/posts_img/*
+User-agent: Twitterbot
+Allow: /static/posts_img/*
 Sitemap: https://wanderingspacethinker.github.io/nonexistence/sitemap.xml
