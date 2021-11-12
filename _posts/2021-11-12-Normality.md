@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Normality"
-description: "Are you normal?"
+description: "Is it normal to be weird, or is it weird to be normal?"
 date:   2021-11-12
 categories: ["Society"]
 icon: "fas fa-bread-slice"
