@@ -87,7 +87,7 @@ That's annoying when it's something you control, but at least you can choose to 
 
 Obviously, we must fight against harassment, bigotry and open intolerance, but it can stem from inconspicuous things like a weird look or a remark on Bob's new pink shoes, so try to keep those in mind.
 
-Back to our subject, that normal value won't (necessarily) be universal, and someone regular can suddenly become the ugly duckling by simply switching environment. If you were to send a world-average height person to a pygmy population, they would stand out... a lot.
+Back to our subject, what's normal isn't (necessarily) universal, and someone regular can suddenly become the ugly duckling by simply switching environment. If you were to send a world-average height person to a pygmy population, they would stand out... a lot.
 
 It just shows that our world is vast and varied, and it'd be interesting to see how that normality evolves. For that, what better divide to study, but the most infamous of all.
 
