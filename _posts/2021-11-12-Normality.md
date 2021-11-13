@@ -102,13 +102,13 @@ The first thing you might notice is the significant gap in central values, on av
 
 If you need convincing, focus your attention towards the overlapping region I filled with yellow[^5], it clearly shows that a sizeable chunk of the population won't fit that narrative. "Tall" girls and "Short" boys exist, they're just rarer than their opposite sex counterpart.
 
-They are other differences that are more or less pronounced although, correct me if I'm wrong, height is on the stronger difference side of the spectrum[^6]. In any cases, even if psychological differences had that much of a gap, which they seemingly don't, the overlapping region would remain.
+There are other differences that are more or less pronounced although, correct me if I'm wrong, height is on the stronger difference side of the spectrum[^6]. In any cases, even if psychological differences had that much of a gap, which they seemingly don't, the overlapping region would remain.
 
 Our brain take it easy by assimilating the average, the "normal" as the default, the sole value that matters, but it's wrong. It severely reduces our ability to appreciate our diversity, and it participates in the pesky social pressure. I feel a bit dumb pointing it out, but we are not probabilities, we're people.
 
 As anecdotal evidence goes, I always found these differences barely noticeable as I interact on an individual to individual basis, and not with large cohorts of people. Sure, some characteristics were more frequent in girls than boys (or vice versa) but I could always find psychotypes that were almost identical across sexes.
 
-This observation is also valid for other factors than sex, like ethnicity, age, country of origin, culture... Everything is possible, normality just mean it's less likely the further you get from the mean.
+This observation is also valid for other factors than sex, like ethnicity, age, country of origin, culture... Everything is possible, normality just means it's less likely the further you get from the mean.
 
 <ins>**Conclusion:**</ins>
 
