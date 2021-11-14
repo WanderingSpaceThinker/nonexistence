@@ -81,7 +81,7 @@ Combine this with the bell curve pattern, and you obtain an expectation towards 
 
 Whether you like it or not, it's unavoidable. The game of probabilities guarantees you're normal on many (if not most) criterion, and since they're so many of them, at least a few of them will be abnormal.
 
-Picture yourself a "normal clothing style", "normal ethnicity", "normal hobby", "normal nose size"... Chances are, you're **painfully** aware whenever you're outside the norm.
+Picture yourself a "normal clothing style", "normal ethnicity", "normal hobby", "normal shoe size"... Chances are, you're **painfully** aware whenever you're outside the norm.
 
 That's annoying when it's something you control, but at least you can choose to either conform or make a statement. However, it can get tragic if it's something outside your control, like your sexual orientation or gender identity. Thus, social pressure needs to be reined in, especially during the teenage years, I don't think I need to explain why.
 
