@@ -365,3 +365,9 @@ p.legend {
 .content a:visited {
   color: #1A7970;
 }
+
+@media (min-width: 769px) {
+    p.list-group-item-text {
+        padding-right: 40px;
+    }
+}
