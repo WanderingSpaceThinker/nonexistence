@@ -374,7 +374,11 @@ p.legend {
 }
 
 @media (min-width: 769px) {
-    p.list-group-item-text {
+    h4.post-item {
+        padding-right: 60px;
+    }
+
+    p.post-item {
         padding-right: 40px;
     }
 }
