@@ -279,6 +279,10 @@ footer {
     color: white;
 }
 
+#formview input:focus, textarea:focus {
+    border:1px solid #6b0050;
+}
+
 
 /** Custom **/
 .content img {
@@ -366,11 +370,11 @@ p.legend {
 }
 
 .row-content a:visited {
-  color: grey;
+  color: #621a7a;
 }
 
 .content a:visited {
-  color: #1A7970;
+  color: #621a7a;
 }
 
 @media (min-width: 769px) {
