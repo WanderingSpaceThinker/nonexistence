@@ -244,15 +244,15 @@ footer {
 
  @media (min-width:768px) {
 #formview{
-    width: 40%;
+    width: 50%;
 }
 }
 
 #formview textarea {
-    height: 10.3em;
+    height: 15em;
 }
 
-input, textarea {
+#formview input, textarea {
     font-size: 0.8em;
     font-family: 'proxima-nova-soft', sans-serif;
     border: 1px solid #ddd;
@@ -265,13 +265,20 @@ input, textarea {
 
 #formview button, a.button {
     font-size: 1em;
-    font-weight: 600;
+    font-weight: 400;
     color: white;
+    border: none;
     background: #009691;
-    line-height: 1em;
-    padding: 0.6em 0.9em;
-    transition: all 0.3s ease-in-out;
+    padding: 0.3em 0.9em;
+    -webkit-box-shadow:0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+    box-shadow:0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
 }
+
+#formview button:hover {
+    background-color: #6b0050;
+    color: white;
+}
+
 
 /** Custom **/
 .content img {

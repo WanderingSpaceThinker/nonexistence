@@ -3,13 +3,16 @@ layout: default
 title: Contact
 ---
 
-<div id="formview" style="margin-left: auto; margin-right: auto; text-align: center;">
+<div id="formview" style="margin-left: auto; margin-right: auto; align-items: left;">
 	<h3>Contact Form</h3>
 	<br>
 	<form id="contactform" action="https://formspree.io/f/myybaavl" method="POST">
-		<input type="email" name="_replyto" placeholder="Your email">
-		<textarea name="message" placeholder="Your message"></textarea>
-		<br>
+		<p>Your mail:
+			<input type="email" name="_replyto" required>
+		</p>
+		<p>Your message:
+			<textarea name="message" required></textarea>
+		</p>
 		<button type="submit">Send</button>
 		<input type="text" name="_gotcha" style="display:none" />
 	</form>

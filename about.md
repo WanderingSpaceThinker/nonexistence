@@ -6,6 +6,8 @@ permalink: /about/
 
 ## Hello there, Internet dweller !
 
+<br>
+
 If you stumbled here by chance (or by mistake, your call) let me tell you what's going on.
 
 This little haven of digital space is where I decided to settle my thoughts and etch them somewhere in this space-time continuum.
