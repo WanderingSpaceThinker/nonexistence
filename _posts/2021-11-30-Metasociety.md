@@ -7,7 +7,7 @@ categories: ["Society"]
 icon: "fas fa-dice-d20"
 thumbnail: /static/posts_img/earth.jpg
 images:
- - image_path: /static/posts_img/fair.png
+ - image_path: /static/posts_img/fair.jpg
  - image_path: /static/posts_img/primate.png
  - image_path: /static/posts_img/earth.jpg
  - image_path: /static/posts_img/cookie.jpg
@@ -139,7 +139,7 @@ That being said, I have to recognize, it comes with operational challenges that 
 
 Maybe it will be tested on a small scale one day, maybe it will fail to solve anything, maybe it will become the de facto global system in the future human galactic empire, maybe all civilization will collapse before we can attempt anything. In any cases, one truth remains: *We live in a society.*
 
-Bonus game: If you correctly count the number of society/societies in this article, you gain a free cookie![^11]
+Bonus game: If you correctly hand count the number of *"society"* in this article, you gain a free cookie![^11]
 
 ![cookie]({{ site.baseurl }}{{ page.images[3].image_path }})
 <p class="legend">Non-contractual picture.</p>
