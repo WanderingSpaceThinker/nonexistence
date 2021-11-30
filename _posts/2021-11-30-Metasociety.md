@@ -2,7 +2,7 @@
 layout: post
 title: "Metasociety"
 description: "No grandma, it has nothing to do with Monopoly... or Facebook."
-date:   2021-11-27
+date:   2021-11-30
 categories: ["Society"]
 icon: "fas fa-dice-d20"
 thumbnail: /static/posts_img/earth.jpg
@@ -21,7 +21,7 @@ Before I define what this is, let me explain why I came up with it: As stated pr
 
 For example, if you're someone that believes everyone should be treated equally and properly, the ludicrous life of billionaires while plenty of people live in miserable conditions might cause you... distress[^3]. As a result, you might be more attracted to socialism, as it promotes the idea of social justice, than to more liberal systems.
 
-The key idea is that, if you don't fit the society you're (more often than not) forced to live in, you will greatly suffer. Whether because you're getting marginalized, or because you simply don't possess the skills needed to survive in this environment. This can create resentment from both *side*[^4], triggering cycles of violence and unrest, weakening society overall.
+The key idea is that, if you don't fit the society you're (more often than not) forced to live in, you will greatly suffer. Whether because you're getting marginalized, or because you simply don't possess the skills needed to survive in this environment. This can create resentment from both *sides*[^4], triggering cycles of violence and unrest, weakening society overall.
 
 Those outcomes aren't bright, but seems avoidable with two conditions:
 * Numerous types of society exist.
