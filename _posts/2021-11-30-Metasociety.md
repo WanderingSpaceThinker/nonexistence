@@ -62,7 +62,7 @@ Now, where there are rules, there's an authority to enforce them. This will be d
 
 Because yes, the goal is also for all those societies to play nice with each other, I'm not a big fan of war you see. Some amount of rivalry will probably inevitable though, but if they're interdependent enough, without limited competition for access to resources, then we should have a somewhat stable world order like we have at the time of writing[^6].
 
-Another pillar of conflict-prevention will be CFDA, placed at the core of the Metasociety. This will also be helpful
+Another pillar of conflict-prevention will be [CFDA]({{ site.baseurl }}/society/2021/11/24/CFDA.html), placed at the core of the Metasociety. This will also be helpful
 to organize and classify the different societies, which is needed by itself and helps with our "how do you know which society is made for you" problem we saw above.
 
 Societies would be sorted based on how much they have in common, a bit reminiscent of a [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree), with branches for every fundamental differences. For example, a branch for "traditionalist" societies that wants to strictly restrict technology usage[^7] and another for the more "laissez-faire" ones.
