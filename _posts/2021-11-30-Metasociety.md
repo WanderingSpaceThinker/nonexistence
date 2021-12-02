@@ -3,7 +3,7 @@ layout: post
 title: "Metasociety"
 description: "No grandma, it has nothing to do with Monopoly... or Facebook."
 date:   2021-11-30
-categories: ["Society"]
+categories: ["Improve"]
 icon: "fas fa-dice-d20"
 thumbnail: /static/posts_img/earth.jpg
 images:

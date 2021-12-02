@@ -3,7 +3,7 @@ layout: post
 title: "Society Issue #1 - Crimes"
 description: "You wouldn't steal a car..."
 date: 2021-06-19
-categories: ["Society"]
+categories: ["Understand"]
 icon: "fas fa-user-ninja"
 thumbnail: /static/posts_img/1984.jpg
 images:

@@ -3,7 +3,7 @@ layout: post
 title: "Human compatibility"
 description: "Meet compatible humans in your area."
 date: 2021-10-31
-categories: ["Psychology"]
+categories: ["Understand"]
 icon: "fas fa-handshake"
 thumbnail: /static/posts_img/handshake.jpg
 images:
