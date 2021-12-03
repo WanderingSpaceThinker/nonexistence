@@ -72,7 +72,7 @@ Sorry I'm back again with more existential dread, the year has been tough... Sin
 
 The main reason I add this is I'm biased for efficiency, I don't tolerate any kind of waste (time, food, energy...) but we can't stop here, there needs to be rationalization and reasoning when choosing values for anything but yourself, so here it is:
 
-This moderation should buy us more time in the "great escape onward" that is solving our critical problems with an ever-increasing web of technology, knowledge, logistical chain that just adds even harder issues to solve on top (Goodbye long travel times across the globe and hello g̷̟̦̅l̷͙̗̼̬̏̒͗͊̚͜ò̵͉͇͒͑̄͝b̴͎̝́a̵̧̢̹̻̋̈̌̾̈́l̶̩̘̤̔̎ ̵̣̗͕̈́̓̚͝w̴̡̛͇̥͍ā̵̙͓̤r̴̺̭̪̓͗m̸̠̲̹̺̈́i̵̪̋n̷̢̥̭̹͒g̸̛͉͍̲̟̅͐͝ ). That's why I want to add **Efficiency** as the second key value.
+This moderation should buy us more time in the "great escape onward" that is solving our critical problems with an ever-increasing web of technology, knowledge, logistical chain that just adds even harder issues to solve on top (Goodbye long travel times across the globe and hello c̸̟̲̫̫̩̈́l̸̯̺̺͒į̶̨͇̊͑́͜m̵͕̣͕͑â̸̤̣͖̺͓̈́͑̎̽t̸͕̘̦̪͋̽̏͝e̴̠͚͇͓̓̕ ̸͍̮̫͌̕ć̷̨̛̲̞͉̹̌̒̍h̷̢̬̠̤̓͐ä̸͎̱̣̠̹̐ń̵̟̗͕͚͛͠͝g̴̨̨̻͔̋͛͝ͅe̸̬̅̏̀). That's why I want to add **Efficiency** as the second key value.
 
 As a side note on this phenomenon, I know that it can seem pretty unsustainable to keep piling up complex problems and expanding forward. Is it reasonable to siphon metals from neighboring celestial bodies because they're too rare on our planet to manufacture 1 billion smartphones every year? Is it justifiable to turn the entirety of Mercury into a satellite swarm obscuring the sun to solve our energy problem? Do we really have to go as far as we can just for the sake of it?
 
