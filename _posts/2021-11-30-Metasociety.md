@@ -92,6 +92,12 @@ Similarly, the metaconstitution will define how the metagovernment is chosen[^8]
 
 If they do infringe these rules, the metagovernment should have coercive power, otherwise we'll end up with UN v2.0 and that's definitely not what we want. Beside all that, it won't have any regards on a society internal affairs.
 
+Another mind-bending possibility, is a group of societies forming their own sub-metasociety, with everything we talked about just replicated a layer below. The reason to do this would be a stronger common constitution, while still allowing societal variations.
+
+Say, the metasociety only incorporates the Human Rights in its constitution. Maybe a group of societies feels strongly against speciesism, and wants to generalize HR to every living organisms. They can form their own sub-metasociety that only includes the updated "Every Species Rights" text in their constitution.
+
+Obviously, this adds another administrative layer in an already crowded lasagna. It will require a lot of cleverness to make this viable, and we'll need mandatory limits to the amount of sub-metasociety branching to limit complexity.
+
 <ins>**It gets even more ludicrous:**</ins>
 
 By now, you might have noticed I've been avoiding a key issue: location. Didn't I say earlier that moving country was a problem in of itself? Well, the solution is *simple*, don't bind a particular society to a particular location.
