@@ -62,7 +62,7 @@ Now, where there are rules, there's an authority to enforce them. This will be d
 
 Because yes, the goal is also for all those societies to play nice with each other, I'm not a big fan of war you see. Some amount of rivalry will probably inevitable though, but if they're interdependent enough, without limited competition for access to resources, then we should have a somewhat stable world order like we have at the time of writing[^6].
 
-Another pillar of conflict-prevention will be [CFDA]({{ site.baseurl }}/society/2021/11/24/CFDA.html), placed at the core of the Metasociety. This will also be helpful
+Another pillar of conflict-prevention will be [CFDA]({{ site.baseurl }}/improve/2021/11/24/CFDA.html), placed at the core of the Metasociety. This will also be helpful
 to organize and classify the different societies, which is needed by itself and helps with our "how do you know which society is made for you" problem we saw above.
 
 Societies would be sorted based on how much they have in common, a bit reminiscent of a [phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree), with branches for every fundamental differences. For example, a branch for "traditionalist" societies that wants to strictly restrict technology usage[^7] and another for the more "laissez-faire" ones.
@@ -74,7 +74,7 @@ The glaring issue with this representation is whenever there are two societies i
 
 In our case, we'll need to rank the differences to define the main hierarchical separation, and maybe make use of 3D or colors to get additional information across. Defining this could be its own article, so let's move on.
 
-If you need an example of what kind of new society we could have, you can check [my first article]({{ site.baseurl }}/society/2021/02/20/Starting-point.html) where I define a blueprint for my ideal society. Crucially, I realize it won't suit everybody (so do the existing ones), hence why I'm writing this article.
+If you need an example of what kind of new society we could have, you can check [my first article]({{ site.baseurl }}/create/2021/02/20/Starting-point.html) where I define a blueprint for my ideal society. Crucially, I realize it won't suit everybody (so do the existing ones), hence why I'm writing this article.
 
 Next, we need to address how the Metasociety and its societies evolve with time. At both levels, we'll have things you are familiar with:
 * A fundamental piece of legislation that defines the core principles: A (meta)constitution.

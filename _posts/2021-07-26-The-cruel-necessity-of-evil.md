@@ -107,7 +107,7 @@ This is not an exhaustive list, but let's end it here. If this is correct, as lo
 
 <ins>**Crimes:**</ins>
 
-This part ended up so big it became its own [article]({{site.baseurl}}/ideas/2021/06/19/Society-Issue-1-Crimes.html).
+This part ended up so big it became its own [article]({{site.baseurl}}/understand/2021/06/19/Society-Issue-1-Crimes.html).
 
 ## <ins>Unseen consequences:</ins>
 

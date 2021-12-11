@@ -78,7 +78,7 @@ As a side note on this phenomenon, I know that it can seem pretty unsustainable 
 
 This is a tough question that needs to be answered in depth and collectively. Personally, I lean more into the yes with conditions but I understand people that feel like we went too far when we started modifying our planet's ecosystem, endangering most of the living species, us in particular, in the process.
 
-For those who yearn for a simpler life, there might be a way to coexist with the growing convoluted mess we actually have but we'll have to discuss it [another time]({{site.baseurl}}/thoughts/Meta-society.html).
+For those who yearn for a simpler life, there might be a way to coexist with the growing convoluted mess we actually have but we'll have to discuss it another time[^1].
 
 Back on track, we have our major values but before adding more, I'd like to illustrate how I'd apply them on a real societal issue: death penalty.
 
@@ -112,3 +112,5 @@ The idea here is to encourage the widest range of ideas, culture, recipes... to 
 Just like having a lot of different crops ensures one disease alone can't threaten food security. There's also that investor's saying about not having all the same baskets on the omelet... or something like that.
 
 That's it for the values I'd like to see for the universe or society. I hope you enjoyed reading the first of what I call **"A random dude's boring take on an uninteresting subject"**, which could have been this blog's name really. I (re)invite you to think about all of this yourself, I need a variety of opinions on this topic if I want to follow my own principles after all.
+
+[^1]: (Edit) I was foreshadowing the [metasociety]({{site.baseurl}}/improve/2021/11/30/Metasociety.html)
