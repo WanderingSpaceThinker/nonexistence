@@ -95,7 +95,7 @@ When unadressed, this hatred will create a strain on the relationship, even befo
 
 In that scenario, the expected outcome is a progressive dying of both feelings leading towards either a mutation from romantic to (most likely) platonic love, or even plain indifference.
 
-Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the indifference numbs our skull, and the hatred corrupts our souls.
+Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the indifference numbs our skull, and the hatred corrupts our souls[^5].
 
 Alright, I've been torturing my mind for too long with this subject, it's time to wrap things up. Suffice to say, all these ideas are not based on facts and only reflect my own opinion on the matter.
 
@@ -108,3 +108,4 @@ I won't be surprised if you don't agree with me, it's perfectly fine. Still, I b
 [^2]: No, wait, I'm mixing it up with snowflakes.
 [^3]: To be clear, I mean that love implies caring, but you can totally care without loving.
 [^4]: Be assured, I do not condone any of these actions. There is no context where harming others is justified.
+[^5]: Or we can double down and get both at the same time!
