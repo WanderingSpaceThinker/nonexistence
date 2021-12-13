@@ -32,7 +32,7 @@ But you probably feel very differently about your significant other and your par
 
 Another way to signify this, is to have different "categories of love" with their own name: parental love, sibling love, romantic love... You could say it's like lightning, it's never exactly the same twice[^2].
 
-If everyone has its own love, with a different "way of loving" for everyone and everything, we can picture this as a forest: The trees would be everyone's unique love, with each branch the way they love a particular whatever.
+If everyone has their own love, with a different "way of loving" for everyone and everything, we can picture this as a forest: The trees would be everyone's unique love, with each branch the way they love a particular whatever.
 
 ![forest]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">"Forest of love" by WST - I know, I totally missed my vocation in art</p>
@@ -41,17 +41,17 @@ It's not like each tree and branch are entirely unique and distinct, though. The
 
 For example, the branch of past and present romantic interests will have in common a love flavored with physical and sexual attraction. While on the friendship/platonic branch, we'll find close friends that are more like siblings.
 
-What if suddenly you're attracted to one of them? The change don't warrant a complete redefinition of your love, it's more a continuation of the past that took a different turn. But now this branch has more in common with the romantic branches, to accurately compare we'd need many more "degrees of freedom" in our metaphor.
+What if suddenly you're attracted to one of them? The change doesn't warrant a complete redefinition of your love, it's more a continuation of the past that took a different turn. But now this branch has more in common with the romantic branches, to accurately compare we'd need many more "degrees of freedom" in our metaphor.
 
 We have encountered a similar issue with [psychotypes]({{ site.baseurl }}/create/2021/09/28/The-color-of-your-mind.html) but that was because they stem from the complex mess of puzzle pieces that are our minds, while love is totally different... right?
 
 Or maybe, love is not a monolithic feeling, maybe it's the result of the interactions of various underlying elements. Maybe love was an emergent property all along!
 
-This would mean that each branch is unique because it results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has its own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
+This would mean that each branch is unique because it results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
 
 For example, a father's love for his offspring might be comprised, among other things, of a desire to protect and provide for them, to make them happy and ensure they grow into healthy adults. Of course, various underlying biological, sociological and [human compatibility]({{ site.baseurl }}/understand/2021/10/31/Human-compatibility.html) factors are also at play.
 
-Wait, there's more! You can totally be attracted to someone without loving them, people don't think twice about their one-night stands after all. That's true of other feelings: a teacher want their pupils to succeed, however, it can hardly be called love.
+Wait, there's more! You can totally be attracted to someone without loving them, people don't think twice about their one-night stands... That's true of other feelings as well: a teacher wants their pupils to succeed, however, it can hardly be called love.
 
 Perhaps, for a collection of feelings to qualify as love you need a baseline, a *love factor*, akin to an oven that bakes our ingredients into a cake, if we go back to our cooking recipe analogy. We can then redefine love as:
 
@@ -66,31 +66,41 @@ That said, we can't rule out that it's itself something more complex, less tangi
 
 Next, we can try to imagine how it interacts with other feelings:
 * Create: The feeling doesn't exist outside of love (e.g: desires to help at your own expense).
-* Amplify: The feeling exist outside of love but in generally tamer versions (e.g: attraction, need for skinship).
-* Transmute: The feeling exist outside but is radically transformed (e.g: jealousy, possessiveness).
+* Amplify: The feeling exists outside of love but in generally tamer versions (e.g: attraction, need for skinship).
+* Transmute: The feeling exists outside but is radically transformed (e.g: jealousy, possessiveness).
 
-There might be more, it's just to give an idea. In addition, it heavily depends on psychotype, remember, everyone has its own ability to love. We can imagine the love factor's influence on our feelings is variable as well.
+There might be more, it's just to give an idea. In addition, it heavily depends on psychotype, remember, everyone has its own ability to love, so we can imagine the love factor's influences on our feelings is variable too.
 
-Another interesting area of study would be the relationship between this love factor and relatives of love, like admiration, obsession or passion. Are they the result of other factors that influences our feelings as well? Or are they influenced themselves by the love factor? Sadly, on this topic, I don't have the answers, only more questions.
+Because romantic love is the most influent of all, it'd be nice to know if it has any unique interactions with the love factor. Is it special because it has the strongest interactions between the love factor and our feelings? Or is it because it involves unique ingredients, like [limerence](https://en.wikipedia.org/wiki/Limerence)?
+
+Another interesting area of study would be the relationship between this love factor and relatives of love, like admiration, obsession or passion. Are they the result of other factors that influence our feelings as well? Or are they influenced themselves by the love factor?
+
+Sadly, for both topics I don't have the answers, only more questions... For now, at least.
 
 Until now, I've focused more on the positive side of things, but life is not all roses and butterflies. Time to delve into the dark side of love: Toxic relationships, crimes of passion, domestic violence or even that omnipresent love triangle dynamic found in every romantic comedy ever...
 
 You might argue that they aren't the result of love, how can you abuse or kill someone if you love them? In some cases, this is certainly true, but not loving means not caring and I'd bet those acts can result from caring *too much*, or in a twisted way at least[^4].
 
-My hypothesis being, there's a buildup of negative emotions (resentment, jealousy, rancor...) originating from whether:
+My conjecture being, those nefarious acts result from a buildup of negative emotions (resentment, jealousy, rancor...) originating from whether:
 * the slow poison of incompatibility and time.
-* actions from the other side that caused harm, upset, or broke trust.
+* actions from the other side that caused harm, disappointment, or broke trust.
 
-Again, these emotions exist outside of love, and are generally minor. It means the buildup also interact with the love factor to generate those nefarious aspects of love... Which technically makes those emotions an official part of love, as per our definition.
+Again, these emotions exist outside of love, and are generally minor. It means they also interact with the love factor... Which technically makes them an official part of love, as per our definition. Including them directly as a part of love isn't super convenient though.
 
-Obviously, the buildup will create a strain on the relationship even before leading to such drama. In most cases, I'd expect it to simply trigger a loss of love by somehow weakening the love factor. Not directly by itself, it might just make us reconsider the relationship and sever the ties as some kind of self-protecting mechanism.
+I'd rather consider they generate a *mirror/negative* version of love that's akin to hate, a "love hatred" if you will, that can fluctuate in intensity with time and events. We do speak of the love-hate duality and of love-hate relationships after all.
+
+Obviously, this hatred will create a strain on the relationship even before leading to drama. In most cases, I'd expect it to simply trigger a loss of love by somehow weakening the love factor. Not directly by itself, it might just make us reconsider the relationship and sever the ties as some kind of self-protecting mechanism.
+
+The silver lining is, it's generally less prevalent than its love counterpart. That isn't too surprising, you rarely harm someone you love on purpose, and if you do, you'll at least try to patch things up. This lead to more positive interactions in the relationship overall.
+
+Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the hatred corrupt us.
 
 Alright, I've been torturing my mind for too long with this subject, it's time to wrap things up. Suffice to say, all these ideas are not based on facts and only reflect my own opinion on the matter.
 
-I won't be surprised if you don't agree with me, don't discard everything though. I'd like you to at least recall my "forest of love" metaphor and that, maybe, love is the result of a cooking recipe baked in a hypothetical love factor.
+I won't be surprised if you don't agree with me. Still, I believe my "forest of love" metaphor and my love factor hypothesis can help gain insight in the mess that's our loving hearts.
 
 ![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
-<p class="legend">And that it is a beautiful yet excruciatingly complicated topic</p>
+<p class="legend">For myself, I (re)discovered that love is a beautiful yet excruciatingly complex topic</p>
 
 [^1]: Although this is admittedly weird, we're tolerant on my blog, so we don't judge you... creep.
 [^2]: No, wait, I'm mixing it up with snowflakes.
