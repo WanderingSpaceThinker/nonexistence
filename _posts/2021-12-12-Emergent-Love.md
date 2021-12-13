@@ -47,7 +47,7 @@ We have encountered a similar issue with [psychotypes]({{ site.baseurl }}/create
 
 Or maybe, love is not a monolithic feeling, maybe it's the result of the interactions of various underlying elements. Maybe love was an emergent property all along!
 
-This would mean that each branch is unique because it results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
+This would mean that each branch is unique as it results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
 
 For example, a father's love for his offspring might be comprised, among other things, of a desire to protect and provide for them, to make them happy and ensure they grow into healthy adults. Of course, various underlying biological, sociological and [human compatibility]({{ site.baseurl }}/understand/2021/10/31/Human-compatibility.html) factors are also at play.
 
@@ -71,7 +71,7 @@ Next, we can try to imagine how it interacts with other feelings:
 
 There might be more, it's just to give an idea. In addition, it heavily depends on psychotype, remember, everyone has its own ability to love, so we can imagine the love factor's influences on our feelings is variable too.
 
-Because romantic love is the most influent of all, it'd be nice to know if it has any unique interactions with the love factor. Is it special because it has the strongest interactions between the love factor and our feelings? Or is it because it involves unique ingredients, like [limerence](https://en.wikipedia.org/wiki/Limerence)?
+As romantic love is the most influent of all, it'd be nice to know if it has any unique interactions with the love factor. Is it special because it has the strongest interactions between the love factor and our feelings? Or is it because it involves unique ingredients, like [limerence](https://en.wikipedia.org/wiki/Limerence)?
 
 Another interesting area of study would be the relationship between this love factor and relatives of love, like admiration, obsession or passion. Are they the result of other factors that influence our feelings as well? Or are they influenced themselves by the love factor?
 
@@ -89,15 +89,17 @@ Again, these emotions exist outside of love, and are generally minor. It means t
 
 I'd rather consider they generate a *mirror/negative* version of love that's akin to hate, a "love hatred" if you will, that can fluctuate in intensity with time and events. We do speak of the love-hate duality and of love-hate relationships after all.
 
-Obviously, this hatred will create a strain on the relationship even before leading to drama. In most cases, I'd expect it to simply trigger a loss of love by somehow weakening the love factor. Not directly by itself, it might just make us reconsider the relationship and sever the ties as some kind of self-protecting mechanism.
+The silver lining is, hatred is less prevalent than its love counterpart. That isn't too surprising, you rarely harm someone you love on purpose, and if you do, you'll at least try to patch things up. This lead to more positive interactions in relationships, overall.
 
-The silver lining is, it's generally less prevalent than its love counterpart. That isn't too surprising, you rarely harm someone you love on purpose, and if you do, you'll at least try to patch things up. This lead to more positive interactions in the relationship overall.
+When unadressed, this hatred will create a strain on the relationship, even before leading to drama. In most cases, I'd expect it to simply trigger a loss of love by somehow weakening the love factor. Not directly by itself, it might just make us reconsider the relationship and sever the ties as some kind of self-protecting mechanism.
 
-Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the hatred corrupt us.
+In that scenario, the expected outcome is a progressive dying of both feelings leading towards either a mutation from romantic to (most likely) platonic love, or even plain indifference.
+
+Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the indifference numbs our skull, and the hatred corrupts our souls.
 
 Alright, I've been torturing my mind for too long with this subject, it's time to wrap things up. Suffice to say, all these ideas are not based on facts and only reflect my own opinion on the matter.
 
-I won't be surprised if you don't agree with me. Still, I believe my "forest of love" metaphor and my love factor hypothesis can help gain insight in the mess that's our loving hearts.
+I won't be surprised if you don't agree with me, it's perfectly fine. Still, I believe my "forest of love" metaphor and my love factor hypothesis might help you gain insight in the mess that's our loving hearts.
 
 ![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
 <p class="legend">For myself, I (re)discovered that love is a beautiful yet excruciatingly complex topic</p>
