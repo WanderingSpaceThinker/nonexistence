@@ -99,7 +99,7 @@ Alas, sometimes we just screw things up beyond a fixable state, we hit a major i
 
 Alright, I've been torturing my mind for too long with this subject, it's time to wrap things up. Suffice to say, all these ideas are not based on facts and only reflect my own opinion on the matter.
 
-I won't be surprised if you don't agree with me, it's perfectly fine. Still, I believe my "forest of love" metaphor and my love factor hypothesis might help you gain insight in the mess that's our loving hearts.
+I won't be surprised if you don't agree with me, it's perfectly fine. Still, I believe my "forest of love" metaphor and love factor hypothesis might help you gain insight in the mess that's our loving hearts.
 
 ![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
 <p class="legend">For myself, I (re)discovered that love is a beautiful yet excruciatingly complex topic</p>
