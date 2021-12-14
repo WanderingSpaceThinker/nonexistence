@@ -49,13 +49,15 @@ Or maybe, love is not a monolithic feeling, maybe it's the result of the interac
 
 This would mean that each branch is unique as it results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
 
-For example, a father's love for his offspring might be comprised, among other things, of a desire to protect and provide for them, to make them happy and ensure they grow into healthy adults. Of course, various underlying biological, sociological and [human compatibility]({{ site.baseurl }}/understand/2021/10/31/Human-compatibility.html) factors are also at play.
+For example, a father's love for his offspring might be comprised, among other things, of a desire to protect and provide for them, to make them happy and ensure they grow into healthy adults.
 
 Wait, there's more! You can totally be attracted to someone without loving them, people don't think twice about their one-night stands... That's true of other feelings as well: a teacher wants their pupils to succeed, however, it can hardly be called love.
 
 Perhaps, for a collection of feelings to qualify as love you need a baseline, a *love factor*, akin to an oven that bakes our ingredients into a cake, if we go back to our cooking recipe analogy. We can then redefine love as:
 
 > The specific state of mind of a person, resulting from the interactions of their feelings towards a particular someone or something, and the love factor.
+
+Also, feelings are not alone in this, various underlying biological, sociological and [human compatibility]({{ site.baseurl }}/understand/2021/10/31/Human-compatibility.html) factors are also at play and might interact with the love factor as well.
 
 ![love]({{ site.baseurl }}{{ page.images[2].image_path }})
 <p class="legend">A diagram showing an example of love, again expertly drawn</p>
