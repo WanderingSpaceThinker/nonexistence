@@ -20,7 +20,7 @@ Such an elusive and mysterious topic that has existed since time immemorial. Eve
 ![oprah]({{ site.baseurl }}{{ page.images[0].image_path }})
 <p class="legend">Everybody got an opinion on love!!!</p>
 
-First, we need to address an issue: The world "love" can encompass a wide assortment of concepts depending on person, country or language. Before writing, I asked some of my friends to tell me what love is. They all started very confused, and then went into totally different directions each time...
+First, we need to address an issue: The word "love" can encompass a wide assortment of concepts depending on person, country or language. Before writing, I asked some of my friends to tell me what love is. They all started very confused, and then went into totally different directions each time...
 
 That's why in this article we'll only consider "love" as "the feeling of love" which is still pretty vague, but we'll make do.
 
