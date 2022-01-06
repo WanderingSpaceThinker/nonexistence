@@ -31,7 +31,7 @@ As we'll see later, bonds are fundamental to love, and since we'll need a good u
 First, the asymmetry hints to us that they're something entirely personal, they don't require someone else to reciprocate our feelings. Actually, it's possible to develop a bond even if the recipient doesn't know you, that's what happen when people fall in love with celebrities.
 
 We can thus define a bond as:
-> The unilateral set of knowledge/memories and feelings someone have for a given person.
+> The unilateral set of knowledge/memories and feelings someone has for a given person.
 
 But you don't feel or know anything about most people... because you don't even know they exist! This is why I believe there are two requirements to have a bond with a person:
 * Have specific feelings towards them - you might have "default" feelings towards everyone, but these don't count.
