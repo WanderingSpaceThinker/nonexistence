@@ -10,6 +10,7 @@ images:
  - image_path: /static/posts_img/bond.png
  - image_path: /static/posts_img/lovetree.png
  - image_path: /static/posts_img/love.png
+ - image_path: /static/posts_img/maturation.png
  - image_path: /static/posts_img/gears-heart.jpg
 ---
 
@@ -75,7 +76,7 @@ Another way to signify this, is to have different "categories of love" with thei
 If everyone has their own love, with a different "way of loving" for everyone and everything, we can picture this as a forest: The trees would be everyone's unique love, with each branch the way they love a particular whatever.
 
 ![forest]({{ site.baseurl }}{{ page.images[1].image_path }})
-<p class="legend">"Forest of love" by WST - I know, I totally missed my vocation in art</p>
+<p class="legend">"Forest of love" by WST - I know, I totally missed my vocation in art.</p>
 
 It's not like each tree and branch are entirely unique and distinct, though. There will be significant overlap between everyone's trees and branches. Sadly, this metaphor hardly represents how your feelings can evolve with time. It also stops short if we want to understand the similarities and differences across the forest.
 
@@ -104,7 +105,7 @@ Those feelings aren't necessarily weaker outside of love, rather, they feel *dif
 Also, feelings are not alone in this. All the other bond-related elements, like influencing factors, might interact with the factor as well.
 
 ![love]({{ site.baseurl }}{{ page.images[2].image_path }})
-<p class="legend">A diagram showing an example of love, again expertly drawn</p>
+<p class="legend">A diagram showing an example of love, again expertly drawn.</p>
 
 Let's imagine for a second that everything here isn't speculation and this factor is real. First thing that comes to mind, what would it be? I feel like caring, in a broad sense, is the concept most inseparable from love[^3], so maybe this love factor is somehow linked to caring and attachment.
 
@@ -119,13 +120,30 @@ There might be more, it's only what I could come up with. In addition, it also d
 
 As romantic love is the most influential of all, it'd be nice to know if it has any unique interactions with the love factor. Is it special because it has the strongest interactions? Or is it because it involves unique ingredients, like [limerence](https://en.wikipedia.org/wiki/Limerence)?
 
-What about the *relatives* of love, like admiration, obsession or passion. Are they the result of other factors that influence our feelings as well? Or are they influenced themselves by the love factor?
+What about the *relatives* of love, like admiration, obsession or passion. Are they the result of other factors that influence our feelings as well? Or are they influenced themselves by the love factor? Sadly, for all those topics I don't have the answers, only more questions... For now, at least.
 
-Sadly, for all those topics I don't have the answers, only more questions... For now, at least.
+<ins>**Transient trap:**</ins>
+
+I wanted to warn you of a trap I see some people fall in. You see, at the beginning of a relationship there's this moment where you have everything to discover from the other, where you see everything through a rosy lens, it can feel a bit exhilarating and overwhelming.
+
+Once it inevitably grinds to a halt, the relationship will suffer a return to reality if it doesn't have a strong foundation. This is perfectly normal, but it's a problem when people mistaken this early stage with romantic love... because it's not. So where does this come from?
+
+A common bond trajectory, love or not, is one of maturity: It starts rapidly as you get to know each other, before settling in an equilibrium state, progressing more slowly. Of course, this state can be upset by events in either directions, like if your friend sleep with your fiancé or something.
+
+![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
+<p class="legend">Illustration for an uneventful friendship bond.</p>
+
+When it comes to romance, it often translates in this magical period I talked before, which is often romanticized about. Although I'm pretty sure it's a case of [rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection).
+
+Not to brag, but I have good a memory of my life events, back in the day. Sure, getting to learn about my significant other, discovering their quirks, their hobbies and all that, was totally dope. However, it was also nerve-wracking. You become self-conscious, you don't dare act normal in the hope to present the "best" version of yourself, since you're really anxious about losing the other's affection and interest.
+
+If those troubled waters are crossed incorrectly, this can yield a relationship based on lies, trapping you in a role that isn't you. Most of the time, it'll be fine though, you'll either come to accept the other entirely, good and bad sides, entering the mature state of the relationship... or just breakup and move on.
+
+Anyway, the conclusion is, transient feelings, especially those at the start of a relationship are not love, they're just (a small) part of it.
 
 <ins>**The dark side:**</ins>
 
-Until now, I've focused more on the positive side of things, but life is not all roses and butterflies. Time to delve into the dark side of love: Toxic relationships, crimes of passion, domestic violence...
+Until now, I've focused mostly on the positive side of things, but life is not all roses and butterflies. Time to delve into the dark side of love: Toxic relationships, crimes of passion, domestic violence...
 
 You might argue that they aren't the result of love, how can you abuse or kill someone if you love them? In some cases, this is certainly true, but not loving means not caring, and I'd bet those acts can result from caring *too much*, or in a twisted way at least[^4].
 
@@ -151,7 +169,7 @@ Alright, I've been torturing my mind for too long with this subject, it's time t
 
 I won't be surprised if you don't agree with me, it's perfectly fine. Still, the bond approach, the "forest of love" metaphor and the love factor hypothesis might help you gain insight in the mess that's our loving hearts.
 
-![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
+![gears]({{ site.baseurl }}{{ page.images[4].image_path }})
 <p class="legend">For myself, I (re)discovered that love is a beautiful yet excruciatingly complex topic</p>
 
 [^1]: Mostly maternal care, actually.
