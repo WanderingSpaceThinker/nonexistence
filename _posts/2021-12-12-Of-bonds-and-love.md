@@ -137,7 +137,7 @@ When it comes to romance, it often translates in this magical period I talked be
 
 Not to brag, but I have good a memory of my life events, back in the day. Sure, getting to learn about my significant other, discovering their quirks, their hobbies and all that, was totally dope. However, it was also nerve-wracking. You become self-conscious, you don't dare act normal in the hope to present the "best" version of yourself, since you're really anxious about losing the other's affection and interest.
 
-If those troubled waters are crossed incorrectly, this can yield a relationship based on lies, trapping you in a role that isn't you. Most of the time, it'll be fine though, you'll either come to accept the other entirely, good and bad sides, entering the mature state of the relationship... or just breakup and move on.
+If those troubled waters are crossed incorrectly, this can yield a relationship based on self-deception, trapping you in a role that isn't you. Most of the time, it'll be fine though, you'll either come to accept the other entirely, good and bad sides, entering the mature state of the relationship... or just breakup and move on.
 
 Anyway, the conclusion is, transient feelings, especially those at the start of a relationship are not love, they're just (a small) part of it.
 
