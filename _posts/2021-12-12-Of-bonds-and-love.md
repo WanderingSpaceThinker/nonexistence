@@ -135,7 +135,7 @@ A common bond trajectory, love or not, is one of maturity: It starts rapidly as 
 
 When it comes to romance, it often translates in this magical period I talked before, which is often romanticized about. Although I'm pretty sure it's a case of [rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection).
 
-Not to brag, but I have good a memory of my life events, back in the day. Sure, getting to learn about my significant other, discovering their quirks, their hobbies and all that, was totally dope. However, it was also nerve-wracking. You become self-conscious, you don't dare act normal in the hope to present the "best" version of yourself, since you're really anxious about losing the other's affection and interest.
+The thing is, I recall clearly how I felt back then. Sure, getting to learn about my significant other, discovering their quirks, their hobbies and all that, was totally dope. However, it was also nerve-wracking. You become self-conscious, you don't dare act normal in the hope to present the "best" version of yourself, since you're really anxious about losing the other's affection and interest.
 
 If those troubled waters are crossed incorrectly, this can yield a relationship based on self-deception, trapping you in a role that isn't you. Most of the time, it'll be fine though, you'll either come to accept the other entirely, good and bad sides, entering the mature state of the relationship... or just breakup and move on.
 
