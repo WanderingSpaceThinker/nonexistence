@@ -60,7 +60,7 @@ At least two kinds of restrictions should be set in place:
 
 Now, where there are rules, there's an authority to enforce them. This will be done by a central authority whose role would be to manage all matters specific to the Metasociety: the creation and switching of societies and solving inter-society conflicts to ensure a good cooperation among them.
 
-Because yes, the goal is also for all those societies to play nice with each other, I'm not a big fan of war you see. Some amount of rivalry will probably inevitable though, but if they're interdependent enough, without limited competition for access to resources, then we should have a somewhat stable world order like we have at the time of writing[^6].
+Because yes, the goal is also for all those societies to play nice with each other, I'm not a big fan of war you see. Some amount of rivalry will probably inevitable though, but if they're interdependent enough, without competition for access to resources, then we should have a somewhat stable world order like we have at the time of writing[^6].
 
 Another pillar of conflict-prevention will be [CFDA]({{ site.baseurl }}/improve/2021/11/24/CFDA.html), placed at the core of the Metasociety. This will also be helpful
 to organize and classify the different societies, which is needed by itself and helps with our "how do you know which society is made for you" problem we saw above.
