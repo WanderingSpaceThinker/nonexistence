@@ -5,7 +5,7 @@ description: "Reality doesn't care about our dreams. Also, politics."
 date:   2022-05-17
 categories: ["Others"]
 icon: "fas fa-cross"
-thumbnail: /static/posts_img/placeholder.png
+thumbnail: /static/posts_img/plant.jpg
 images:
  - image_path: /static/posts_img/burger_bun.jpg
  - image_path: /static/posts_img/frozen_heart.jpg
