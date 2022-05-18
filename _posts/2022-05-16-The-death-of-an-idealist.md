@@ -31,13 +31,13 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"Alright fine, for my defense, I never was in a position where I could do anything, not even at the smallest of scale. The worst part is, even if I was, there's no guarantee my actions would bring any lasting improvements."</span>
 
-{{page.tags[0]}}"You just gave up then? That's so lame... With this line of thoughts, we won't accomplish anything in our lifetime. Anyway, what about our dream of a flying city?"</span>
+{{page.tags[0]}}"You just gave up then? That's so lame... With this line of thought, we won't accomplish anything in our lifetime. Anyway, what about our dream of a flying city?"</span>
 
 {{page.tags[1]}}"Oh, good thing you're mentioning that. You remember that it was more of an allegory? It's just so much easier to create a new *ideal* society rather than trying to change an existing one."</span>
 
 {{page.tags[0]}}"True, but it was also supposed to be a symbol of hope and progress for everyone. A flying city was perfect for that."</span>
 
-{{page.tags[1]}}"Technical possibility aside, won't this divert too much resources from our primary goal? Our shiny symbol will be useless if we fail to improve things in the first place."</span>
+{{page.tags[1]}}"Technical possibility aside, won't this divert too many resources from our primary goal? Our shiny symbol will be useless if we fail to improve things in the first place."</span>
 
 {{page.tags[0]}}"Valid point, good thing you used all these years to make progress on that."</span>
 
@@ -109,7 +109,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"I'm just realistic on our odds here! I'm pretty sure you feel the same, it's just that this pessimistic seed has bloomed in a hopeless tree over the years."</span>
 
-{{page.tags[0]}}"To be fair, it always was an uphill, or rather, upcliff battle. In any cases, I fear that in your current state you'll lament a future you let down."</span>
+{{page.tags[0]}}"To be fair, it always was an uphill, or rather, upcliff battle. In any case, I fear that in your current state you'll lament a future you let down."</span>
 
 {{page.tags[1]}}"Oh don't worry, apathy has no hold on me. I will pursue any opportunity that presents itself, even if the only one is something like writing about our ideas to inspire random people on the internet."</span>
 
@@ -145,7 +145,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"You won't persuade me, and we're getting off topic. These guys are real obstacles to any lasting progress, there will always be one to topple everything if it helps them. Also, we can't ignore their ability to stoke our divisions, create scapegoats to deflect blame, and avoid accountability."</span>
 
-{{page.tags[1]}}"What's the plan then, we prevent them from getting into power? That'd require being able to somehow detect and block them, both don't feel feasible to me. Worse, if one slips through the net you bet they'll do everything to hold on to their status. Just like the ones that are in place right now."</span>
+{{page.tags[1]}}"What's the plan then, we prevent them from getting into power? That'd require being able to somehow detect and block them, and neither seems feasible. Worse, if one slips through the net you bet they'll do everything to hold on to their status. Just like the ones that are in place right now."</span>
 
 {{page.tags[0]}}*Sigh*, "I'm aware it won't be easy, yet the problem can't be overlooked. For those already there, we won't be able to do much. Maybe we just need a system where those in charge can be easily removed from office if they exhibit psychopathic tendencies. Wait, we do have this in democratic systems through term limits and destitution mechanisms."</span>
 
@@ -157,7 +157,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"Uh, I already said that: They don't care about others, they trample their feelings, sow divisions and create chaos!"</span>
 
-{{page.tags[1]}}"Alright, don't misunderstand what I'll say. I abhor their questionable actions, and agree that they're dangerous people. Yet, I don't think it disqualify them from ruling, far from it."</span>
+{{page.tags[1]}}"Alright, don't misunderstand what I'll say. I abhor their questionable actions, and agree that they're dangerous people. Yet, I don't think this disqualifies them from ruling, far from it."</span>
 
 {{page.tags[0]}}"Excuse me? What the hell screams chief material in what I just described?"</span>
 
@@ -165,27 +165,27 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"...Please elaborate."</span>
 
-{{page.tags[1]}}"There's two things: The first one is, the ability to make tough decisions, like sacrificing some people to save others... such is the curse of wielding power in a cruel world. Obviously, if you don't give a flying duck about fellow humans, this is much easier to do."</span>
+{{page.tags[1]}}"There are two things at play here: The first one is, the ability to make tough decisions, like sacrificing some people to save others... such is the curse of wielding power in a cruel world. Obviously, if you don't give a flying duck about fellow humans, this is much easier to do."</span>
 
 {{page.tags[0]}}"That way, you also appear to some as a tough and bold individual."</span>
 
-{{page.tags[1]}}"Yes. The next one is a bit similar, a good boss must be free of emotional biases in order to take purely pragmatic, facts-based decisions. Those two factors make up what I call the *cold heart of a leader*: You need to make only calculated decisions, devoid of any emotional attachment."</span>
+{{page.tags[1]}}"Yes. The next one is a bit similar, a good boss must be free of emotional biases in order to take purely pragmatic, fact-based decisions. Those two factors make up what I call the *cold heart of a leader*: You need to make only calculated decisions, devoid of any emotional attachment."</span>
 
-{{page.tags[0]}}"I'll have to stop you right there, those guys are self-serving psychos, they only take decisions that benefits them, regardless of what reality dictates."</span>
+{{page.tags[0]}}"I'll have to stop you right there, those guys are self-serving psychos, they only take decisions that benefit themselves, regardless of what reality dictates."</span>
 
 {{page.tags[1]}}"True. What I was trying to say is: although psychopaths are not free of emotions, because of their nature they can act cold-hearted, which is beneficial in this context."</span>
 
-{{page.tags[0]}}"That's meager compared to everything they do wrong. In this case, I'd much prefer someone that *feels* the sacrifice they make, that way I'm sure they won't overdo it."</span>
+{{page.tags[0]}}"That's meager compared to everything they do wrong. In this case, I'd much prefer someone who *feels* the sacrifice they make, that way I'm sure they won't overdo it."</span>
 
 {{page.tags[1]}}"For sure! I was just nuancing things, as you know I do. What would be your ideal leader then?"</span>
 
-{{page.tags[0]}}"Let me think, an empathetic smart person, that understands the struggle of the rank and file, that always prioritize the best interest of its people, only taking decisions with the long term in mind."</span>
+{{page.tags[0]}}"Let me think, an empathetic smart person, who understands the struggle of the rank and file, who always prioritizes the best interests of their people, only taking decisions with the long term in mind."</span>
 
 {{page.tags[1]}}"In a nutshell, some sort of selfless, competent and benevolent ruler then. Sounds nice, but have you ever met one?"</span>
 
 {{page.tags[0]}}"...I can't say I have."</span>
 
-{{page.tags[1]}}"None? I mean, maybe not to the extent you described, yet it doesn't sound too farfetch, surely you've seen one."</span>
+{{page.tags[1]}}"None? I mean, maybe not to the extent you described, yet it doesn't sound too far-fetched, surely you've seen one."</span>
 
 {{page.tags[0]}}"Uh, no. It seems none of them really want to improve things, they're just trying to maximize short-term gains for them and an elite few."</span>
 
@@ -199,7 +199,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"The thing is, seeking to improve your condition and your relatives' is natural, a fundamental right even... As long as it's not at the expense of others."</span>
 
-{{page.tags[0]}}"Sill, you shouldn't go into politics solely with this intent, you goal should be to solve problems, diffuse crisis and improve livelihoods."</span>
+{{page.tags[0]}}"Still, you shouldn't go into politics solely with this intent, you goal should be to solve problems, diffuse crisis and improve livelihoods."</span>
 
 {{page.tags[1]}}"Ideally, yes. Realistically, you admitted you've never seen such a person. They might exist, but we can't really wait for them to stumble into the job once every century."</span>
 
@@ -225,15 +225,15 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"I realized saying it. Still, I think it's the only way."</span>
 
-{{page.tags[1]}}"What if, in addition to what I said, there was a cultural shift, where rulers where not *above* their people but in their service, power as a duty in a sense. It will help attracting the right kind of benevolent people we want."</span>
+{{page.tags[1]}}"What if, in addition to what I said, there was a cultural shift, where rulers were not *above* their people but in their service, power as a duty in a sense. It will help to attract the right kind of benevolent people we want."</span>
 
-{{page.tags[0]}}"Sound cool, how exactly do you plan to achieve that?"</span>
+{{page.tags[0]}}"Sounds cool, how exactly do you plan to achieve that?"</span>
 
 {{page.tags[1]}}"Yeah, nevermind."</span>
 
 {{page.tags[0]}}"Well, we veered off course quite a bit in this discussion. Do you have anything to add?"</span>
 
-{{page.tags[1]}}"Actually, I do. Since we're talking about ruling and stuff, what's your opinion on terms limit for presidents?"</span>
+{{page.tags[1]}}"Actually, I do. Since we're talking about ruling and the like, what's your opinion on term limits for presidents?"</span>
 
 {{page.tags[0]}}"Err, let's try it your way. As a downside, it favors short-term politics, while it also prevents someone from holding on to power for too long, limiting the control they can gather, somewhat protecting democracy. Overall, I'd say it's better to have them."</span>
 
@@ -245,7 +245,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"I'm not sure I follow you."</span>
 
-{{page.tags[1]}}"This phenomenon is probably the results of different factors but basically, the information and actions necessary to accomplish this role, the *mindset* if you will, induces loneliness and a disconnection with mundane reality. The longer it goes on, the worse it gets, triggering nasty side effects in the process."</span>
+{{page.tags[1]}}"This phenomenon is probably the result of different factors but basically, the information and actions necessary to accomplish this role, the *mindset* if you will, induces loneliness and a disconnection with mundane reality. The longer it goes on, the worse it gets, triggering nasty side effects in the process."</span>
 
 {{page.tags[0]}}"...I'm still not following you, sorry."</span>
 
@@ -269,19 +269,19 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"Why do you say that?"</span>
 
-{{page.tags[0]}}"Because things do never change, duh."</span>
+{{page.tags[0]}}"Because things do not ever change, duh."</span>
 
 {{page.tags[1]}}"My bad, let me reformulate. Why do you think that's the case?"</span>
 
-{{page.tags[0]}}"Part of it definitely comes from politicians as we already said, the other is the resistances to change from a part of the population."</span>
+{{page.tags[0]}}"Part of it definitely comes from politicians as we already said, the other is the resistance to change from a part of the population."</span>
 
 {{page.tags[1]}}"All politicians are corrupt liars?"</span>
 
 {{page.tags[0]}}"I did *not* say that, but I'd be dishonest if I deny thinking this."</span>
 
-{{page.tags[1]}}"And short of actual scandals revealing the corruption of a person, you think that because things don't change right?"</span>
+{{page.tags[1]}}"And short of actual scandals revealing the corruption of a person, you think that because things don't change, right?"</span>
 
-{{page.tags[0]}}"Mainly, let me guess, you don't agree?"</span>
+{{page.tags[0]}}"Mainly. Let me guess, you don't agree?"</span>
 
 {{page.tags[1]}}"It's complicated. As I said, I think they really want to change things, but yeah, they are self-interested and liars. We talked already on the self-interest part, for the lying it's sadly part of the job."</span>
 
@@ -295,11 +295,11 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"... Probably not."</span>
 
-{{page.tags[1]}}"Part of the problem comes from a *winner takes all* approach to election. Having a more granular outcome to elections should help lower the stakes and the need to over-promise"</span>
+{{page.tags[1]}}"Part of the problem comes from a *winner takes all* approach to election. Having a more granular outcome to elections should help lower the stakes and the need to over-promise."</span>
 
 {{page.tags[0]}}"I'm not sure it'll do much, you can still be rewarded for bad behavior. The real game-changer would be punishing blatant lies heavily in the urns, alas that's a people problem. But let's come back to your absence of change explanation."</span>
 
-{{page.tags[1]}}"To begin with, we must acknowledge that ruling under normal circumstance is *hard*, and it's not like you can get experience beforehand. Now imagine when a once-in-a-lifetime crisis suddenly comes up, understandably, nobody knows how to handle it. You're bound to make mistake, and a good leader should not be recognized by their luck of taking the best decision right away, but by its ability to correct trajectory mid-course if needed."</span>
+{{page.tags[1]}}"To begin with, we must acknowledge that ruling under normal circumstances is *hard*, and it's not like you can get experience beforehand. Now imagine when a once-in-a-lifetime crisis suddenly comes up, understandably, nobody knows how to handle it. You're bound to make mistakes, and a good leader should not be recognized by their luck of taking the best decision right away, but by their ability to correct trajectory mid-course if needed."</span>
 
 {{page.tags[0]}}"Point taken: ruling is hard and you start as a newbie, so even if you want to improve things you might take the wrong approach. It compounds with short tenure and term limits, forcing you to step down at the moment where you're theoretically the best at your job. I don't see how the crisis stuff is relevant to the subject though."</span>
 
@@ -315,9 +315,9 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"Right, but confidence in the system is also valuable, and there is none when it's utterly broken. Also, the value of stability only limits how often and how fast you may change things. With good planning, you can still achieve results."</span>
 
-{{page.tags[1]}}"However, should you fail, the political cost would be immense. With such stakes, it's understandable that many politicians settle for maintaining the *statu quo*."</span>
+{{page.tags[1]}}"However, should you fail, the political cost would be immense. With such stakes, it's understandable that many politicians settle for maintaining the *status quo*."</span>
 
-{{page.tags[0]}}"I refuse to hear that, it's too disheartening. Surely, there's way to test things at small scale, adjust if needed, then smoothly rolling them out."</span>
+{{page.tags[0]}}"I refuse to hear that, it's too disheartening. Surely, there's a way to test things at small scale, adjust if needed, then smoothly roll them out."</span>
 
 {{page.tags[1]}}"Indeed, and that's generally how new systems are implemented. The issue is before you can reach this phase you need to fend off the other obstacles."</span>
 
@@ -351,31 +351,31 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"Oh, of course. People resisting change because they don't want to change their habits, or because it's tradition, or whatever."</span>
 
-{{page.tags[1]}}"There's that and also, since everyone tries to defend their own interests, you can see society as this gigantic tug-of-war, where everyone try to pull countless ropes in their direction."</span>
+{{page.tags[1]}}"There's that and also, since everyone tries to defend their own interests, you can see society as this gigantic tug-of-war, where everyone tries to pull countless ropes in their direction."</span>
 
 {{page.tags[0]}}"Right, and your pulling strength is proportional to how vocal, or how influential you are."</span>
 
-{{page.tags[1]}}"Exactly. Since we need to take in all points of view, it makes it very difficult to see the path forward as it creates so much noise, and friction. All of this makes change so difficult, and slow. That's why we wanted our flying city"</span>
+{{page.tags[1]}}"Exactly. Since we need to take in all points of view, it makes it very difficult to see the path forward as it creates so much noise, and friction. All of this makes change so difficult, and slow. That's why we wanted our flying city."</span>
 
-{{page.tags[0]}}"You understand with this much obstruction, that many people become hopeless and increasingly frustrated, right?"</span>
+{{page.tags[0]}}"You understand that with this much obstruction, many people become hopeless and increasingly frustrated, right?"</span>
 
-{{page.tags[1]}}"Alas yes, and I'm extremely concerned that in their desperation, others embrace project that will change things... for the worse."</span>
+{{page.tags[1]}}"Alas yes, and I'm extremely concerned that in their desperation, others embrace projects that will change things... for the worse."</span>
 
 {{page.tags[0]}}"Can you blame them though? When you keep hearing the same thing over and over without results, you're tempted to try something different, even if it defies logic. Besides, we don't know the future. It might start out bad, and improve afterwards."</span>
 
-{{page.tags[1]}}"Even in normal time, crisis, or any events really, can wipe out years of progress instantly, so why should we take additional risks? Look, I'm convinced change is possible. Sure, it's much slower than we'd like. Nonetheless, we should tirelessly focus on going forward, and solidifying what little gains we get."</span>
+{{page.tags[1]}}"Even in normal times, a crisis, or any event really, can wipe out years of progress instantly, so why should we take on additional risks? Look, I'm convinced change is possible. Sure, it's much slower than we'd like. Nonetheless, we should tirelessly focus on going forward, and solidifying what little gains we get."</span>
 
 {{page.tags[0]}}"Again, such big words, while you accomplished nothing."</span>
 
 {{page.tags[1]}}"You will never let me off the hook, will you? I did the only thing I could do: vote. Admittedly not for the projects that would yield the more progress, but the one that had the best chance to win, and maybe improve things a little."</span>
 
-{{page.tags[0]}}"...I know in doing do you're simply playing by the rules, but that only makes you part of the problem."</span>
+{{page.tags[0]}}"...I know in doing so you're simply playing by the rules, but that only makes you part of the problem."</span>
 
 {{page.tags[1]}}"An inconvenient truth I'll stomach as a realist. Now, I may have a solution to accelerate change."</span>
 
 {{page.tags[0]}}"Oh yeah? Let's hear it then."</span>
 
-{{page.tags[1]}}"Akin to aligning people and leader goals, if we could reduce the amount of *non-alignment* in the people itself, it would reduce the amount of noise from the tug-of-war. For example, you may have a minority with opposing interests to the majority. Stagnation arises when this minority has an outsize influence, say because they have more money, and they use it to counter any majority's push for change."</span>
+{{page.tags[1]}}"Akin to aligning people and leader goals, if we could reduce the amount of *non-alignment* in people themselves, this would reduce the amount of noise from the tug-of-war. For example, you may have a minority with opposing interests to the majority. Stagnation arises when this minority has an outsize influence, say because they have more money, and they use it to counter any push for change by the majority."</span>
 
 {{page.tags[0]}}"What is the solution here? I follow your logic, the minority should have some rights to defend its interests. Also, instating a majority tyranny - although I guess it's the point of democracies - is probably not a lasting solution, stability-wise."</span>
 
@@ -383,11 +383,11 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"You realize this will simply never happen?"</span>
 
-{{page.tags[1]}}"In our lifetime, no. With time and effort it might be possible, though. In the meantime, reducing the power of money, or reducing the amount of conflicting interests are safe bets that we don't have time to delve into. "</span>
+{{page.tags[1]}}"In our lifetime, no. With time and effort it might be possible, though. In the meantime, reducing the power of money, or reducing the amount of conflicting interests are safe bets that we don't have time to delve into."</span>
 
 {{page.tags[0]}}"What about increasing the barriers to voting? I know it might sound bad, but if people vote with only their own interests in mind, without understanding what they're voting for, or if they're getting manipulated through their frustrations, in the interest of the many we should temporarily remove their voting power. Obviously, it's a slippery slope because you don't want to give the ability to remove voting power to any political opponents. Still, I think it's an interesting area to study."</span>
 
-{{page.tags[1]}}"This would be a challenge to implement in an effective and exploit-proof manner. In a similar manner, we could increase barriers to candidacy to avoid populists, extremists, or more generally people increasing the political toxicity and hysteria of a system. Because just like leaders, I don't think voters should base decisions with their emotions, albeit it's a hard proposition when you feel like your life is at stake."</span>
+{{page.tags[1]}}"This would be a challenge to implement in an effective and exploit-proof manner. In a similar manner, we could increase barriers to candidacy to avoid populists, extremists, or more generally people increasing the political toxicity and hysteria of a system. Because just like leaders, I don't think voters should base decisions on their emotions, albeit it's a hard proposition when you feel like your life is at stake."</span>
 
 {{page.tags[0]}}"You'll have the same implementation pitfalls as my voter restriction idea then. Also, now that I think about it, if our answer to the people's frustration and distrust is to prevent them for voting, that can't end well."</span>
 
@@ -403,19 +403,19 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[0]}}"Well, if I'm perfectly honest, our whole discussion is not leaving me very optimistic for the future."</span>
 
-{{page.tags[1]}}"One thing that really helps me in this regard: Sure our system sucks in many ways, but then you realize it's the best we ever had over history, by far. Even if we can't presume past performances will continue, I'm convinced things are improving over time."</span>
+{{page.tags[1]}}"One thing that really helps me in this regard: Sure our system sucks in many ways, but then you realize it's the best we ever had throughout history, by far. Even if we can't presume past performances will continue, I'm convinced things are improving over time."</span>
 
 {{page.tags[0]}}"I find it ironic that, for a realist that has seen no progress in all those years, you're so hopeful. Anyway, when are you meeting our older self?"</span>
 
 {{page.tags[1]}}"It should be sometime tomorrow... that is if we even have an older self."</span>
 
-{{page.tags[0]}}"And now you're being pessimistic. Is your ambivalence a byproduct of your nuanced policy, I wonder."</span>
+{{page.tags[0]}}"And now you're being pessimistic. Is your ambivalence a byproduct of your nuanced policy, I wonder?"</span>
 
 {{page.tags[1]}}"Not quite, it comes from approaching the future more as a superposition of possibilities rather than a single deterministic outcome."</span>
 
 {{page.tags[0]}}"Alright, what's your most likely scenario then?"</span>
 
-{{page.tags[1]}}"As I said, things will improve, regardless whether we live or not."</span>
+{{page.tags[1]}}"As I said, things will improve, regardless of whether we live or not."</span>
 
 {{page.tags[0]}}"I know I berated you all this time for accomplishing nothing, but in these circumstances, should you even bother trying?"</span>
 
@@ -425,7 +425,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"I'll sure do."</span>
 
-*Will WST ever meet their future self? Alas, we'll only know in many, many years. In the meantime, dear non-readers, you can help them in their endless pursuit of changing the world, by checking the other works of the present WST.*
+*Will WST ever meet their future self? Alas, we'll only know the answer after many, many years. In the meantime, dear non-readers, you can help them in their endless pursuit of changing the world, by checking the other works of the present WST.*
 
 <br>
 
