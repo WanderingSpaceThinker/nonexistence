@@ -12,7 +12,7 @@ images:
  - image_path: /static/posts_img/mountain.jpg
  - image_path: /static/posts_img/placeholder.png
  - image_path: /static/posts_img/plant.jpg
-tags: ["<span style=\"color:#2c80b8\">", "<span style=\"color:#c74032\">"]
+tags: ["<span style=\"color:#2c80b8\"> **A:** ", "<span style=\"color:#c74032\"> **B:** "]
 ---
 
 *This article will be a bit different because I wanted to do something a bit special to celebrate <strike>the new year</strike> <strike>the blog's first anniversary</strike>  no particular reason whatsoever[^1], hope you enjoy it*.
@@ -137,7 +137,7 @@ tags: ["<span style=\"color:#2c80b8\">", "<span style=\"color:#c74032\">"]
 
 {{page.tags[0]}}"I'm pretty sure it's *permanently* relevant. So something terrible happened uh. Worse than the Great Recession?"</span>
 
-{{page.tags[1]}}"Something with a country invading another... Wait, how was that caused by psychopaths?"</span>
+{{page.tags[1]}}"Something with a country invading another... Wait, how was that caused by egoistic psychopaths?"</span>
 
 {{page.tags[0]}}"I have no proof, but those bankers had to know what they were doing, not to say about those that saw it coming and profited off of it. You have to lack empathy to be so heartless."</span>
 
@@ -221,7 +221,7 @@ tags: ["<span style=\"color:#2c80b8\">", "<span style=\"color:#c74032\">"]
 
 {{page.tags[0]}}"Since you talk about democracies, I've seen countless times how easy it is for a shrewd individual to exploit the system for their own gain. Thus, it'd be safer to filter out any non-suitable candidates."</span>
 
-{{page.tags[1]}}"Then we have the same problem we had with psychopaths earlier."</span>
+{{page.tags[1]}}"Then we have the same problem we had with egoistic psychopaths earlier."</span>
 
 {{page.tags[0]}}"I realized saying it. Still, I think it's the only way."</span>
 
