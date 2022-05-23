@@ -12,7 +12,7 @@ images:
  - image_path: /static/posts_img/mountain.jpg
  - image_path: /static/posts_img/placeholder.png
  - image_path: /static/posts_img/plant.jpg
-tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
+tags: ["<span style=\"color:#2c80b8\">", "<span style=\"color:#c74032\">"]
 ---
 
 *This article will be a bit different because I wanted to do something a bit special to celebrate <strike>the new year</strike> <strike>the blog's first anniversary</strike>  no particular reason whatsoever[^1], hope you enjoy it*.
@@ -127,7 +127,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"What's next?"</span>
 
-{{page.tags[0]}}"I wanted to talk about [psychopathic leaders](https://www.forbes.com/sites/jackmccullough/2019/12/09/the-psychopathic-ceo/?sh=62973f03791e). It does concern me quite a bit that they're so common. Because, they won't think twice about playing with our lives, and sending people to their death just to serve their own interests."</span>
+{{page.tags[0]}}"I wanted to talk about egoist, [psychopathic leaders](https://www.forbes.com/sites/jackmccullough/2019/12/09/the-psychopathic-ceo/?sh=62973f03791e). It does concern me quite a bit that they're so common. Because, they won't think twice about playing with our lives, and sending people to their death just to serve their own interests."</span>
 
 {{page.tags[1]}}"Tell me about it."</span>
 
@@ -389,7 +389,7 @@ tags: ["<span style=\"color:#2980B9\">", "<span style=\"color:#E74C3C\">"]
 
 {{page.tags[1]}}"This would be a challenge to implement in an effective and exploit-proof manner. In a similar manner, we could increase barriers to candidacy to avoid populists, extremists, or more generally people increasing the political toxicity and hysteria of a system. Because just like leaders, I don't think voters should base decisions on their emotions, albeit it's a hard proposition when you feel like your life is at stake."</span>
 
-{{page.tags[0]}}"You'll have the same implementation pitfalls as my voter restriction idea then. Also, now that I think about it, if our answer to the people's frustration and distrust is to prevent them for voting, that can't end well."</span>
+{{page.tags[0]}}"You'll have the same implementation pitfalls as my voter restriction idea then. Also, now that I think about it, if our answer to the people's frustration and distrust is to prevent them from voting, that can't end well."</span>
 
 {{page.tags[1]}}"Good point, we would need to address the core of the issue. Sadly, we're running out of time so we'll have to wrap it up here."</span>
 
