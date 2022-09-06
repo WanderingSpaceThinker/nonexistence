@@ -5,7 +5,7 @@ description: "Meet compatible humans in your area."
 date: 2021-10-31
 categories: ["Understand"]
 icon: "fas fa-handshake"
-thumbnail: /static/posts_img/handshake.jpg
+thumbnail: /static/posts_img/hands.jpg
 images:
  - image_path: /static/posts_img/horror.png
  - image_path: /static/posts_img/messy_room.jpg
