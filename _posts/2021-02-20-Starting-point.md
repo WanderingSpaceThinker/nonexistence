@@ -5,11 +5,11 @@ description: "There has to be a start to every journey."
 date:   2021-02-20
 categories: ["Create"]
 icon: "fas fa-seedling"
-thumbnail: /static/posts_img/undercover_hippie.jpg
+thumbnail: /static/posts_img/hippie.jpg
 images:
  - image_path: /static/posts_img/expl_prag.gif
  - image_path: /static/posts_img/pragmacake.jpg
- - image_path: /static/posts_img/undercover_hippie.jpg
+ - image_path: /static/posts_img/hippie.jpg
 ---
 
 *Before we begin, please check the [disclaimer]({{site.baseurl}}/others/2021/02/02/Disclaimer.html)... Done already ? Alright, let's dive in.*

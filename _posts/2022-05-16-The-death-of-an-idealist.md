@@ -2,16 +2,15 @@
 layout: post
 title: "The death of an idealist"
 description: "Reality doesn't care about our dreams. Also, politics."
-date:   2022-05-17
+date:   2022-05-16
 categories: ["Others"]
 icon: "fas fa-cross"
-thumbnail: /static/posts_img/plant.jpg
+thumbnail: /static/posts_img/sprout.jpg
 images:
  - image_path: /static/posts_img/burger_bun.jpg
  - image_path: /static/posts_img/frozen_heart.jpg
  - image_path: /static/posts_img/mountain.jpg
- - image_path: /static/posts_img/placeholder.png
- - image_path: /static/posts_img/plant.jpg
+ - image_path: /static/posts_img/sprout.jpg
 dia: ["<span style=\"color:#2c80b8\"> **A:** ", "<span style=\"color:#c74032\"> **B:** "]
 ---
 
@@ -259,7 +258,7 @@ dia: ["<span style=\"color:#2c80b8\"> **A:** ", "<span style=\"color:#c74032\"> 
 
 <br>
 
-![placeholder]({{ site.baseurl }}{{ page.images[2].image_path }})
+![mountain]({{ site.baseurl }}{{ page.images[2].image_path }})
 
 <br>
 
@@ -393,7 +392,7 @@ dia: ["<span style=\"color:#2c80b8\"> **A:** ", "<span style=\"color:#c74032\"> 
 
 {{page.dia[1]}}"Good point, we would need to address the core of the issue. Sadly, we're running out of time so we'll have to wrap it up here."</span>
 
-![placeholder]({{ site.baseurl }}{{ page.images[4].image_path }})
+![sprout]({{ site.baseurl }}{{ page.images[3].image_path }})
 
 <br>
 
