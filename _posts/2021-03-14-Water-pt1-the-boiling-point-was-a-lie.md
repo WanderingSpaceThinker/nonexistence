@@ -30,7 +30,7 @@ Bad news, you answered what are the expected correct answers but they were trick
 * It actually depends on the surrounding pressure but it's indeed the value you know at "normal" pressure.
 * If you heat water at this temperature it will vaporize, don't get me wrong. If that were the end of it though, it means drying your hair after a shower or your clothes after a downpour, would require to heat them to 100°C... imagine the horror.
 
-Clearly, the definition we've been told in school doesn't account for evaporation and there's more than meet the eye.
+Clearly, the definition we've been told in school doesn't account for evaporation and there's more than meets the eye.
 
 Hopefully, by the end you'll have a better understanding of the many common phenomenons that are involved in this.
 
@@ -48,7 +48,7 @@ You probably know that there are 3 states of matter[^1]:
 
 The state of a substance depends on its pressure and temperature:
 > <ins>temperature:</ins> measure of the average velocity of particles (how agitated they are).
-* Hot temperature is similar to a punk mosh pit while cold temperature is more a tea dance... organized by slugs.
+* Hot temperature is similar to a punk mosh pit while cold temperature is more like a tea dance... organized by slugs.
 
 > <ins>pressure:</ins> measure of the velocity exchange between particles (how much they bump into each other).
 * The same examples work but you can also picture low pressure as a sparse mosh pit of an unpopular band and high pressure as a crowded *clumsy* slug tea dance.
@@ -62,7 +62,7 @@ Remarkably, the solid state takes most of the diagram, too bad we're not going t
 
 Our focus today is on the curve that separates gas with the other states[^3]. This is the curve that tells us the boiling temperature for a given pressure (or the other way around).
 
-We can see the boiling temperature increases with pressure, that's the secret behind pressure cooker. Since water takes around **1600x** more space as vapor[^4] than as a liquid, this will increase pressure **a lot** in a confined space. With that you can cook stuff [quicker than normal](https://en.wikipedia.org/wiki/Pressure_cooking).
+We can see the boiling temperature increases with pressure, that's the secret behind the pressure cooker. Since water takes around **1600x** more space as vapor[^4] than as a liquid, this will increase pressure **a lot** in a confined space. With that you can cook stuff [quicker than normal](https://en.wikipedia.org/wiki/Pressure_cooking).
 
 **<ins>The truth behind evaporation</ins>**
 
@@ -84,7 +84,7 @@ Sounds too crazy to be true? Luckily, we can observe something similar when a su
 ![phase]({{ site.baseurl }}{{ page.images[2].image_path }})
 <p class="legend">Yeah, it looks as crazy at it sounds</p>
 
-Going back to evaporation, in a glass of water, if a particle at the surface get bumped and gain enough momentum, it will break free and escape into the air as vapor.
+Going back to evaporation, in a glass of water, if a particle at the surface gets bumped and gains enough momentum, it will break free and escape into the air as vapor.
 
 Reciprocally, if a free water particle is slowed enough by a collision, near the surface, it will bind to others and become part of the liquid.
 
@@ -97,7 +97,7 @@ We can illustrate this with a metaphor: let's say you're at a concert. The more 
 
 **<ins>Relative humidity</ins>**
 
-All of this is nice but we don't know the rule regulating those two transfers.
+All of this is nice but we don't know the rules regulating those two transfers.
 
 You probably experienced that a glass of water will empty by itself, given a week or two. Meanwhile, that 5 years old bottle of water in your car probably has developed an alien ecosystem (and at this point, you're too afraid to throw it away).
 
@@ -107,9 +107,9 @@ Humidity is the amount of water vapor present in the air and relative humidity i
 
 Since there is a maximum air humidity, it explains why that car bottle with few air inside is still full. Whereas the empty glass had an entire room to evaporate into.
 
-In addition, the dryer the air (the lower the relative humidity), the faster water will evaporate until it stops at 100% relative humidity.
+In addition, the drier the air (the lower the relative humidity), the faster water will evaporate until it stops at 100% relative humidity.
 
-It's not that it's easier to evaporate into dryer air, just that there is fewer gas particle that can transform to liquid form. When air is saturated with moisture, the evaporation and condensation streams compensate each other perfectly:
+It's not that it's easier to evaporate into drier air, just that there are fewer gas particles that can transform to liquid form. When air is saturated with moisture, the evaporation and condensation streams compensate each other perfectly:
 
 ![evaporation]({{ site.baseurl }}{{ page.images[3].image_path }})
 <p class="legend">Expertly drawn illustration</p>
@@ -118,9 +118,9 @@ Imagine this:
 * Dry air is like an empty train arriving at a crowded station, many will go in but none out.
 * Air saturated with humidity is a full train arriving at a full station, lots of people going in and out with as many people as they started with in the end.
 
-Finally, you may have experienced suffocating hot humid tropical summer (when you're all sweaty) yet you probably never complained about humid winter, even though it's a thing[^7].
+Finally, you may have experienced suffocating hot humid tropical summers (when you're all sweaty) yet you probably never complained about humid winters, even though it's a thing[^7].
 
-One of the reason is, maximum humidity depends on pressure/temperature, specifically it will increase drastically with temperature.
+One of the reasons is, maximum humidity depends on pressure/temperature, specifically it will increase drastically with temperature.
 
 Actually, we can observe this increase on our boiling point curve from earlier. Here, I redrew it so we could better see the "real" proportions between liquid and gas:
 
@@ -129,13 +129,13 @@ Actually, we can observe this increase on our boiling point curve from earlier. 
 
 The red lines tell us the maximum pressure of water vapor[^8] that can exist at this temperature. This is what defines the maximum humidity (per unit of air).
 
-The purples lines tell us water should be liquid... but we just said that some evaporate into gas! In reality, the lines tell us that it will be both liquid *and* gas. Water will stay in liquid state but only when enough have evaporated to reach maximum humidity.
+The purple lines tell us water should be liquid... but we just said that some evaporate into gas! In reality, the lines tell us that it will be both liquid *and* gas. Water will stay in liquid state but only when enough has evaporated to reach maximum humidity.
 
 The boiling temperature is the point where the purple and red lines completely overlap. Meaning the maximum pressure of water vapor equals the total pressure. Meaning water cannot stay in liquid form at all.
 
 I realize that it's a bit much to wrap our heads around so take this last image: it's a bit like a relationship that slowly decays.
 
-When temperature rises, love turns increasingly into hate and the water molecules want more and more to split up. When it reaches the boiling point, the water molecules sign the divorce papers and go on their own separate way...
+When temperature rises, love turns increasingly into hate and the water molecules want more and more to split up. When it reaches the boiling point, the water molecules sign the divorce papers and go their own separate way...
 
 Wait, no no I swear this is not about me, I just have poor imagination for metaphors.
 
@@ -143,9 +143,9 @@ Wait, no no I swear this is not about me, I just have poor imagination for metap
 
 Let's sum it up, a phase diagram will tell us in what state matter will be for a couple pressure/temperature, at our scale.
 
-On a particle level, it's way more fuzzy and chaotic, matter don't really exist in a single state, it's more a game of probability and momentum, for each instant.
+On a particle level, it's way more fuzzy and chaotic, matter doesn't really exist in a single state, it's more a game of probability and momentum, for each instant.
 
-In the case of liquid water, it means there's a lot of exchanges between the water in a container and the moisture in the air. Those exchanges are regulated by the maximum humidity which also depends on pressure/temperature.
+In the case of liquid water, it means there's a lot of exchange between the water in a container and the moisture in the air. Those exchanges are regulated by the maximum humidity which also depends on pressure/temperature.
 
 Finally, the boiling point is not the temperature at which liquid turns into gas but rather the temperature at which **all** water can exist in vapor form, without limit[^9].
 
@@ -156,7 +156,7 @@ That's it for our pointless journey of understanding the truth behind the boilin
 [^1]: There's actually [many more](https://en.wikipedia.org/wiki/State_of_matter), but that's not the topic.
 [^2]: If you're disappointed, here is a fun fact about ice: its structure also depends on pressure/temperature and it has [many different ones](https://upload.wikimedia.org/wikipedia/commons/0/08/Phase_diagram_of_water.svg). The one we're most used to is the [ice Ih](https://en.wikipedia.org/wiki/Ice_Ih).
 [^3]: Sadly, it means I'll have to ignore the supercritical part even though it's [SUPER cool](https://www.youtube.com/watch?v=JslxPjrMzqY).
-[^4]: By the way, water vapor is very much invisible, the white smoke coming of boiling water is really a fog of tiny droplets.
+[^4]: By the way, water vapor is very much invisible, the white smoke coming from boiling water is really a fog of tiny droplets.
 [^5]: Temperature is what determines those probabilities. The hotter the ice cube, the less *solid* it will be, both literally and figuratively.
 [^6]: Original footage from this [video](https://www.youtube.com/watch?v=XEbMHmDhq2I), more info on the triple point [here](https://en.wikipedia.org/wiki/Triple_point).
 [^7]: Winter humidity, in badly isolated homes, is the source of chipped paint, rotten wallpaper and all this sort of goodness. Because cold air can hold very little moisture, walls colder than the room will allow moisture to condense into liquid form, causing the havoc you know.

@@ -16,20 +16,20 @@ images:
 
 [What is love?](https://www.youtube.com/watch?v=HEXWRTEbj1I)
 
-The nature of love is an elusive mystery that has existed since time immemorial... that I obviously won't be able to "solve" by my own. Instead, my goal here is merely to cast a dim light on this inscrutable fog.
+The nature of love is an elusive mystery that has existed since time immemorial... that I obviously won't be able to "solve" on my own. Instead, my goal here is merely to cast a dim light on this inscrutable fog.
 
 <ins>**Humble beginnings:**</ins>
 
 At the start, there's you, and another living being (human or animal). You spend time together and come to appreciate each other's company, you develop a mutual attachment. This attachment, combined with the memories and knowledge of each other you both have, is what constitutes your unique *relationship*.
 
-Actually, it'll be more convenient to separate how each individual feel for the other (we'll call that a *bond*) because they can be completely different, causing the relationship to be asymmetrical. For example, when one of your friend secretly hates you, or when you fall in love but get friendzoned.
+Actually, it'll be more convenient to separate how each individual feels for the other (we'll call that a *bond*) because they can be completely different, causing the relationship to be asymmetrical. For example, when one of your friends secretly hates you, or when you fall in love but get friendzoned.
 
-As we'll see later, bonds are fundamental to love, and since we'll need a good understanding of their inner working, let's focus on them for now.
+As we'll see later, bonds are fundamental to love, and since we'll need a good understanding of their inner workings, let's focus on them for now.
 
 ![bond]({{ site.baseurl }}{{ page.images[0].image_path }})
 <p class="legend">By now you can spot when I make these myself, can't you?</p>
 
-First, the asymmetry hints to us that they're something entirely personal, they don't require someone else to reciprocate our feelings. Actually, it's possible to develop a bond even if the recipient doesn't know you, that's what happen when people fall in love with celebrities.
+First, the asymmetry hints to us that they're something entirely personal, they don't require someone else to reciprocate our feelings. Actually, it's possible to develop a bond even if the recipient doesn't know you, that's what happens when people fall in love with celebrities.
 
 We can thus define a bond as:
 > The unilateral set of knowledge/memories and feelings someone has for a given person.
@@ -38,7 +38,7 @@ But you don't feel or know anything about most people... because you don't even 
 * Have specific feelings towards them - you might have "default" feelings towards everyone, but these don't count.
 * Acknowledge their existence - I don't see how you can satisfy the first item otherwise.
 
-As you can guess, those conditions are easy to reach, and our definition encompass a lot of different type of bonds, from acquaintances to inseparable friends. In order to help us tell them apart, I listed some bonds' critical features:
+As you can guess, those conditions are easy to reach, and our definition encompasses a lot of different types of bonds, from acquaintances to inseparable friends. In order to help us tell them apart, I listed some bonds' critical features:
 * variable in strength: a stronger bond will use more brain resources (memory/thinking time), ranging from mere indifference to unhealthy obsession.
 * evolve with time: they often start weak and grow stronger over time, as you learn more about the other. They can also decay, if you grow apart or lose interest. The feelings themselves can change too, you might start disliking someone and then learn to appreciate them.
 * polarity: bonds can be "positive" (love, admiration) or "negative" (jealousy, rivalry), and they can be both: it's possible to like and hate someone at the same time. Although those emotions generally interfere destructively, weakening the bond in the process.
@@ -55,13 +55,13 @@ Keep everything in mind as we'll need it for later, but as a side note, let's ta
 
 At first, we're mammals so, like other animal groups, we have parental care[^1]. Meaning, caregivers and their juveniles need to form bonds (potentially between siblings as well) in order to implement this behavioral strategy. If it stopped here though, our bonds would fade come adulthood, as we can observe in many species.
 
-The thing is, we're also social animals, we've evolved to live in cooperative groups. That means we needed to keep track, identify and care, for our kin. That's what constitutes the basis for our bond-making ability. It's just that, for some reasons, those bonds are not limited to other members of our family, of our specie, or even to living organisms.
+The thing is, we're also social animals, we've evolved to live in cooperative groups. That means we needed to keep track, identify and care for our kin. That's what constitutes the basis for our bond-making ability. It's just that, for some reasons, those bonds are not limited to other members of our family, of our species, or even to living organisms.
 
 Surely, other social or eusocial species have a similar ability. It's pretty easy to tell that dogs can bond with humans... and pretty much anything. While it's not that obvious for bees or ants, they must have bonds, but they're just too different from us to easily comprehend.
 
 <ins>**Back to topic:**</ins>
 
-To begin, we need to address an issue: The word "love" encompass a wide assortment of concepts depending on person, country or language. Before writing, I asked some of my friends to tell me what love is. They all started very confused, and then went into totally different directions each time...
+To begin, we need to address an issue: The word "love" covers a wide assortment of concepts depending on person, country or language. Before writing, I asked some of my friends to tell me what love is. They all started very confused, and then went into totally different directions each time...
 
 That's why in this article we'll consider "love" as "the feeling of love" which is still pretty vague, but we'll make do.
 
@@ -86,15 +86,15 @@ What if suddenly you're attracted to one of them? The change doesn't warrant a c
 
 <ins>**Emergent love:**</ins>
 
-You might have realized we've been describing a bond, and that's no coincidence, I warned you at the start. Indeed, love correspond to a specific category of bonds: a strong feeling for someone that vary over time and from person to person.
+You might have realized we've been describing a bond, and that's no coincidence, I warned you at the start. Indeed, love corresponds to a specific category of bonds: a strong feeling for someone that varies over time and from person to person.
 
 In addition, since bonds are bundles of stuff, love is probably not monolithic but the result of interactions between various underlying elements, an emergent property.
 
-This mean that each branch, each bond uniqueness results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
+This means that each branch, each bond uniqueness results from the specific mix and proportions of feelings/factors that comprises it. Like a cooking recipe, each one has their own ingredients and quantities, except here, the list of available ingredients depends on the person the love blossoms from.
 
 For example, a father's love for his offspring might be comprised, among other things, of a desire to protect and provide for them, to make them happy and ensure they grow into healthy adults.
 
-That makes you wonder what make love bonds special, what exactly separate them from others? It could simply be a strength threshold, a strong enough bond automatically turns into love.
+That makes you wonder what makes love bonds special, what exactly separates them from others? It could simply be a strength threshold, a strong enough bond automatically turns into love.
 
 But wait! You can totally be attracted to someone without loving them, people don't think twice about their one-night stands. That's true of other feelings as well: a teacher, like a parent, wants their pupils to succeed, however, it can hardly be called love.
 
@@ -116,24 +116,24 @@ Next, we can try to imagine how exactly it interacts with our feelings:
 * Amplify: The feeling exists outside of love but in generally tamer versions (e.g: attraction, need for skinship).
 * Transmute: The feeling exists outside but is radically transformed (e.g: jealousy, possessiveness).
 
-There might be more, it's only what I could come up with. In addition, it also depends on psychotype, remember, everyone has its own ability to love, so the factor's influence has to be personal too.
+There might be more, it's only what I could come up with. In addition, it also depends on psychotype since everyone has their own ability to love, so the factor's influence has to be personal too.
 
 As romantic love is the most influential of all, it'd be nice to know if it has any unique interactions with the love factor. Is it special because it has the strongest interactions? Or is it because it involves unique ingredients, like [limerence](https://en.wikipedia.org/wiki/Limerence)?
 
-What about the *relatives* of love, like admiration, obsession or passion. Are they the result of other factors that influence our feelings as well? Or are they influenced themselves by the love factor? Sadly, for all those topics I don't have the answers, only more questions... For now, at least.
+What about the *relatives* of love, like admiration, obsession or passion. Are they the result of other factors? Or are they influenced by the love factor? Sadly, for all those topics I don't have the answers, only more questions... For now, at least.
 
 <ins>**Transient trap:**</ins>
 
 I wanted to warn you of a trap I see some people fall in. You see, at the beginning of a relationship there's this moment where you have everything to discover from the other, where you see everything through a rosy lens, it can feel a bit exhilarating and overwhelming.
 
-Once it inevitably grinds to a halt, the relationship will suffer a return to reality if it doesn't have a strong foundation. This is perfectly normal, but it's a problem when people mistaken this early stage with romantic love... because it's not. So where does this come from?
+Once it inevitably grinds to a halt, the relationship will suffer a return to reality if it doesn't have a strong foundation. This is perfectly normal, but it's a problem when people mistake this early stage with romantic love... because it's not. So where does this come from?
 
-A common bond trajectory, love or not, is one of maturity: It starts rapidly as you get to know each other, before settling in an equilibrium state, progressing more slowly. Of course, this state can be upset by events in either directions, like if your friend sleep with your fiancé or something.
+A common bond trajectory, love or not, is one of maturity: It starts rapidly as you get to know each other, before settling in an equilibrium state, progressing more slowly. Of course, this state can be upset by events in either direction, like if your friend sleeps with your fiancé or something.
 
 ![gears]({{ site.baseurl }}{{ page.images[3].image_path }})
 <p class="legend">Illustration for an uneventful friendship bond.</p>
 
-When it comes to romance, it often translates in this magical period I talked before, which is often romanticized about. Although I'm pretty sure it's a case of [rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection).
+When it comes to romance, it often translates in this magical period I talked about before, which is often romanticized about. Although I'm pretty sure it's a case of [rosy retrospection](https://en.wikipedia.org/wiki/Rosy_retrospection).
 
 The thing is, I recall clearly how I felt back then. Sure, getting to learn about my significant other, discovering their quirks, their hobbies and all that, was totally dope. However, it was also nerve-wracking. You become self-conscious, you don't dare act normal in the hope to present the "best" version of yourself, since you're really anxious about losing the other's affection and interest.
 
@@ -155,19 +155,19 @@ Again, these emotions exist outside of love, and are generally minor. It means t
 
 I'd rather consider they generate a *mirror/negative* version of love that's akin to hate, a "love hatred" if you will. We do speak of the love-hate duality and of love-hate relationships, after all.
 
-The silver lining is, hatred is less prevalent than its love counterpart. That isn't too surprising, you rarely harm someone you love on purpose, and if you do, you'll at least try to patch things up. This lead to more positive interactions in relationships, overall.
+The silver lining is, hatred is less prevalent than its love counterpart. That isn't too surprising, you rarely harm someone you love on purpose, and if you do, you'll at least try to patch things up. This leads to more positive interactions in relationships, overall.
 
 When unaddressed, this hatred will create a strain on the relationship, even before leading to drama. In most cases, I'd expect it to simply trigger a *loss of love* by somehow weakening the love factor. Not directly by itself, it might just make us reconsider the relationship and sever the ties as some kind of self-protecting mechanism.
 
-In that scenario, the expected outcome is a progressive dying of the positive and negative bonds. Leading towards either to Platonic love, plain indifference, or bitter spite.
+In that scenario, the expected outcome is a progressive dying of the positive and negative bonds. Leading towards either Platonic love, plain indifference, or bitter spite.
 
-Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before the indifference numbs our skull, and the hatred corrupts our souls[^5].
+Alas, sometimes we just screw things up beyond a fixable state, we hit a major incompatibility wall, we aren't honest with ourselves or the other, and love grinds to a halt. This is part of life, we need to move on before indifference numbs our skull, and hatred corrupts our souls[^5].
 
 <ins>**Wrapping-up:**</ins>
 
 Alright, I've been torturing my mind for too long with this subject, it's time to wrap things up. Suffice to say, all these ideas are not based on facts and only reflect my own opinion on the matter.
 
-I won't be surprised if you don't agree with me, it's perfectly fine. Still, the bond approach, the "forest of love" metaphor and the love factor hypothesis might help you gain insight in the mess that's our loving hearts.
+I won't be surprised if you don't agree with me, it's perfectly fine. Still, the bond approach, the "forest of love" metaphor and the love factor hypothesis might help you gain insight into the mess that's our loving hearts.
 
 ![gears]({{ site.baseurl }}{{ page.images[4].image_path }})
 <p class="legend">For myself, I (re)discovered that love is a beautiful yet excruciatingly complex topic</p>

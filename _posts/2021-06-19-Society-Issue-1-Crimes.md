@@ -12,7 +12,7 @@ images:
  - image_path: /static/posts_img/tangled.jpg
 ---
 
-This is the first part of Society Issue, we will discuss an aspect of society that I believe deserves some improvements. Today we'll be talking about crimes, everyone's thirds best topic to ruin a family diner after religion and politics.
+This is the first part of Society Issue, we will discuss an aspect of society that I believe deserves some improvements. Today we'll be talking about crimes, everyone's third best topic to ruin a family diner after religion and politics.
 
 ## <ins>Definition and Origins</ins>
 
@@ -26,7 +26,7 @@ We'll only consider two categories of civil crimes:
 * Harmful to people and their possessions (assault, murder, theft...)
 * Harmful to society (tax evasion, bribery, embezzlement...)
 
-This kind of crimes reduces confidence in others/society and create inefficiencies (e.g: money spent on bribery isn't money spent on productive assets). These are not things I want in my society and this is why we're discussing this today.
+This kind of crime reduces confidence in others/society and creates inefficiencies (e.g: money spent on bribery isn't money spent on productive assets). These are not things I want in my society and this is why we're discussing this today.
 
 So why do people commit these types of crimes? Just like wars, the answer is neither simple nor definitive. So much so that criminology is a field of science dedicated to the study of crime and their origin.
 
@@ -36,7 +36,7 @@ A jealous husband kills his wife who cheated on him. A starving beggar steals fo
 
 More generally, a given person may (or may not) commit a crime, depending on their personality, their current physical and mental state and under a specific set of circumstances.
 
-As you can guess, that's not helpful both to understand and reduce crime at a society scale. That's why one of the focus of criminology is to find factors that correlate with higher crime statistics.
+As you can guess, that's not helpful both to understand and reduce crime at a society scale. That's why one of the focuses of criminology is to find factors that correlate with higher crime statistics.
 
 ## <ins>Factors of crime</ins>
 
@@ -47,11 +47,11 @@ Let's break down some of the findings:
 * Age: most crimes are committed by people in their teens to their thirties.
 * Substances: alcohol or drug use is correlated with crime both for consumption during the crime and addiction in general.
 * Genetics: some genes linked to aggression or addiction are correlated with crime.
-* Chemicals: lead poisoning during childhood increase criminal behavior.
+* Chemicals: lead poisoning during childhood increases criminal behavior.
 
 <ins>Psychology:</ins>
-* Mental disorders: a slew of mental disorders (schizophrenia, ADHD, depression...) are linked to higher crime rate.
-* Personality traits: some anti-social personality traits (psychoticism, low empathy...) are linked to higher crime rate
+* Mental disorders: a slew of mental disorders (schizophrenia, ADHD, depression...) are linked to higher crime rates.
+* Personality traits: some antisocial personality traits (psychoticism, low empathy...) are linked to higher crime rate
 * IQ: IQ is slightly negatively correlated with crime (high IQ means slightly less chance to commit crime), it might not be significant though.
 
 <ins>Socioeconomic:</ins>
@@ -66,15 +66,15 @@ The studies try to explain the relationship between those factors and crimes but
 ![salt]({{ site.baseurl }}{{ page.images[0].image_path }})
 <p class="legend">That... should be enough.</p>
 
-First thing first, those factors only correlates with crime and are not causes. Things like having *bad* genes or the lead poisoning do not guarantee you to commit crimes.
+First thing first, those factors only correlate with crime and are not causes. Things like having *bad* genes or the lead poisoning do not guarantee you to commit crimes.
 
 In fact, most people with multiple aggravating factors will **never** commit crimes. They're like little nudges that can push someone to commit a crime they might not have committed otherwise.
 
 Regarding the sex disparities, it's probably both because of actual physiology (testosterone linked to aggression...) as well as social-cultural factors (fights, weapons, considered more *manly* for example).
 
-The age disparity isn't too surprising. Teenagers and young adults combine peak physical performance with poor impulse control, poor emotion regulation and a very stressful period of life. All of this make them more suitable to all kinds of reckless behaviors and can lead to substance abuse and/or delinquency.
+The age disparity isn't too surprising. Teenagers and young adults combine peak physical performance with poor impulse control, poor emotion regulation and a very stressful period of life. All of this makes them more suitable to all kinds of reckless behaviors and can lead to substance abuse and/or delinquency.
 
-For poverty, income inequality may strengthen the feelings of dispossession and unfairness in society leading to less remorse in committing crimes. That said, poor farming village in developing countries are not famous for their lawlessness.
+For poverty, income inequality may strengthen the feelings of dispossession and unfairness in society leading to less remorse in committing crimes. That said, poor farming villages in developing countries are not famous for their lawlessness.
 
 One key difference may lie in a stronger social structure, where villagers support each other during tough times. In cities, the suffering of the poor is, more often than not, only met with apathy.
 
@@ -94,7 +94,7 @@ On an individual level that seems impossible, even with non-existent crime-predi
 
 Maybe if we somehow tracked every single action of every single person but it would come at a high economic and freedom cost.
 
-While we're at it, we should use an AI to oversee everything there's no way it can end badly, right?
+While we're at it, we should use an AI to oversee everything. There's no way it can end badly, right?
 
 ![1984]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">Do not resist</p>
@@ -111,7 +111,7 @@ Pretty much the same as above but with personality instead of genes. Although, s
 
 <ins>Chemicals:</ins>
 
-Besides lead, there's other chemicals that affect our health/growth negatively. The key rule here is the [precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle), sadly detecting harmful effects before mass usage is challenging so constantly monitoring what's in use and updating health regulations with new data is the way to go.
+Besides lead, there's other chemicals that negatively affect our health/growth. The key rule here is the [precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle), sadly detecting harmful effects before mass usage is challenging so constantly monitoring what's in use and updating health regulations with new data is the way to go.
 
 <ins>Mental Disorders:</ins>
 
@@ -133,7 +133,7 @@ Now I understand the danger of those substances, so legalization should come wit
 
 The complementary to legalization is to address addiction (not only to substance) at its roots. Sadly, just like crimes, there are many risk factors of addiction, and it's too big of a subject, so I'll try to be quick:
 * Genetics contributes to addiction vulnerability, again we can't really do much for this.
-* Age is also factor, teenagers are most vulnerable for the same reasons they're more prone to crimes. So education and promoting responsible use to the youth is important (but a bit vain, let's be serious).
+* Age is also a factor, teenagers are most vulnerable for the same reasons they're more prone to crimes. So education and promoting responsible use to the youth is important (but a bit vain, let's be serious).
 * Stressful and traumatic events (war or crimes...) are big factors, fighting these will help but we're kind of in a loop here.
 * Poverty can expose people to those events and reduce the access to health care or social support, acting as an indirect factor to addiction. Solving poverty seems quite a fetch (although...) so at the very least we should try to help addicts instead of punishing them.
 
@@ -143,11 +143,11 @@ All of the other factors are bundled because the solutions are certain to be com
 
 But let's say the bulk of crimes from these factors come from feelings of rejection and unfairness, hopelessness for the future. Then by taking actions to create a fair and inclusive society, by improving social support for isolated citizens, we should see an impact on crime.
 
-In addition, when kids fall into criminality, generally because of a *not stellar life*, they're more likely to stay in this path so education and caring for the youth and protecting them from bad influence are especially important.
+In addition, when kids fall into criminality, generally because of a *not stellar life*, they're more likely to stay in this path so education and caring for the youth and protecting them from bad influences are especially important.
 
 Also, people have a (arguably) legitimate desire to improve their condition, if given the possibility there will always be someone tempted to do it at the expense of others. Stopping all abuse, would require, again, a disproportionate amount of surveillance that wouldn't work anyway.
 
-I'd focus on the biggest ones, not hidden work nor welfare abuse but wealthy tax evasion and embezzlement by people in power. That should be done by enforcing transparency and accountability, there is a few countries with low corruption rate that we can inspire from like Norway with their public tax records.
+I'd focus on the biggest ones, not hidden work nor welfare abuse but wealthy tax evasion and embezzlement by people in power. That should be done by enforcing transparency and accountability. There are a few countries with low corruption rates that we can inspire from like Norway with their public tax records.
 
 Sadly, even if we miraculously did all of that, crime wouldn't disappear since we can't control everyone.
 
@@ -165,9 +165,9 @@ We had prisons for quite a long time and well, crimes and recidivism are still a
 The reasons prison don't quite work are:
 
 * Psychology of punishment: Deterrence through punishment is not as simple as it sounds, it can actually be a double-edged sword.
-* Prison environment: In some countries, inmates culture is notoriously bad with a "survival of the fittest" kind of environment. That can encourage criminal behaviors or create trauma for victims of assaults in prison. Also, criminals all live together which can create networks of criminals and turn small thieves into full blown bank robbers after serving their sentence.
-* Reinsertion: Society isn't too keen on ex-prisoners, which means they can struggle to find a job and build a "normal" life because of rejection. It doesn't help that criminals may had difficulties blending with society in the first place (made even worse by the disparity with prison culture).
-* Root causes: Prisons do not try to address the reasons prisoner committed crimes.
+* Prison environment: In some countries, inmates' culture is notoriously bad with a "survival of the fittest" kind of environment. That can encourage criminal behaviors or create trauma for victims of assaults in prison. Also, criminals all live together which can create networks of criminals and turn small thieves into full blown bank robbers after serving their sentence.
+* Reinsertion: Society isn't too keen on ex-prisoners, which means they can struggle to find a job and build a "normal" life because of rejection. It doesn't help that criminals may have difficulties blending with society in the first place (made even worse by the disparity with prison culture).
+* Root causes: Prisons do not try to address the reasons prisoners committed crimes.
 
 What can we do to address those issues?
 
@@ -181,11 +181,11 @@ It is legitimate to want criminals to be punished for their deeds and for the ha
 
 Then, no matter what we do, anti-social and dangerous people will always exist and we need to deal with it. Locking them up in prison is a safe and easy solution, ideally allowing them to work and contribute to society somehow. That's mainly why we had prisons for so long and why we'll still have them.
 
-Reinsertion could be improved by trying to reintegrate criminals in society, at least the less dangerous, more receptive or youngest of them. That could be done by turning prison sentences for smaller crimes to a punishment that allows to rebound like house arrest with forced classes or something.
+Reinsertion could be improved by trying to reintegrate criminals in society, at least the less dangerous, more receptive or youngest of them. That could be done by turning prison sentences for smaller crimes to a punishment that allows a rebound like house arrest with forced classes or something.
 
-We could also have specialized facilities, like lighter prisons focusing on "social reeducation", the idea being to avoid creating criminal networks by mixing small thieves with cartel drug dealers and with hopefully with a healthier environment than your average prison prison.
+We could also have specialized facilities, like lighter prisons focusing on "social reeducation", the idea being to avoid creating criminal networks by mixing small thieves with cartel drug dealers and hopefully with a healthier environment than your average prison prison.
 
-Finally, giving second chances to ex-prisoners because shunning them won't help them reintegrating society. Without being naive, violent people or sex criminals should be monitored and kept away from whatever they could be tempted to do again.
+Finally, giving second chances to ex-prisoners because shunning them won't help them reintegrate society. Without being naive, violent people or sex criminals should be monitored and kept away from whatever they could be tempted to do again.
 
 ## <ins>Conclusion</ins>
 
@@ -194,11 +194,11 @@ As you probably noticed by now, crime is a tangled mess of interdependent issues
 ![tangled]({{ site.baseurl }}{{ page.images[2].image_path }})
 <p class="legend">Artistic representation</p>
 
-Trying to "solve" or rather reduce crime requires a holistic approach that modify various aspects of our society.
+Trying to "solve" or rather reduce crime requires a holistic approach that modifies various aspects of our society.
 
 This will be a recurring pattern in future articles to the point where put together, they will describe an alternative society as a byproduct, something like my idealized society.
 
-Returning to crimes, we talked about many potential improvements, yet we only scratched the surface. Admittedly, things like "improving education" are vague, but that's because actual solutions needs to be crafted on the terrain through experimentation.
+Returning to crimes, we talked about many potential improvements, yet we only scratched the surface. Admittedly, things like "improving education" are vague, but that's because actual solutions need to be crafted on the terrain through experimentation.
 
 But in a generic manner, reducing crime is about
 1. Improving other issues like mental health, poisonous substance or addiction.

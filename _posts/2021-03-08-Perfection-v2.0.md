@@ -13,7 +13,7 @@ images:
  - image_path: /static/posts_img/superliminal.gif
 ---
 
-Today's subject is one of the first ideas worth writing about I had, a whopping 12 years ago. It all started a freezing winter morning. As I'm waiting the bus to go to school, I wonder: *Is there anything perfect in this word?*
+Today's subject is one of the first ideas worth writing about I had, a whopping 12 years ago. It all started on a freezing winter morning. As I'm waiting the bus to go to school, I wonder: *Is there anything perfect in this word?*
 
 You might wonder what was the point of this and there is none really. I know I like to rationalize and find purpose to stuff but I still do things for **fun**... sometimes.
 
@@ -45,9 +45,9 @@ Let's go back to the original topic at hand. *"Maybe I should reverse the questi
 
 Now I need to find a model for my not-simple, not-boring, kind-of-pointless new definition. Preferentially, something that's not a creation of our tainted brains, something from this world that has some remarkable properties, worthy of idealization.
 
-My choice for this, is life. I don't mean any particular species or organism but the entirety of it, what could also be referred as "nature". After all, it's a gigantic pile of [emergent](https://en.wikipedia.org/wiki/Emergence) properties that are worth investigating in this pointless pursuit.
+My choice for this is life. I don't mean any particular species or organism but the entirety of it, what could also be referred as "nature". After all, it's a gigantic pile of [emergent](https://en.wikipedia.org/wiki/Emergence) properties that are worth investigating in this pointless pursuit.
 
-I hinted at this in the previous article but life (as we know it) really fascinates me. When you think about it, we are all composed of an incomprehensible number of different tiny living factories themselves a huge and complex arrangement of (mostly) not-living components and proteins. All of this work in unison to make it work and let me write stuff nobody cares about on the web, neat!
+I hinted at this in the previous article but life (as we know it) really fascinates me. When you think about it, we are all composed of an incomprehensible number of different tiny living factories themselves, a huge and complex arrangement of (mostly) not-living components and proteins. All of this work in unison to make it work and let me write stuff nobody cares about on the web, neat!
 
 As someone who always liked to understand systems or machines' inner workings, you can see how it leaves me in awe. Without real hope to ever grasp how any given organism really functions due to the sheer complexity. Of course, there's also a lot we still don't — and might never — know...
 
@@ -79,19 +79,19 @@ The lesson I get from this: perfection is not going to be something fixed, but d
 
 > the process of starting to include more different types or things
 
-Mass extinction events, that leads to the disappearance of a big chunk of species living at the time, are bad<sup>[citation needed]</sup>. They were a few during our planet's history, the most famous being the Cretaceous–Paleogene extinction event (you might remember it as the "meteorite killing dinosaurs one" even though there's no consensus on its exact causes).
+Mass extinction events, that lead to the disappearance of a big chunk of species living at the time, are bad<sup>[citation needed]</sup>. There were a few during our planet's history, the most famous being the Cretaceous–Paleogene extinction event (you might remember it as the "meteorite killing dinosaurs one" even though there's no consensus on its exact causes).
 
-As tragic as they are for the extinguished species, they can be a boon for the survivors as they can "rebuild" on the ruins left by the old world. For example, after the non-avian dinosaurs disappeared around 66 millions years ago, there was an explosion in [mammal diversity](https://www.ucl.ac.uk/news/2015/dec/mammal-diversity-exploded-immediately-after-dinosaur-extinction).
+As tragic as they are for the extinct species, they can be a boon for the survivors as they can "rebuild" on the ruins left by the old world. For example, after the non-avian dinosaurs disappeared around 66 millions years ago, there was an explosion in [mammal diversity](https://www.ucl.ac.uk/news/2015/dec/mammal-diversity-exploded-immediately-after-dinosaur-extinction).
 
-The gist of it is, each species plays a role in an ecosystem, they fill an [ecological niche](https://en.wikipedia.org/wiki/Ecological_niche). When they're gone, that niche is empty and can be filled by another species or scrapped together and replaced by something else, leading to increased diversification.
+The gist of it is, each species plays a role in an ecosystem, they fill an [ecological niche](https://en.wikipedia.org/wiki/Ecological_niche). When they're gone, that niche is empty and can be filled by another species or scraped together and replaced by something else, leading to increased diversification.
 
-The reason why this happen is, if a niche was eating one kind of food (grass for example) and it's now empty, it means that whoever can fill it will get access to a food source without competition. That way, available resources (type of food) can be more efficiently allocated than if all the species wanted to eat the same thing. Another advantage is, if one type of food disappear, it will only affect the species that relied on it.
+The reason why this happens is, if a niche was eating one kind of food (grass for example) and it's now empty, it means that whoever can fill it will get access to a food source without competition. That way, available resources (type of food) can be more efficiently allocated than if all the species wanted to eat the same thing. Another advantage is, if one type of food disappears, it will only affect the species that relied on it.
 
 This is probably over-simplified but, alas, I'm not a biologist so I can't go into more details than that. Besides, I don't want you to think that this article is a cover for a biology class.
 
 The takeaway here is: a crisis is an opportunity to exploit the demise of others for your own gain... Wait what? No, please don't.
 
-More seriously, diversification is an important tool for the efficient use of resources and it improves resiliency. Also, variety is fun: our past is filled of crazy alien-like creatures, that has to be more interesting that if there were only one species.
+More seriously, diversification is an important tool for the efficient use of resources and it improves resiliency. Also, variety is fun: our past is filled with crazy alien-like creatures, that has to be more interesting that if there were only one species.
 
 * **<ins>Sustainability:</ins>**
 
@@ -99,11 +99,11 @@ More seriously, diversification is an important tool for the efficient use of re
 
 Life on Earth started around 3.7 billion years ago and even though there were minor hiccups like [the entire planet entirely freezing a few times](https://en.wikipedia.org/wiki/Snowball_Earth) along the road, it's still going strong. For context, modern humans have been around for 100 000 years, civilization started 10 000 years ago and the Industrial Revolution 200 years ago.
 
-Yet, at least as of writing this article, in a short amount of time, we're simultaneously at risk of running out of natural resources (eg: fossil fuel) and accumulating too much byproducts (eg: plastics and greenhouse gases), threatening our current livelihood and future development, so how give?
+Yet, at least as of writing this article, in a short amount of time, we're simultaneously at risk of running out of natural resources (eg: fossil fuel) and accumulating too many byproducts (eg: plastics and greenhouse gasses), threatening our current livelihood and future development, so how give?
 
-Well, remember those snowball earths? That might have been organisms sifting most of the greenhouse gases from the atmosphere and, [at one occasion](https://en.wikipedia.org/wiki/Great_Oxidation_Event), killing their contemporaries by producing oxygen... how the tables have turned.
+Well, remember those snowball earths? That might have been organisms sifting most of the greenhouse gasses from the atmosphere and, [at one occasion](https://en.wikipedia.org/wiki/Great_Oxidation_Event), killing their contemporaries by producing oxygen... how the tables have turned.
 
-Even more striking, plastic trash accumulating in nature is a big problem right now because the few organisms able to degrade it are rudimentory. Nature may have encountered a similar problem back in the [Carboniferous period](https://en.wikipedia.org/wiki/Carboniferous#Rocks_and_coal).
+Even more striking, plastic trash accumulating in nature is a big problem right now because the few organisms able to degrade it are rudimentary. Nature may have encountered a similar problem back in the [Carboniferous period](https://en.wikipedia.org/wiki/Carboniferous#Rocks_and_coal).
 
 Back then, bark-bearing, tree-like plants newly appeared but the organisms capable of breaking down this bark probably weren't as efficient as they are now, resulting in an accumulation of those plants when they died.
 
@@ -130,6 +130,6 @@ With that, let's craft the new definition of perfect:
 
 It sums up everything pretty nicely, albeit it lacks a notion of fuzziness and chaotic energy that life has since evolution is a stochastic process. Coincidentally, this new ideal would be a great fit for the society I described previously.
 
-Reading that you might think "Wait a minute WST, did you wrote all of this to talk about biology and say the same thing as your precedent article but in a different manner?". Well, to be honest, I can't deny either of those things but I can assure none of this was planned ahead.
+Reading that you might think "Wait a minute WST, did you write all of this to talk about biology and say the same thing as your precedent article but in a different manner?". Well, to be honest, I can't deny either of those things but I can assure none of this was planned ahead.
 
-Anyway, class is over... wait, wait! Don't leave too quickly, I have some **fun** homework for you: I'd like to know what would you chose if you were to create a new ideal, and why. You have until next class.
+Anyway, class is over... wait, wait! Don't leave too quickly, I have some **fun** homework for you: I'd like to know what you would choose if you were to create a new ideal, and why. You have until next class.

@@ -23,7 +23,7 @@ But when it comes to the mind, things are fuzzy, at least for the plebe like mys
 
 Basically, your psychotype is what makes you... you. Now, imagine you want to compare these things with others':
 
-* For genotypes, there's DNA sequencing test.
+* For genotypes, there are DNA sequencing tests.
 * For phenotypes, you just need to look, at least for the external traits.
 
 When it comes to the mind, it gets tough. There are some personality tests out there and if they're a step-up compared to the *"your personality is defined by the stars' orientation the day you're born"* stuff, they have [serious shortcomings](https://www.endominance.com/myers-briggs-test-limitations-and-need-for-a-better-diagnostic-tool/).
@@ -41,7 +41,7 @@ More realistically, your hue only represents you at this moment. It will evolve 
 
 If the hue is your psychotype, we can imagine saturation represents how *pronounced* your psychotype is, while the lightness could be the ratio of introspection to extrospection... Or other things. Or maybe the color analogy doesn't have enough parameters, and we would need something more abstract.
 
-Still, the concept of attributing a color hue to your psychotype is easily understandable, so I'd like you to keep it in mind. Now, in the absence of a test, we can't determine what color you are so, feel free to pick one yourself. I'll take this one:
+Still, the concept of attributing a color hue to your psychotype is easily understandable, so I'd like you to keep it in mind. Now, in the absence of a test, we can't determine what color you are, so feel free to pick one yourself. I'll take this one:
 
 ![blue]({{ site.baseurl }}{{ page.images[1].image_path }})
 <p class="legend">No... that's... absolutely not my favorite color...</p>

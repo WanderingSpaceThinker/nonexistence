@@ -56,7 +56,7 @@ After that, your memory is a bit hazy. You return home to find all your relative
 
 Order is restored, society is rebuilt. Resources spent on military or police around the world are redirected towards education, welfare and civil technologies.
 
-A few decades pass, you die happily while humanity progresses to new heights. Soon after, the Solar System is colonized and the first extra-solar ship is readying up.
+A few decades pass, you die happily while humanity progresses to new heights. Soon after, the Solar System is colonized and the first extrasolar ship is readying up.
 
 Everyone cheers on the telepathic live stream for the ship's departure when suddenly, in the blink of an eye, a swarm of strange apparitions starts disintegrating everything.
 
@@ -77,7 +77,7 @@ But first we need to understand better what we're talking about. For each topic 
 
 Well, this is... *vague*. Plus, good and bad are highly subjective concepts with strong religious vibes. Discussing this feels like trying to grab... controversial fog or something.
 
-It seems that evil encompasses anti-social behaviors (lying, selfishness, hurting other people...) as well as some personal habits (vices) but let's just not dip in those waters and move on.
+It seems that evil encompasses antisocial behaviors (lying, selfishness, hurting other people...) as well as some personal habits (vices) but let's just not dip in those waters and move on.
 
 <ins>**Wars:**</ins>
 
@@ -93,9 +93,9 @@ On the subject of how to reduce war there's something interesting: [there seems 
 
 So instead, let's retro-engineer this decline. There can't be a simple, definitive answer, but a good start is to postulate that wars have fewer benefits and higher drawbacks nowadays and try to understand why.
 
-The first that come to my mind is, in 1928, [war was declared illegal](https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact). It sounds ludicrous and receive(d) lots of criticism since it's non-biding.
+The first that comes to my mind is, in 1928, [war was declared illegal](https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact). It sounds ludicrous and received lots of criticism since it's non-binding.
 
-Still, after World War 2, it may have contributed, or rather illustrated a shift in public opinion against war. This, at least in democracies, might have deterred government from waging wars for fear of reelection and bad PR.
+Still, after World War 2, it may have contributed, or rather illustrated a shift in public opinion against war. This, at least in democracies, might have deterred governments from waging wars for fear of reelection and bad PR.
 
 A good example of this is the lexical used for government branches supervising the army. They're generally called "Department or Ministry of **Defense**" when they used to be called "Department of **War**".
 
@@ -103,7 +103,7 @@ Another more directly influential factor is the advent of nuclear weapons. It is
 
 Finally, economic interdependence through globalized supply chains and international trade agreements. Again, harder to go to war when it might strike a blow to your economy.
 
-This is not an exhaustive list, but let's end it here. If this is correct, as long as those anti-war incentives stay and spread, we can hope this downward trend continue.
+This is not an exhaustive list, but let's end it here. If this is correct, as long as those anti-war incentives stay and spread, we can hope this downward trend continues.
 
 <ins>**Crimes:**</ins>
 
@@ -117,9 +117,9 @@ Sadly, I came to the realization that getting rid of all these things, if that w
 
 We are the result of a long natural selection process<sup>[no, seriously]</sup>, wasting resources could mean death. This is why our bodies will go to great lengths not to feed unnecessary parts. Stop using your arm? Muscle atrophy. Your haircut blocks the view of one eye? Boom, amblyopia.
 
-Next, let's talk about our immune system. It's an astonishingly complex machine that has been refined to fend off threats trying to hijack us for their own benefit. The issue is, the threats are constantly evolving and so is our immune system. This leads to an arms race where each side try to outplay the other.
+Next, let's talk about our immune system. It's an astonishingly complex machine that has been refined to fend off threats trying to hijack us for their own benefit. The issue is, the threats are constantly evolving and so is our immune system. This leads to an arms race where each side tries to outplay the other.
 
-I'd love to go deeper but its not today's topic. If you want to see a *deep dive* on another evolutionary arms race, I can't recommend you enough this documentary on [mimicry](https://www.youtube.com/watch?v=KHxGA6d204I).
+I'd love to go deeper but it's not today's topic. If you want to see a *deep dive* in another evolutionary arms race, I can't recommend you enough this documentary on [mimicry](https://www.youtube.com/watch?v=KHxGA6d204I).
 
 I talk about those phenomenons because they happen in society, to some extent.
 
@@ -130,10 +130,10 @@ Now look, this is a normal phenomenon. Funding and interest will generally go to
 Regarding arms race, an example of one in society would be computer security:
 * At the start, protections are minimal and communications are visible for all to see.
 * Then, malicious hackers exploit those *weaknesses* for their benefit, so we start putting passwords, ciphering transmissions, monitoring accesses...
-* In return, hackers try to bypass protections, steal passwords... it goes on and on to this day.
+* In return, hackers try to bypass protections, steal passwords... It goes on and on to this day.
 * In addition, as security gets increasingly complicated, it costs more to both sides, expanding our knowledge on attacking and defending those systems but locking resources that could be used otherwise.
 
-If we apply this to our subject, it means that if, say, armed conflicts were to disappear, armies and their respective military–industrial complex will quickly lose funding and wither away. It'd be especially drastic since they are [significant worldwide expenses](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures). It has come to this because of literal arms race between countries, further reinforced by the lobbying to maintain the many jobs that depend on it.
+If we apply this to our subject, it means that if, say, armed conflicts were to disappear, armies and their respective military–industrial complex would quickly lose funding and wither away. It'd be especially drastic since they are [significant worldwide expenses](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures). It has come to this because of a literal arms race between countries, further reinforced by the lobbying to maintain the many jobs that depend on it.
 
 It's good news, right? Imagine what we could do with all this extra funding, not forgetting that it's less chance to destroy ourselves. Well, that's one way to see it, but it also means that our know-how of organizing armies, information warfare, building and maintaining complex weapon systems will also disappear.
 
@@ -146,11 +146,11 @@ You know me, I'm a man of resiliency, I like to pursue all the options and consi
 
 Another example would be the disappearance of crimes. Police and investigators would lose funding and, in turn, we would lose our capabilities of maintaining order or investigating crimes. Again, this is something we shan't allow.
 
-Other reasons would include, the economic downfall. Sure, crimes and wars are terrible to build trust in an economy, but the *threat* of wars and crimes aren't so bad. They surely have a net positive effect since they create new needs (army, weapons, police, guards, security systems...) and the jobs that go with them.
+Other reasons would include the economic downfall. Sure, crimes and wars are terrible to build trust in an economy, but the *threat* wars and crimes aren't so bad. They surely have a net positive effect since they create new needs (army, weapons, police, guards, security systems...) and the jobs that go with them.
 
 Finally, evil can be a motivation source: Anger, revenge, injustice are powerful motivators. To be clear, I'm not suggesting that people getting killed or robbed are worth the resulting "lust for retribution". I might be stretching the argument here, but as I'm suffering from bouts of [avolition](https://en.wikipedia.org/wiki/Avolition) (I've been writing this for like 4 months...), I feel like every source of motivation is worth mentioning.
 
-In a nutshell, eliminating evilness would inevitably bring down other aspects of society with it. Things like police, armies, weapons, security systems would be rendered useless. It will also remove the use of aspects within ourselves, like wariness, the ability to recognizing lies or to avoid misinformation.
+In a nutshell, eliminating evilness would inevitably bring down other aspects of society with it. Things like police, armies, weapons, security systems would be rendered useless. It will also remove the use of aspects within ourselves, like wariness, the ability to recognize lies or to avoid misinformation.
 
 You have the right to think it's a good thing, to me, it's too risky and naive not to maintain and improve all of these, let alone discarding them. I still want to reduce crimes and wars as much as possible though, we just need to think everything through, and with some planning, maybe everything I just said isn't a fatality.
 
@@ -167,7 +167,7 @@ We don't have a choice to maintain a certain level of pressure. In effect, since
 
 This could take the form of "beneficial wickedness" (I'm not good at naming things, in case you haven't noticed). Basically, it's based on the white hats in computer security.
 
-They're a group of people that looks for exploits and weaknesses in computer systems, not for their own benefits, but to reinforce them, and bounty, sometimes.
+They're a group of people that look for exploits and weaknesses in computer systems, not for their own benefits, but to reinforce them, and bounty, sometimes.
 
 If we generalized this culture of ethical hacking, we could have a non-evil pressure force to maintain our defensive and offensive capabilities. Actually, I think it'd be interesting to enforce it even right now as it could help find loopholes in our laws, flaws in information vetting...
 
@@ -175,6 +175,6 @@ You might argue that we don't need bounties, that a good citizen would report ex
 
 ## <ins>Conclusion:</ins>
 
-Abolishing evil is a noble but unobtainable goal, if we could, it would be beneficial but also lead to losing valuable skills and knowledge regarding our defenses against nefarious acts.
+Abolishing evil is a noble but unattainable goal, if we could, it would be beneficial but also lead to losing valuable skills and knowledge regarding our defenses against nefarious acts.
 
 Hopefully, we may mitigate this issue by having preventive measures and replicating a bounty system *à la* white hats. Note, the main purpose of these measures is to prepare society against harmful events and identify security flaws. It means they could (and should) be implemented right now.
