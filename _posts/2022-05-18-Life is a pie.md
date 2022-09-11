@@ -77,4 +77,4 @@ If all this isn't enough, it is with deep sorrow that I have to inform you I'm i
 
 [^2]: For the non-readers that believe in destiny and might get angry at this sentence, you have to acknowledge that there is some amount of random noise in day-to-day life. Otherwise, feel free to join the many groups I've upset with my writing.
 
-[^3]: If you're a soothsayer, refer to the previous foot node.
+[^3]: If you're a soothsayer, refer to the previous footnote.
