@@ -2,10 +2,10 @@
 layout: post
 title: "Life is a pie"
 description: "And you won't get a slice"
-date:   2022-05-18
-categories: ["Understand"]
+date:   2022-09-11
+categories: ["Create"]
 icon: "fas fa-chart-pie"
-thumbnail: /static/posts_img/diag1.png
+thumbnail: /static/posts_img/robot_insta.jpg
 images:
  - image_path: /static/posts_img/diag1.png
  - image_path: /static/posts_img/diag2.png
