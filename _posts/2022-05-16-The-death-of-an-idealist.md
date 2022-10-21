@@ -7,7 +7,7 @@ categories: ["Others"]
 icon: "fas fa-cross"
 thumbnail: /static/posts_img/sprout.jpg
 images:
- - image_path: /static/posts_img/burger_bun.jpg
+ - image_path: /static/posts_img/giftbox.jpg
  - image_path: /static/posts_img/frozen_heart.jpg
  - image_path: /static/posts_img/mountain.jpg
  - image_path: /static/posts_img/sprout.jpg
