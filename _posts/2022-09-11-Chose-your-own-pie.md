@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Life is a pie"
-description: "And you won't get a slice"
+title: "Chose your own pie"
+description: "Buy you won't get a slice of mine!"
 date:   2022-09-11
 categories: ["Create"]
 icon: "fas fa-chart-pie"
