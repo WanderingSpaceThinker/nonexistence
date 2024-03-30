@@ -25,6 +25,5 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-gist
 
 exclude: [README.md, Gemfile, Gemfile.lock]
