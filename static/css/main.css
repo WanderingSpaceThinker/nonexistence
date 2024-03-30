@@ -386,3 +386,40 @@ p.legend {
         padding-right: 40px;
     }
 }
+
+.progress_container {
+    position: fixed;
+    bottom: 95px;
+    left: 35px;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.5s;
+}
+
+@media (min-width: 991px) {
+.progress_container {
+    left: 20%;
+}
+}
+
+svg {
+    position: absolute;
+    transform: rotate(270deg);
+    width: 40px;
+    height: 40px;
+}
+
+svg circle {
+    cx: 20px;
+    cy: 20px;
+    r: 15px;
+    stroke: rgba(0,0,0,0.1);
+    stroke-width: 5px;
+    stroke-linecap: round;
+    fill: transparent;
+}
+
+svg .progress-bar {
+    stroke: #009691;
+    transition: stroke-dashoffset 0 ease-in-out;
+}
