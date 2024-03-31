@@ -12,7 +12,7 @@ images:
  - image_path: /static/posts_img/hippie.jpg
 ---
 
-*Before we begin, please check the [disclaimer]({{site.baseurl}}/others/2021/02/02/Disclaimer.html)... Done already ? Alright, let's dive in.*
+*Before we begin, please check the [disclaimer]({{site.baseurl}}/others/2021/02/02/Disclaimer.html)... Done already? Alright, let's dive in.*
 
 For the universe, there is no good, no bad, no justice, no sadness, no joy in the dark void, no grief in the cold rocks and no pain in the (more or less) glowing (more or less) gas (more or less) spheres out there. The universe doesn't hold any values or feelings.
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hello there, Internet dweller !
+## Hello there, Internet dweller!
 
 <br>
 
